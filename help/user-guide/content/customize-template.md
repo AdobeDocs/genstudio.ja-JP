@@ -3,9 +3,9 @@ title: テンプレートのカスタマイズ
 description: GenStudioのカスタムテンプレートを作成する方法を説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,8 @@ ht-degree: 0%
 
 _Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテンプレートを調整できます。 Handlebars 構文では、コンテンツプレースホルダーとして二重中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
 
-## テンプレート構造
-
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->
-
-GenStudioで使用するHTMLテンプレートが準備されていない場合は、まず、HTMLタグ `DOCTYPE`、`html`、`head` および `body` を使用してメールの構造を定義できます。 CSS スタイルを含めて、メールの外観をカスタマイズできます。
+-->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,13 +31,15 @@ GenStudioで使用するHTMLテンプレートが準備されていない場合�
 </html>
 ```
 
+[ テンプレートの例 ](#template-examples) を参照してください。
+
 >[!TIP]
 >
->次のいくつかの節では、メールフィールドのコンテンツプレースホルダーを追加し、不要な要素をプレビューから非表示にし、静的コンテンツへのリンクを管理します。 テンプレートの準備が整ったら、[GenStudioにアップロード ](use-templates.md#upload-a-template)、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
+>次のいくつかの節では、メールフィールドのコンテンツプレースホルダーを追加します。例テンプレート、不要な要素をプレビューから非表示、静的コンテンツへのリンクの管理を参照してください。 テンプレートの準備が整ったら、[GenStudioにアップロード ](use-templates.md#upload-a-template)、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
 
 ## コンテンツプレースホルダー
 
-テンプレートの先頭または本文内では、ハンドルバー構文を使用して、GenStudioでメールに実際のコンテンツを入力する必要があるコンテンツプレースホルダーを挿入できます。 GenStudioは、フィールド名に基づいてコンテンツプレースホルダーを認識し、自動的に解釈します。
+テンプレートの head または body 内では、Handlebars 構文を使用して、テンプレートに実際のコンテンツを入力する必要があるGenStudioのコンテンツプレースホルダーを挿入できます。 GenStudioは、フィールド名に基づいてコンテンツプレースホルダーを認識し、自動的に解釈します。
 
 例えば、`{{ headline }}` を使用して、メールのヘッドラインを配置する場所を指定できます。
 
@@ -49,27 +47,68 @@ GenStudioで使用するHTMLテンプレートが準備されていない場合�
 <div>{{ headline }}</div>
 ```
 
+### フィールド名
+
 カスタムテンプレートで許可されるフィールドの最大数は 20 です。
 
-**認識されたフィールド名**:
+#### 認識されたフィールド名
+
+次の表に、テンプレートへの母集団に対してGenStudioで認識されるフィールド名を示します。
 
 | フィールド | 役割 | チャネルテンプレート |
 | -------------- | ---------------------- | -------------------- |
-| `pre_header` | プリヘッダー | email |
-| `headline` | 見出し | メールソ <br> シャル広告 |
-| `body` | 本文コピー | メールソ <br> シャル広告 |
-| `cta` | コールトゥアクション | メールソ <br> シャル広告 |
-| `on_image_text` | 画像テキスト上 | ソーシャル広告 |
-| `image` | 画像 | メールソ <br> シャル広告 |
-| `brand_logo` | 選択したブランドのロゴ | ソーシャル広告 |
+| `pre_header` | プリヘッダー | 電子メール （推奨） |
+| `headline` | 見出し | メール（推奨） <br> メタ広告 |
+| `body` | 本文コピー | メール（推奨） <br> メタ広告 |
+| `cta` | コールトゥアクション | メール（推奨） <br> メタ広告 |
+| `on_image_text` | 画像テキスト上 | メタ広告（推奨） |
+| `image` | 画像 | メール（推奨） <br> メタ広告（推奨） |
+| `brand_logo` | 選択したブランドのロゴ | メタ広告 |
 
->[!IMPORTANT]
+GenStudioは、特定のフィールドをテンプレートに自動的に入力するので、テンプレートデザインに含める必要はありません。
+
+* `subject` フィールド （メールテンプレート）
+* `headline`、`body`、`CTA` の各フィールド（メタ広告テンプレート）
+
+>[!WARNING]
 >
->GenStudioは、[!DNL Create] ールプロセス中にメールテンプレートに `subject` フィールドを自動的に提供するので、メールテンプレートに「件名」フィールドを含める必要はありません。
+>instagram広告の場合、生成されたヘッドラインは最終的なエクスペリエンスには表示されません。
 
-+++例：基本テンプレート
+#### 手動フィールド名
 
-次に、メールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline` および `image` プレースホルダーが含まれており、メール生成プロセス中にGenStudioでコンテンツを挿入するために使用されます。
+その他のすべてのフィールド名は、手動で入力されたフィールドとして扱われます。 セクションを編集可能にする場合は、編集するセクションの周囲に二重かっこを追加します。
+
+> 例：``{{customVariable}}`` （customVariable は手動で編集可能なセクションです）
+
+## セクションまたはグループ
+
+_セクション_ このセクションのフィールドには高い一貫性が必要であることをGenStudioに伝えます。 この関係を確立すると、AI がセクションのクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
+
+フィールド名に任意の接頭辞を使用して、フィールドがセクションまたはグループの一部であることを示します。
+
+例えば、ハイライトされた領域に表示されるコンテンツにスポットライトを当てることができます。
+
+* `spotlight_headline`
+* `spotlight_body`
+
+各セクションには、各フィールドタイプを 1 つだけ含めることができます。 上記の例では、`spotlight` プレフィックスに `spotlight_headline` フィールドを 1 つだけ含めることができます。
+
+テンプレートには、最大で次の 3 つのセクションを含めることができます。
+
+* `headline`
+* `body`
+* `spotlight_headline`
+* `spotlight_body`
+* `news_headline`
+* `news_body`
+
+GenStudioは `spotlight_headline` が `news_body` よりも `spotlight_body` と密接に関係していることを理解しています。
+
+## テンプレートの例
+
++++例：1 つのセクションを持つメールテンプレート
+
+次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [ プレースホルダー ](#content-placeholders) が含まれており、メール生成プロセス中にGenStudioでコンテンツを挿入するために使用されます。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -99,35 +138,9 @@ GenStudioで使用するHTMLテンプレートが準備されていない場合�
 
 +++
 
-### 背景画像
++++例：複数のセクションを持つメールテンプレート
 
-Meta 用に広告をデザインする場合は、テキストとブランドロゴオーバーレイで補完される背景画像を使用することが重要です。 画像の適切な拡大縮小を保証するために、メタ広告テンプレートでは `aspect ratio` を指定する必要があります。 このコンテキストでは、1 つの画像フィールドのみを指定できます。
-
-## セクションまたはグループ
-
-_セクション_ セクションに属するフィールドには高度なコヒーレンスが必要であることをGenStudioに通知する手段を提供します。 この関係を確立すると、AI がセクションのクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。 テンプレートには、最大 3 つのセクションを含めることができます。
-
-フィールド名に任意の接頭辞を使用して、このフィールドがセクションまたはグループの一部であることを示します。 例えば、ハイライトされた領域に表示されるコンテンツにスポットライトを当てることができます。 この領域のコンテンツを、共通のプレフィックスで識別するように選択できます。
-
-- `spotlight_headline`
-- `spotlight_body`
-
-各セクションは、1 つのフィールドタイプを 1 つだけ持つことができます。 例えば、上記の `spotlight` プレフィックスが付いたサンプル グループでは、`spotlight_headline` フィールドを 1 つだけ持つことができます。
-
-複数のセクションがある場合（最大 3 つ）:
-
-- `headline`
-- `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
-
-GenStudioは `spotlight_headline` が `news_body` よりも `spotlight_body` と密接に関係していることを理解しています。
-
-+++例：複数のセクションを持つテンプレート
-
-以下は、上記の例と同じHTMLテンプレートですが、さらに 2 つのセクションがあります。 ヘッドには、ポッドのスタイルを設定するためのインライン CSS が含まれています。 本文では、プレフィックスを使用してコンテンツプレースホルダーを持つ 2 つのポッドを使用します。
+以下は、上記の例と同じHTMLテンプレートですが、さらに 2 つのセクションがあります。 ヘッドには、グループのスタイル設定に使用するインライン CSS が含まれています。 本文では、プレフィックスを使用して、[ コンテンツプレースホルダー ](#content-placeholders) を含む 2 つのグループを使用します。
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -177,9 +190,65 @@ GenStudioは `spotlight_headline` が `news_body` よりも `spotlight_body` と
 
 +++
 
++++例：メタ広告テンプレート
+
+次に、メタ広告テンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のインライン CSS が含まれています。 本文では、プレフィックスを使用して [ コンテンツプレースホルダー ](#content-placeholders) を使用します。
+
+```handlebars {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adobe</title>
+    <style>
+        .ad-container {
+            width: 300px;
+            border: 1px solid #ddd;
+            padding: 16px;
+            font-family: Arial, sans-serif;
+        }
+        .ad-image {
+            width: 100%;
+            height: auto;
+        }
+        .ad-headline {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 12px 0;
+        }
+        .ad-body {
+            font-size: 14px;
+            margin: 12px 0;
+        }
+        .ad-cta {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="ad-container">
+    <img src="{{ image }}" alt="Ad Image" class="ad-image">
+    <div class="ad-headline">"{{ headline }}"</div>
+    <div class="ad-body">"{{ body }}"</div>
+    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+</div>
+
+</body>
+</html>
+```
+
++++
+
 ## テンプレートのプレビュー
 
-メールテンプレートには、GenStudioでプレビューする必要のない特別なコンテンツが含まれている場合があります。 組み込みのヘルパーを使用して、このコンテンツの表示を制御できます。このヘルパーは、Handlebars テンプレート言語の特別な式で、特定のアクションの実行に役立ちます。
+組み込みヘルパー（特定のアクションを実行する Handlebars テンプレート言語の特別な式）を使用して、特別なコンテンツの表示を制御します。 例えば、プレビューリンクをクリーンに保ちながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを追加できます。
 
 テンプレートのレンダリング時には `_genStudio.browser` の値が設定され、テンプレートの書き出し時には `genStudio.export` の値が設定されます。 条件付きラッパーを使用して、メールの上部に特定のコンテンツを含めることもできます。例えば、テンプレートを書き出しに使用する場合です。
 
@@ -189,7 +258,7 @@ GenStudioは `spotlight_headline` が `news_body` よりも `spotlight_body` と
 {{/if}}
 ```
 
-もう 1 つの例として、GenStudioでメールテンプレートをプレビューする際に、トラッキングコードを使用できないようにすることがあります。 次の例では、プレビューリンクをクリーンな状態に保ちながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを追加する方法を示します：
+もう 1 つの例として、GenStudioでテンプレートをプレビューする際に、トラッキングコードを使用しないようにすることがあります。 次の例では、プレビューリンクをクリーンな状態に保ちながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを追加する方法を示します：
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
