@@ -2,7 +2,7 @@
 title: GenStudioでのブランド検証
 description: GenStudioでのビルトインのブランド検証システムの仕組みを説明します。
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -59,7 +59,7 @@ _ブランド検証パネルでは_ 表示するガイドラインをフィル�
 * **All guidelines**—_Show failed and passed guidelines_：バリアントが測定されるすべてのガイドラインを表示します。
 * **成功したガイドライン** - _成功したガイドラインを表示_ ブランド検証に成功したガイドラインのみを表示します。
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

@@ -4,9 +4,9 @@ description: ガイドライン（[!DNL Brands]、 [!DNL Products]、 [!DNL Pers
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ GenStudioにブランドを追加するには、[ ブランドガイドをアッ
 
 独自のブランドドキュメントをアップロードして、GenStudioに新しいブランドを追加できます。
 
-サンプルブランドガイドを表示するには、[[!DNL Brands]](/help/user-guide/guidelines/brands.md) を参照してください。
+詳しくは、[[!DNL Brands]](/help/user-guide/guidelines/brands.md) を参照してください。
 
 **ブランドドキュメントをアップロードするには**:
 
@@ -110,7 +110,7 @@ GenStudioで [!DNL Products] を追加して、コンテンツの作成時に製
    1. 「_ギャラリー_」タブでギャラリーから画像を選択します。
 1. **[!UICONTROL 画像を使用]** をクリックします。
 
-   作成した [!DNL Products] を表示するには、「_製品_」パネルの上部付近にある背面矢印をクリックして、_[!DNL Products]_ホームに戻ります。
+   作成した [!DNL Products] を表示するには、「_製品_ ビューの上部付近にある背面矢印をクリックして、_[!DNL Products]_ホームに戻ります。
 
 ### [!DNL Products] の管理
 
@@ -137,7 +137,7 @@ GenStudioで [!DNL Persona] を追加すると、作成するコンテンツを�
    1. 「_ギャラリー_」タブでギャラリーから画像を選択します。
 1. **[!UICONTROL 画像を使用]** をクリックします。
 
-作成した [!DNL Personas] を表示するには、「_ペルソナ_ パネルの上部付近にある背面矢印をクリックして、_[!DNL Personas]_ホームに戻ります。
+作成した [!DNL Personas] を表示するには、「_ペルソナ_ ビューの上部付近にある背面矢印をクリックして、_[!DNL Personas]_ホームに戻ります。
 
 ### [!DNL Personas] の管理
 

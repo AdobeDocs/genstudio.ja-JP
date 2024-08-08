@@ -2,9 +2,9 @@
 title: アセットの詳細
 description: GenStudioでは、検索性とパフォーマンストラッキングのために、リッチなメタデータを使用して承認済みコンテンツを格納します。
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 7%
 
 ---
@@ -46,8 +46,8 @@ GenStudioでは、検索性とパフォーマンストラッキングのため�
 | ------------- | ----------- | -------- | -------- |
 | キャンペーン名（プロジェクト名） | アセットと共に取得され保存されるデフォルトのメタデータ | ○ | × |
 | ブランド名 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) がGenStudioに追加され、使用するために公開されました | ○ | × |
-| 製品 | [[!DNL Products]](/help/user-guide/guidelines/products.md) がGenStudioに追加されて使用されるようになりました | ○ | × |
-| 登場人物 | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) がGenStudioに追加されて使用されるようになりました | ○ | × |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) がGenStudioに追加されて使用されるようになりました | ○ | × |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) がGenStudioに追加されて使用されるようになりました | ○ | × |
 | チャネル | メールやメタ広告など、アセットが使用されるGenStudioのコンテンツタイプ | ○ | × |
 | 期間 | 四半期、シーズン、年など、使用したアセットの期間。 例：`Winter 2023` | ○ | × |
 | 地域  | アセットが使用される地域。 例：`North America`, `APAC`, `Italy` | ○ | × |
@@ -66,7 +66,7 @@ GenStudioでは、検索性とパフォーマンストラッキングのため�
 
 >[!TIP]
 >
->アセットの詳細は [!DNL Insights] からも表示できます。 インサイトは、エクスペリエンス全体にわたる使用状況の統計とパフォーマンスコンテキストを提供します。 _[!DNL Insights]_で、「**[!UICONTROL Assets]**」セクションを選択します。
+>アセットの詳細は [!DNL Insights] からも表示できます。 [!DNL Insights] は、エクスペリエンス全体にわたる使用状況の統計とパフォーマンスコンテキストを提供します。 _[!DNL Insights]_で、「**[!UICONTROL Assets]**」セクションを選択します。
 
 <!-- ## History
 

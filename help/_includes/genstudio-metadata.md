@@ -1,8 +1,8 @@
 ---
-source-git-commit: 82615ff94cf2f0daf83062cf5c6547a2887d010e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 28%
+source-wordcount: '112'
+ht-degree: 26%
 
 ---
 # GenStudioのメタデータフィールド
@@ -13,8 +13,8 @@ ht-degree: 28%
 | ------------- | ----------- | -------- |
 | キャンペーン名（プロジェクト名） | アセットと共に取得され保存されるデフォルトのメタデータ | ○ | × |
 | ブランド名 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) がGenStudioに追加され、使用するために公開されました。 | ○ | × |
-| 製品 | [[!DNL Products]](/help/user-guide/guidelines/products.md) をGenStudioに追加して使用できるようになりました。 | ○ | × |
-| 登場人物 | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)といったアドバイスを耳にしたことがある方もいるでしょう。をGenStudioに追加して使用します。 | ○ | × |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) をGenStudioに追加して使用できるようになりました。 | ○ | × |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)といったアドバイスを耳にしたことがある方もいるでしょう。をGenStudioに追加して使用します。 | ○ | × |
 | チャネル | アセットを使用するGenStudioのコンテンツタイプ （メール広告、メタ広告など）。 | ○ | × |
 | 期間 | 四半期、シーズン、年など、使用したアセットの期間。 例：`Winter 2023` | ○ | × |
 | 地域  | アセットが使用される地域。 例：`North America`, `APAC`, `Italy` | ○ | × |

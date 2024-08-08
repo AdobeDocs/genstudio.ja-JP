@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudioユーザーガイド
 description: GenStudioとジェネレーティブ AI を使用して、コンテンツのサプライチェーンをパーソナライズする方法を説明します。
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 # GenStudio ユーザーガイド
 
-ジェネレーティブ AI を活用したAdobe GenStudioは、コンテンツサプライチェーンに革命をもたらし、ブランドエッセンスを体現するパーソナライズされたエクスペリエンスの作成、測定、管理を可能にします。
+GenStudioは、Adobeのジェネレーティブ AI テクノロジーを活用した包括的なマーケティングソリューションです。 これにより、マーケターは、生成から配信およびパフォーマンス測定に至るまでのコンテンツサプライチェーンを合理化できます。
 
-GenStudioを使用すると、マーケターやチームは、ブランドガイドラインに従って高品質のコンテンツを簡単に生成して調整できます。 GenStudioはマーケティングライフサイクルを促進し、貴重な時間とリソースを節約します。
+GenStudioを使用すると、ジェネレーティブ AI を活用して、コンテンツの作成を高速化し、コンテンツを簡単に見つけて再利用し、オムニチャネルキャンペーンを成功に導くことができます。
 
 ## GenStudioの機能の詳細
 

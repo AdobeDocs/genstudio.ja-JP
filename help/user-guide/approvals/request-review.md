@@ -1,7 +1,7 @@
 ---
 title: レビューと承認のリクエスト
 description: レビューをリクエストします。
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 コンテンツ作成者の場合、ドラフトキャンバスには「**[!UICONTROL 承認を管理]** ボタンが表示されます。 このボタンを使用すると、レビューおよび承認プロセス全体を通して承認者を削除または追加できるポップアップを開くことができます。
 
-承認者名は、承認要求が開始されると、[!DNL Notified] の状態でこのウィンドウに表示されます。 GenStudioの承認タスクの概要については、[ コンテンツの承認 ](./approve-content.md) を参照してください。
+承認者名は、承認リクエストが開始された後、[!DNL Notified] のステータスでこのビューに表示されます。 GenStudioの承認タスクの概要については、[ コンテンツの承認 ](./approve-content.md) を参照してください。
 
 
 
