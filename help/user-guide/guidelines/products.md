@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Products]
 description: GenStudio [!DNL Products] 、画像、説明、価値提案など、製品のあらゆる側面を取り込むことで、製品の長所に焦点を当て、一貫性を保ったメッセージを提供する適切なコンテンツを作成します。
 feature: Products Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ GenStudioで商品を追加または変更する方法については、[ ガイ
 
 次の表に、ガイドラインの各カテゴリ [!DNL Products] 関連例を示します。
 
-| ガイドラインカテゴリ | ガイドラインの例 |
-| ------------------| :---------- |
-| 説明 | `Brand Uno's Empower Outreach is a product/service that enables under-supported youth to apply for, obtain transportation for, and retain employment in "transport-desert" inner-city areas of McBellville.` |
-| 価値提案 | `Comprehensive and knowledgeable assistance to support youth in surmounting obstacles to securing long term employment.` |
+| ガイドラインカテゴリ | 説明 | ベストプラクティス |
+| ------------------| ----------------| :---------- |
+| 製品名 | 企業が顧客に提供するサービス、ソリューションまたは有形商品を指します | 商品名が明確で、商品の内容が分かりやすいようにする <br><br>_例_:「Photoshop」（SaaS 社） <br> 「経営管理のマスター」（教育機関） <br> 「資産運用プラン」（金融会社） <br> 「Home Essentials Decor」（小売） |
+| 説明 | 製品とその目的を明確に示す簡潔な概要 | 簡潔な言語を使用して製品（1 ～ 2 文）を明確に説明し、潜在的なユーザーに明確なコンテキストを提供します。 詳細な機能情報や仕様を含めないでください。<br><br>_例_:「Product XYZ は汎用性の高いクラウドベースのプロジェクト管理ツールで、チームのタスク整理、進捗の追跡、シームレスな共同作業を支援します。 XYZ 社は、中小企業や大企業に最適で、最初から最後までプロジェクトを管理するためのシンプルで使いやすいインターフェースを提供します。」 |
+| 価値提案 | 製品がどのように問題を解決し、特定のメリットをもたらし、価値を提供するかを説明する明確な概要（10 文未満） | 競合他社との差別化を強調する製品のメリットやメリットを、説得力のある言葉で明確に定義します。<br><br> リストの先頭に最も重要な値の prop を含む値の提案をリスト形式で指定します。<br><br>_例_:「XYZ の価値提案：<br><li>プロジェクト管理タスクを 1 つの直感的なプラットフォームで一元化し、複数のツールを使用する必要をなくす</li><li>チームの生産性を最大 30% 向上</li><li>お気に入りのツールとシームレスに統合し、スムーズなワークフローを実現</li><li>リアルタイムのアップデートとコラボレーション機能を提供し、チームの連携を維持できます」</li> |
+| 追加の詳細 | パーソナライズされたコンテンツの生成に重要な情報の取り込み | コンテンツのパーソナライゼーションに不可欠な追加の詳細（1 ～ 3 文）を提供し、情報がコンテンツの有効性に直接貢献するようにします。<br><br> 明確さと簡潔さに重点を置きます。 |

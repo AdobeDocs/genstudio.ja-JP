@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] 、お客様の関心、問題点、好み、行動特性を取り込み、お客様のセグメントを真に表したものです。
 feature: Personas Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ GenStudioでペルソナを追加または変更する方法については、[ 
 
 次の表に、ガイドラインの各カテゴリ [!DNL Personas] 関連例を示します。
 
-| ガイドラインカテゴリ | ガイドラインの例 |
-| ------------------| :---------- |
-| 説明 | `Brand Uno's Curious Jobseekers are curious about finding a job within their immediate area and need assistance with learning how to find applicable positions, interviewing successfully, and researching transportation options. This prep work will prepare the Curious Jobseeker to take the next step in applying to fitting job opportunities and entering the interview process with confidence.` |
-| メッセージング設定 | `Curious Jobseekers respond to communications and marketing messaging when they feel the Empower Outreach program's capabilities are affordable and successful in helping them obtain the job they desire. They enjoy visuals/graphics and short punchy headlines crafted to get their attention.` |
+| ガイドラインカテゴリ | ガイドラインの例 | ベストプラクティス |
+| ------------------| :---------- |-------------|
+| ペルソナ名 | 生成されたマーケティング資料がカスタマイズされる特定のオーディエンスセグメントを表します | 明確で簡潔なペルソナ名を追加します。<br><br>_例_:「小売の CMO」、「看護生の見込み」、「貯蓄口座の新規クライアント」 |
+| 説明 | 主な特徴、ニーズおよび行動を定義する簡単な概要 | 簡潔な言語を使用して、ペルソナと一意のオーディエンスのセグメント化（1 ～ 2 文）を明確に説明します。<br><br> このオーディエンスセグメントを推進する要素（ニーズ、コア特性など）に焦点を当てる<br><br> 詳細な人口統計データや追加情報を含まない、簡潔な説明を維持します。 |
+| メッセージング設定 | 特定のペルソナの共感を得られる優先する通信スタイルの明確な概要 | ペルソナがコミュニケーションを受信し、やり取りを好む方法に重点を置いて、ペルソナ固有のメッセージング要件と動機を定義します。<br><br> 特定のメッセージング環境設定をリストで指定します（各リスト項目 1 ～ 2 文）。<br><br> リストの文の数を合計 10 文以下に制限し、最も重要な情報がハイライト表示されるようにします。<br><br>_例_:「技術に詳しいプロフェッショナル向けのメッセージング環境設定：<li>簡潔で専門用語を使わないコミュニケーションを好む。</li><li>は、データに基づくインサイトと実用的なアドバイスに積極的に対応します。</li><li>複雑な情報をすばやく把握するために、インフォグラフィックやチャートなどのビジュアルが望まれます。<li><li>正直で率直なアプローチで透明性を重視します。</li>」 |
+| 追加の詳細 | パーソナライズされたコンテンツの生成に重要な情報の取り込み | コンテンツのパーソナライゼーションに不可欠な追加の詳細（1 ～ 3 文）を提供し、情報がコンテンツの有効性に直接貢献するようにします。<br><br> 明確さと簡潔さに重点を置きます。 |
