@@ -3,9 +3,9 @@ title: GenStudio用のメールテンプレートの準備
 description: GenStudioのカスタムメールテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 0%
 
 メタ広告テンプレートを準備する前に、GenStudioに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
 
-> **例**：メールテンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
+**例**：メールテンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
+
+ガイドラインがGenStudioに追加されていない場合は、デフォルトが使用されます。
 
 ## メールテンプレートのコーディング
 

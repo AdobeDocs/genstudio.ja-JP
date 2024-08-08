@@ -3,9 +3,9 @@ title: ' [!DNL Insights] のデータ列'
 description: グリッド内の各列が何を表してい  [!DNL Insights]  かを理解します。
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 使用可能な列は次のとおりです。
 
-| 列グラフ | 説明 |
+| 列 | 説明 |
 | ----------- | ------------ |
 | 予算 | キャンペーンの全体的な予算。 |
 | Campaign | リードの生成やエンゲージメントの増加など、単一の目的を達成するための一連の広告およびエクスペリエンス。 |
@@ -34,4 +34,3 @@ ht-degree: 3%
 | インプレッション | 登録済みのインプレッションを通じてキャンペーン広告が閲覧者に表示された回数。 |
 | 目的 | キャンペーンまたはプロジェクトの目標。 キャンペーンまたはプロジェクトを作成する際の目的を設定します。<br> 目標タイプには、`Awareness`、`Traffic`、`Engagement`、`Leads`、`App promotion`、`Sales` があります。 |
 | 費用 | キャンペーン内のすべての広告に対して使用された合計金額（米ドル）。 |
-| ビデオの再生 | ビデオの再生が開始された回数。 ビデオの再生は、ビデオの自動再生が開始されたときや、ビデオがクリックされて再生されたときに発生します。 |

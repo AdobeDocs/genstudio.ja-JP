@@ -2,9 +2,9 @@
 title: GenStudioでのブランド検証
 description: GenStudioでのビルトインのブランド検証システムの仕組みを説明します。
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ _ブランド検証パネルでは_ 表示するガイドラインをフィル�
 
 ## ブランドの整合性の向上
 
-生成されるコンテンツの効果を最大限に高め、一貫したブランドアイデンティティを維持するには、_ブランドガイドラインのチェック_ および _ブランド検証パネル_ を使用します。 [ ブランドガイドライン ](brands.md) に合わせて、特定のフラグメントを手動で変更したり [ 絞り込んだバリアントを生成 ](/help/user-guide/create/generate-variants.md) したりできます。
+生成されるコンテンツの効果を最大限に高め、一貫したブランドアイデンティティを維持するには、_ブランドガイドラインのチェック_ および _ブランド検証パネル_ を使用します。 [ ブランドガイドライン ](brands.md) に合わせて、特定のフラグメントを手動で変更できます。
 
 **生成されたコンテンツバリアントのブランドの整合性を向上させるには**:
 

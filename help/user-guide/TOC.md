@@ -4,9 +4,9 @@ breadcrumb-title: ユーザーガイド
 user-guide-description: オンブランドのアセットをすばやく見つけて生成する方法、バリエーションを作成する方法、リアルタイムのコンテンツパフォーマンスインサイトに基づいてエクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 6a0b8371ac48c4861c1264b50fc2766f2d1f6beb
+source-git-commit: 33f53659894bc53e9a8e0740b0fff5621907bf15
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 11%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 11%
    + [ブランドの検証](guidelines/brand-validation.md)
 + 作成 {#create}
    + [[!DNL Create] の概要](create/overview.md)
-   + [バリアントを生成](create/generate-variants.md)
 + のレビューと承認 {#approve}
    + [レビューと承認の概要](approvals/overview.md)
    + [コンテンツのレビューと承認をリクエスト](approvals/request-review.md)

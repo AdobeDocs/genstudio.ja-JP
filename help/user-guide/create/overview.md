@@ -2,9 +2,9 @@
 title: 概要  [!DNL Create]
 description: GenStudio [!DNL Create] のジェネレーティブ AI を使用して、高パフォーマンスのオンブランドコンテンツを迅速に生成します。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '481'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ GenStudio [!DNL Create] を使用すると、次のチャネルのコンテン�
 <!-- * Social media images and ads
 * Display ads -->
 
-GenStudio[ ガイドライン ](/help/user-guide/guidelines/overview.md)、[ コンテンツ ](/help/user-guide/content/overview.md)、[ レビューと承認 ](/help/user-guide/approvals/overview.md) および [ インサイト ](/help/user-guide/insights/overview.md) の機能に加えて、[!DNL Create] の機能により、ブランドに合わせた効果的なマーケティングコンテンツの作成が容易になります。
+GenStudio[ ガイドライン ](/help/user-guide/guidelines/overview.md)、[!DNL Brands]、[!DNL Products]、[!DNL Personas]—[ コンテンツ ](/help/user-guide/content/overview.md)、[ レビューと承認 ](/help/user-guide/approvals/overview.md)、[ インサイト ](/help/user-guide/insights/overview.md) の機能に加えて、効果的なブランドに合致し [!DNL Create] マーケティングコンテンツの作成を容易にします。
 
 ## [!DNL Create] のユースケース
 
@@ -46,25 +46,23 @@ GenStudio[ ガイドライン ](/help/user-guide/guidelines/overview.md)、[ コ
          <strong>Re-use existing content</strong>
          </a>
       </div>
-   </td> -->
+   </td>
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/generate-variants.md">
-      <img alt="コンテンツのバリアントの生成" src="../../assets/icons/icon-template.svg" width="35">
+      <a href="../create/generate-variants.md">
+      <img alt="Generate variants of approved content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
          <a href="../create/generate-variants.md">
-         <strong> コンテンツのバリアントの生成 </strong>
+         <strong>Generate variants of approved content</strong>
          </a>
       </div>
-   </td>
+   </td> -->
 </tr>
 </table>
 
-GenStudio[!DNL Create] 次のユースケースに対応します。
-
-* **新しいコンテンツの作成** – このユースケースでは、定義済みの [ ガイドライン ](/help/user-guide/guidelines/overview.md) （[!DNL Brands]、[!DNL Products] および [!DNL Personas]）とインスピレーションのコンテンツを使用して、ブランドに合わせたコンテンツの作成を通知します。
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. -->
-* **コンテンツのバリエーションを生成** – このユースケースでは、ターゲット [ 顧客ペルソナ ](/help/user-guide/guidelines/personas.md) に基づいてコンテンツのバリエーションを生成します。 この機能を使用すると、パフォーマンスの高いコンテンツを実験および検出でき、コンテンツのクロスチャネル変換（例えば、メールをディスプレイ広告に変換）が可能になります。
+GenStudioを使用すると、マーケターは **新しいマーケティングコンテンツを作成** できます。 このユースケースでは、定義済みの [ ガイドライン ](/help/user-guide/guidelines/overview.md) とインスピレーション画像を使用して、ブランドに合わせたコンテンツの作成を通知します。
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+* **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] 機能
 
@@ -72,46 +70,39 @@ GenStudio [!DNL Create] は、GenStudioの様々なコンポーネントを統�
 
 ### ドラフト
 
-[!DNL Create] の _最近の作業_ セクションで、最近のすべてのドラフトにアクセスして管理します。 以前のドラフトの [ バリアントを生成 ](/help/user-guide/create/generate-variants.md) するか、作業を完了して [[!DNL Content]](/help/user-guide/content/overview.md) に公開する準備を整えます。
+[!DNL Create] の _最近の作業_ セクションで、最近のすべてのドラフトにアクセスして管理します。 以前の作業を表示して完了し、[[!DNL Content]](/help/user-guide/content/overview.md) に公開する準備を整えます。
+
+進行中のドラフトは自動的に保存されます。 [!DNL Create] ホームに戻ると、「_最近の作業_ セクションが更新され、最新のドラフトが表示されます。 ドラフトごとに、それが _承認済み_ か、まだ _ドラフト_ 形式かを確認できます。
 
 ### テンプレート
 
-ブランドが承認したテンプレートにアクセスすると、[!DNL Create] の _最近使用したテンプレート_ セクションで複数のチャネルにわたるコンテンツを生成できます。 テンプレートを使用すると、コンテンツ作成プロセスを即座に開始でき、定義済みのブランドアイデンティティとの連携が保たれます。
+「今日は何を作成しますか？_で生成するコンテンツチャネルを選択します。_ のセクションでは、コンテンツ生成で使用する、ブランド承認済みのテンプレートにアクセスできます。 テンプレートを使用すると、コンテンツ作成プロセスをすぐに開始でき、定義済みのブランドアイデンティティと連携した状態を保つことができます。
 
-テンプレートは [ で作成および保存  [!DNL Content]](/help/user-guide/content/overview.md) されますが、[!DNL Create] でアクセスできます。
-
-詳しくは、[[!DNL Content]](/help/user-guide/content/overview.md) を参照してください。
+テンプレートは [ にアップロードおよび保存  [!DNL Content]](/help/user-guide/content/overview.md) され、[!DNL Create] からアクセスできます。
 
 ### プロンプト
 
-[ 効果的なプロンプトの作成 ](/help/user-guide/effective-prompts.md) は、[!DNL Create] の生成プロセスの重要な部分です。 新しいコンテンツを作成したり、コンテンツのバリアントを生成したりするには、生成するコンテンツ（またはエクスペリエンス）を説明するプロンプトを記述します。
+[ 効果的なプロンプトの作成 ](/help/user-guide/effective-prompts.md) は、[!DNL Create] の生成プロセスの重要な部分です。
 
-プロンプトを書き込み、_パラメーター_ を追加し、プロンプト領域に説明プロンプトを追加して、**[!UICONTROL 生成]** をクリックします。
-
-[ 有効なプロンプト ](/help/user-guide/effective-prompts.md) を参照してください。
+AI で生成された新しいコンテンツを作成するには、生成するコンテキストまたはエクスペリエンスを説明した [ 説明プロンプト ](/help/user-guide/effective-prompts.md) と、[ ガイドライン ](/help/user-guide/guidelines/overview.md) および [_パラメーター_](#parameters) をプロンプト領域に入力し、「**[!UICONTROL 生成]**」をクリックします。
 
 ### パラメーター
 
-プロンプトエリアでは、[!DNL Brands]、[!DNL Products]、[!DNL Personas] （GenStudio ガイドライン）などの _パラメーター_ または _コンテンツ_ （画像とビデオ）を追加して、生成されたエクスペリエンスを形作ることができます。
+プロンプトエリアでは、[!DNL Brands]、[!DNL Products]、[!DNL Personas] （GenStudio ガイドライン _などの_ パラメーター）やアセットを追加して、生成されたエクスペリエンスを形作ることができます。
 
->[!NOTE]
->
->_パラメーター_ にアップロードされた画像およびビデオは、生成されたバリアントで使用され、バリアント用に生成されたコピーコンテンツ（テキスト）に通知されます。
+_パラメーター_ にアップロードされた画像は、生成されたバリアントで使用され、バリアント用に生成されたコピーコンテンツ（テキスト）に情報を提供します。
 
-これらの追加されたパラメーターは、生成プロセスに [ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを挿入し、ブランドの包括的な ID と一致するように、また該当する画像を使用するように、コンテンツをカスタマイズします。 GenStudioにガイドラインを追加し、コンテンツ作成プロセス中に使用することをお勧めします。ガイドラインは適切なオンブランドコンテンツの作成を大幅に向上させるからです。
+これらの追加されたパラメーターは、生成プロセスに [ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを挿入し、ブランドの包括的な ID に合わせてコンテンツをカスタマイズできるようにします。 GenStudioにガイドラインを追加し、コンテンツ作成プロセス中に使用することをお勧めします。ガイドラインは適切なオンブランドコンテンツの作成を大幅に向上させるからです。
 
 ### ブランドの検証
 
-GenStudioは、（[ ガイドライン ](/help/user-guide/guidelines/overview.md) で定義されている）ブランドの ID の様々な側面に対してブランド検証を実行します。 生成されたコンテンツにはブランド検証情報が表示され、ブランドガイドラインへの準拠が示されます。 この情報を使用して、生成されたエクスペリエンスを改訂または改善し、ブランドとさらに良く一致させることができます。
-
-[ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md) を参照してください。
-
+GenStudioは、（[ ガイドライン ](/help/user-guide/guidelines/overview.md) で定義されている）ブランドの ID の様々な側面に対してブランド検証を実行します。 [ ブランドの検証 ](/help/user-guide/guidelines/brand-validation.md) 生成されたコンテンツの情報を確認できます。これは、ブランドガイドラインへの準拠と、テキストと画像の一貫性を示します。 この情報を使用して、生成されたエクスペリエンスを改訂または改善し、ブランドとさらに良く一致させることができます。
 
 ### レビューと承認
 
-ブランドガイドライン、製品ドキュメント、および組み込みのレビューと承認プロセスを使用して、選択した顧客セグメントに照らし合わせ [!DNL Create's]、コンテンツを入念にレビューおよび検証します。 作成プロセス中に、レビューを依頼、レビューのコメントを追跡、承認を取得します。
+組み込みの [ レビューと承認 ](/help/user-guide/approvals/overview.md) 機能を使用して、作成プロセス中にレビューを勧誘、レビューのコメントを追跡、承認を取得します。
 
-[ レビューと承認 ](/help/user-guide/approvals/overview.md) を参照してください。
+コンテンツバリエーションの生成が完了したら、関係者の承認を得るためにドラフトを送信します。これにより、関係者はドラフトを保存して、マーケティング活動に実装で [!DNL Content] ます。
 
 ## チュートリアル
 

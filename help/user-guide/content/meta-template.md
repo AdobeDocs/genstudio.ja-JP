@@ -3,9 +3,9 @@ title: GenStudio用のメタ広告テンプレートの準備
 description: GenStudioのカスタムメタ広告テンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **例**：メタ広告テンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
 
-ガイドラインがGenStudioに追加されない場合は、デフォルトが使用されます。
+ガイドラインがGenStudioに追加されていない場合は、デフォルトが使用されます。
 
 ## テンプレートのデザイン
 

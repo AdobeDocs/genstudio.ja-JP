@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '890'
 ht-degree: 0%
 
 ---
@@ -35,39 +35,34 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudioで
 
 ## パラメーターを追加
 
-ガイドラインパラメーターを追加すると、コンテンツ生成プロセスが強化されます。これは、メタ広告を生成するための準備における重要な手順です。
+[ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを _パラメーター_ のプロンプト領域に追加すると、コンテンツ生成プロセスが強化されます。これは、メタ広告を生成するための準備における重要な手順です。
 
 **パラメーターとアセットを追加するには**:
 
-1. _パラメーター_ アイコンをクリックしてパラメーターオプションを展開し、参照パラメーターとアセットを追加します。
+1. _パラメーター_ アイコンをクリックして、プロンプト領域を展開します。
 1. 「_パラメーター_」セクションで、ガイドライン（[!DNL Brands]、[!DNL Personas]、[!DNL Products]）を選択して、コンテンツの作成を通知します。
 
    これらのメニューから利用できるブランド、ペルソナ、製品がない場合は、[GenStudioにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) します。
 
-1. 「_コンテンツ_」セクションで、エクスペリエンスで使用するコンテンツ *および* を追加して、コンテンツの生成に影響を与えます。 アセットを追加する方法は 3 つあります。
-   * **[!UICONTROL コンテンツから選択]** をクリックして、既に [!DNL Content] に公開されているアセット（画像またはビデオ）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
+1. 「**[!UICONTROL コンテンツを選択]**」をクリックして、エクスペリエンスで使用するコンテンツを追加 *および* をクリックすると、コンテンツの生成に影響が及びます。
+   * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
    * **[!UICONTROL アップロード]** をクリックしてファイルを参照し、使用するアセットを選択します。 デバイスの参照に加えて、Microsoft OneDrive またはDropboxから読み込むこともできます。
-   * 画像ファイルを「_コンテンツ_」セクションにドラッグ&amp;ドロップします。
+   * アセットを「_コンテンツ_ セクションにドラッグ&amp;ドロップします。
 
-   GenStudio コンテンツからアセットを選択する場合は、[[!DNL Content]](/help/user-guide/content/overview.md) に既に保存されているアセットから選択することになります。 チャネル、製品、言語などでフィルタリングすると、必要なアセットをすばやく見つけることができます。
+パラメーターの追加が完了したら、「_パラメーター_」アイコンを再度クリックすると、プロンプト領域を折りたたむことができます。
 
-パラメーターの追加が完了したら、「*パラメーター*」アイコンを再度クリックすると、「_パラメーター*」セクションと「*コンテンツ_」セクションを折りたたむことができます。
-
-## プロンプトを使用
+## プロンプトを入力
 
 ガイドラインを選択したら、自然言語を使用してプロンプトを作成し、新しいメタ広告エクスペリエンスのコンテンツの生成を開始します。
 
 プロンプトの書き込みについて詳しくは、[ 効果的なプロンプトの書き込み ](/help/user-guide/effective-prompts.md) を参照してください。
 
-**プロンプトを使用するには**:
+**プロンプトを入力するには**:
 
 1. _生成するエクスペリエンスを記述」_ プロンプトボックスにプロンプトを入力します。
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. **[!UICONTROL 生成]** をクリックします。
 
-デフォルトでは、生成された 4 つのバリエーション（追加したプロンプト、ガイドラインおよびコンテンツによってすべて強化）がキャンバスに表示されます。
+デフォルトでは、4 つの生成されたバリエーション（追加したプロンプト、ガイドラインおよびコンテンツによってすべて強化される）が生成され、キャンバスに表示されます。
 
 ## メタ広告チャネルを選択
 
@@ -92,15 +87,13 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudioで
 
 生成される広告を最適化し、ブランドアイデンティティに厳密に準拠するには、[_ブランドガイドラインチェック_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) の機能を活用して、バリアントのブランド調整の概要を提供し – [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) は、包括的なブランド検証の詳細を表示し、改善点を明らかにします。
 
-個々の広告フラグメントを手動で編集することも、初期結果の [ 絞り込んだバリアントを生成 ](/help/user-guide/create/generate-variants.md) して、ブランドとの整合性を確保することもできます。
-
 **ブランドの整合性を検証するには**:
 
 1. バリアントの [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) アイコンをクリックすると、ブランドに対してチェックされたときのそのバリアントのパフォーマンスの概要が表示されます。
 1. 改善が必要なフラグメントとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各広告を切り替えて、生成されたコンテンツを改善してブランドに合わせる方法を確認します。
-1. [ メールを手動で修正 ](#revise-generated-emails) するか、[ バリアントを生成 ](/help/user-guide/create/generate-variants.md) して、広告がブランドと密接に連携していることを確認します。
+1. 広告がブランドと密接に連携するように、[ メールを手動で変更 ](#revise-generated-emails) します。
 
 [ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md) を参照してください。
 

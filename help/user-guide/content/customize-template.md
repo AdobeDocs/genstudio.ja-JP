@@ -3,9 +3,9 @@ title: テンプレートのカスタマイズ
 description: GenStudioのカスタムテンプレートを作成する方法を説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudioは、特定のフィールドをテンプレートに自動的に入�
 >[!WARNING]
 >
 >instagram広告の場合、生成されたヘッドラインは最終的なエクスペリエンスには表示されません。
+
+#### ブランドロゴフィールド名
+
+テンプレートにブランドロゴを追加するには、次のコードを使用してデフォルトのロゴをレンダリングします。
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### 手動フィールド名
 

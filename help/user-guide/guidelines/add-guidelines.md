@@ -4,7 +4,7 @@ description: ガイドライン（[!DNL Brands]、 [!DNL Products]、 [!DNL Pers
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '913'
 ht-degree: 0%
@@ -22,7 +22,7 @@ GenStudioへのガイドラインの追加は、作成プロセスの重要な�
 
 ## Add [!DNL Brands]
 
-GenStudioにブランドを追加するには、[ ブランドガイドをアップロード ](#upload-brand-guidelines) するか、[ 手動でブランドを作成 ](#manually-add-brand) ガイドラインを選択してブランドの詳細を入力します。 [Publish a brand](#publish-brand) を [!DNL Content] して、バリアントの生成に使用できるようにします。
+GenStudioにブランドを追加するには、[ ブランドガイドをアップロード ](#upload-brand-guidelines) するか、[ 手動でブランドを作成 ](#manually-add-brand) ガイドラインを選択してブランドの詳細を入力します。 [Publish a brand](#publish-brand) を [!DNL Content] して、今後のコンテンツ生成で使用できるようにします。
 
 左側のナビゲーション領域で、「**[!DNL Brands]**」をクリックします。 _[!DNL Brands]_パネルで、「**ブランドを追加**」を選択します。
 
@@ -82,7 +82,7 @@ GenStudioは、Adobeのジェネレーティブ AI テクノロジーを使用�
 
 ブランドが公開されると、ブランドが使用できる状態であることを確認するバナーが表示されます。*ブランドが公開され、使用可能*」。
 
-公開されたブランドを、_[!DNL Create]_または_[!DNL Content]_ でのバリアントの生成に使用できるようになりました。
+公開されたブランドを _[!DNL Create]_または_[!DNL Content]_ で使用できるようになりました。
 
 ### [!DNL Brands] の管理
 
