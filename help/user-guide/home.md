@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudioユーザーガイド
 description: GenStudioとジェネレーティブ AI を使用して、コンテンツのサプライチェーンをパーソナライズする方法を説明します。
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -123,3 +123,4 @@ GenStudioを使用すると、ジェネレーティブ AI を活用して、コ�
    </p>
 </td>
 </table>
+
