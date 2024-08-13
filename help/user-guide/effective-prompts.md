@@ -2,9 +2,9 @@
 title: 有効なプロンプトの記述
 description: GenStudioの効果的なプロンプトを記述する方法を説明します。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 GenStudioで効果的に作業するには、生成 AI とのコミュニケーションが不可欠です。
 
-GenStudioでは、アセットを作成または変更するたびに、生成 AI プロンプトが表示されます。 効果的なプロンプトのコンポーネントには、説明的な言語、例、設定済みのガイドラインでは提供されない情報を含める必要があります。
+GenStudioでは、アセットを変更する機会があるたびに生成 AI プロンプトが表示されます。 効果的なプロンプトのコンポーネントには、説明的な言語、例、設定済みのガイドラインでは提供されない情報を含める必要があります。
 
-ベストプラクティスとしては、[ ガイドライン ](/help/user-guide/guidelines/overview.md) を使用してGenStudioにブランド情報を提供すると、生成 AI を最大限に活用して、ブランドに合わせたコンテンツを作成できます。
+ベストプラクティスとしては、[ ガイドライン ](/help/user-guide/guidelines/overview.md) を使用してGenStudioにブランド情報を提供すると、生成 AI を最大限に活用して、ブランドに合わせたコンテンツエクスペリエンスを作成できます。
 
 ## 記述言語
 
