@@ -3,9 +3,9 @@ title: テンプレートのカスタマイズ
 description: GenStudioのカスタムテンプレートを作成する方法を説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
+source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '808'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ GenStudioは、特定のフィールドをテンプレートに自動的に入�
 
 ## セクションまたはグループ
 
-_セクション_ このセクションのフィールドには高い一貫性が必要であることをGenStudioに伝えます。 この関係を確立すると、AI がセクションのクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
+_セクション_ このセクションのフィールドには高い一貫性が必要であることをGenStudioに伝えます。 この関係を確立すると、AI がセクション内のクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
 
 フィールド名に任意の接頭辞を使用して、フィールドがセクションまたはグループの一部であることを示します。
 
