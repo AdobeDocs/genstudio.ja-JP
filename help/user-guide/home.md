@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudioユーザーガイド
 description: GenStudioは、エンタープライズガードレールとパフォーマンスの高いエクスペリエンスのためのガバナンスで、オンブランドコンテンツへのセルフサービスアクセスを提供するAdobeの AI ファーストのアプリケーションです。
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ GenStudioは、AI テクノロジーを活用することで、コンテンツ�
    </p>
 </td>
 </table>
-
