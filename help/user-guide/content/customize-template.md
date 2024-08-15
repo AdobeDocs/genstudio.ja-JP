@@ -3,9 +3,9 @@ title: テンプレートのカスタマイズ
 description: GenStudioのカスタムテンプレートを作成する方法を説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ _Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテン
 | `cta` | コールトゥアクション | メール（推奨） <br> メタ広告 |
 | `on_image_text` | 画像テキスト上 | メタ広告（推奨） |
 | `image` | 画像 | メール（推奨） <br> メタ広告（推奨） |
-| `brand_logo` | 選択したブランドのロゴ | メタ広告 |
+| `brand_logo` | 選択したブランドのロゴ | メールメ <br> タ広告 |
 
 GenStudioは、特定のフィールドをテンプレートに自動的に入力するので、テンプレートデザインに含める必要はありません。
 
@@ -76,15 +76,33 @@ GenStudioは、特定のフィールドをテンプレートに自動的に入�
 
 #### ブランドロゴフィールド名
 
-テンプレートにブランドロゴを追加するには、次のコードを使用してデフォルトのロゴをレンダリングします。
+テンプレートにブランドロゴを追加するには、次のいずれかの方法を使用してデフォルトのロゴをレンダリングします。
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_例_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_例_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### 手動フィールド名
 
 その他のすべてのフィールド名は、手動で入力されたフィールドとして扱われます。 セクションを編集可能にする場合は、編集するセクションの周囲に二重かっこを追加します。
 
-> 例：``{{customVariable}}`` （customVariable は手動で編集可能なセクションです）
+_例_:``{{customVariable}}`` （手動 `customVariable` 編集可能なセクション）
 
 ## セクションまたはグループ
 
