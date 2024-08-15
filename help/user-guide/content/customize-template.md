@@ -3,9 +3,9 @@ title: テンプレートのカスタマイズ
 description: GenStudioのカスタムテンプレートを作成する方法を説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
+source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレートのカスタマイズ
 
-_Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテンプレートを調整できます。 Handlebars 構文では、コンテンツプレースホルダーとして二重中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
+_Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテンプレートを調整します。 Handlebars 構文では、コンテンツプレースホルダーとして二重中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
 -->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
