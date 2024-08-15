@@ -4,10 +4,10 @@ breadcrumb-title: ユーザーガイド
 user-guide-description: オンブランドのアセットをすばやく見つけて生成する方法、バリエーションを作成する方法、リアルタイムのコンテンツパフォーマンスインサイトに基づいてエクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 33f53659894bc53e9a8e0740b0fff5621907bf15
+source-git-commit: 61f5e585eb1965b35a28a2825f50bb0953d87f2a
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '113'
+ht-degree: 13%
 
 ---
 
@@ -52,3 +52,6 @@ ht-degree: 11%
    + [インサイトの概要](insights/overview.md)
    + [チャネルアカウントを接続](insights/connect-channel.md)
    + [データ列](insights/data-columns.md)
++ リリースノート {#beta-release-notes}
+   + [リリースノート](beta-release-notes.md)
+
