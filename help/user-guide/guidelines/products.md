@@ -1,22 +1,22 @@
 ---
-title: GenStudio [!DNL Products]
-description: GenStudio [!DNL Products] 、画像、説明、価値提案など、製品のあらゆる側面を取り込むことで、製品の長所に焦点を当て、一貫性を保ったメッセージを提供する適切なコンテンツを作成します。
+title: パフォーマンスマーケター向けGenStudio [!DNL Products]
+description: GenStudio for Performance マーケター  [!DNL Products] 、画像、説明、価値提案など、製品のあらゆる側面を取り込むことで、製品の特長を示す適切なコンテンツを作成し、製品メッセージの一貫性を維持します。
 feature: Products Service, Guidelines
-source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Products]
+# パフォーマンスマーケター向けGenStudio [!DNL Products]
 
-GenStudio[!DNL Products] は、製品の仕様、メリットおよび差別化要因に関する深い理解を活用して、効果的なコンテンツを生成できます。
+GenStudio for Performance マーケター [!DNL Products] は、製品の仕様、メリットおよび差別化要因に関する深い理解を活用して、効果的なコンテンツを生成できます。
 
-画像、説明、価値提案など、特定の製品のすべての要素を包含する [!DNL Products] とで、統一されたブランド表現を作成します。 Adobeの高度な AI テクノロジーを活用し、GenStudioのガイドライン（[[!DNL Brands]、 [!DNL Products]、 [!DNL Personas]](/help/user-guide/guidelines/overview.md)）を連携させて、製品の強みを示し、すべてのメッセージング間で一貫性を確保する、説得力のあるコンテンツを生成します。
+画像、説明、価値提案など、特定の製品のすべての要素を包含する [!DNL Products] とで、統一されたブランド表現を作成します。 Adobeの高度な AI テクノロジーを活用して、GenStudio for Performance マーケターガイドライン（[[!DNL Brands]、 [!DNL Products]、 [!DNL Personas]](/help/user-guide/guidelines/overview.md)）が連携して、製品の強みを示し、すべてのメッセージ間の一貫性を確保する、魅力的なコンテンツを生成します。
 
-GenStudioの ![[!DNL Products] ガイドライン ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+GenStudio for Performance マーケター向けの ![[!DNL Products] ガイドライン ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **製品を表示または変更するには**:
 
@@ -24,11 +24,11 @@ GenStudioの ![[!DNL Products] ガイドライン ](/help/assets/products-guidel
 1. [ 個々の詳細の表示または製品の変更 ](add-guidelines.md#manage-products) を行うには、_[!DNL Products]_のアクションメニューをクリックし、「**[!UICONTROL 開く]**」を選択します。
 1. 「ガイドライン」カテゴリテキストフィールドをクリックして、製品ガイドラインを修正します。
 
-GenStudioで商品を追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+GenStudio for Performance マーケターで製品を追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
 
 ## [!DNL Products] ガイドライン
 
-個々の商品ガイドラインは、GenStudioに商品の明確な全体像を提供します。
+個々の商品ガイドラインでは、GenStudioのパフォーマンスマーケター向けに、商品の明確な全体像を提供します。
 
 このガイドラインでは、各ガイドラインのカテゴリと関連例について詳しく説明します。 例としては、生成されたコンテンツの出力を形成するサンプル入力があります。 これらを使用して、[!DNL Products] のガイドラインに通知します。
 

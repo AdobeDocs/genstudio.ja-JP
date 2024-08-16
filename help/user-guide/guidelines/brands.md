@@ -1,20 +1,20 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio [!DNL Brands] 、マーケティングコピー、画像、エクスペリエンスなどのブランドアセットを包括的に集めたもので、GenStudioでブランドに合わせたコンテンツを作成するための情報を提供します。
+title: パフォーマンスマーケター向けGenStudio [!DNL Brands]
+description: GenStudio for Performance マーケターは  [!DNL Brands]  マーケティングコピー、画像、エクスペリエンスなどのブランドアセットを包括的に集めたもので、ブランドに合わせたコンテンツを作成するための情報を提供します。
 feature: Brands Service, Guidelines
-source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Brands]
+# パフォーマンスマーケター向けGenStudio [!DNL Brands]
 
 ブランドは、組織、製品、サービスまたは概念を他のブランドと区別します。 ブランドの側面には、ロゴのような客観的なものと、声のトーンのような主観的なものがあります。
 
-GenStudioは、ブランドから得た豊富なブランド情報を活用し、[!DNL Product] や [!DNL Persona] の情報と提携して、包括的なブランドアイデンティティを構築します。 このブランドアイデンティティは、Adobeの生成 AI テクノロジーを使用してオンブランドコンテンツの作成を通知するために使用されます。
+GenStudio for Performance マーケターは、ブランドから得た豊富なブランド情報を活用し、[!DNL Product] や [!DNL Persona] の情報と提携して、包括的なブランドアイデンティティを構築します。 このブランドアイデンティティは、Adobeの生成 AI テクノロジーを使用してオンブランドコンテンツの作成を通知するために使用されます。
 
 **ブランドを表示または変更するには**:
 
@@ -22,11 +22,11 @@ GenStudioは、ブランドから得た豊富なブランド情報を活用し�
 1. ブランドの概要情報を確認するには、定義済みのブランドをクリックして開きます。
 1. 個々の詳細を表示したり、ブランドを変更したりするには、上部の **[!UICONTROL ブランドの音声ガイドライン]**、**[!UICONTROL チャネルガイドライン]**、**[!UICONTROL 画像ガイドライン]**、または **[!UICONTROL ロゴ]** をクリックします。
 
-ブランドガイドラインドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudioにアップロードして、ブランドを自動的に作成できます。 GenStudioにブランドを追加、変更、公開する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+パフォーマンスマーケターがブランドを自動作成できるように、ブランドガイドラインドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudioにアップロードできます。 パフォーマンスマーケター向けにGenStudioにブランドを追加する方法、ブランドを変更する方法、ブランドを公開する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
 
 ## [!DNL Brands] ガイドライン
 
-ガイドラインは、ブランド固有のアプローチ、トーン、視覚的感覚などをGenStudioに明確に示します。
+GenStudioのパフォーマンスマーケター向けガイドラインでは、ブランド固有のアプローチ、トーン、視覚的感覚などを明確に把握できます。
 
 次のガイドラインの節では、各ガイドラインのカテゴリ、例となるガイドライン、考えられる結果について詳しく説明します。 ガイドラインの例は、結果の出力を形作るサンプル入力です（以下の結果例）。それらを使用して、独自のブランドガイドラインを示します。
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## ブランドの検証
 
-GenStudioでは、ブランドの検証は、[!DNL Brands]、[!DNL Products]、[!DNL Personas] の生成 AI 機能と組み合わせて重要な役割を果たします。 これにより、すべてのコンテンツとブランドアイデンティティの一貫性を維持できます。
+GenStudio for Performance Marketers では、ブランドの検証は、[!DNL Brands]、[!DNL Products]、[!DNL Personas] のジェネレーティブ AI 機能と組み合わせて重要な役割を果たします。 これにより、すべてのコンテンツとブランドアイデンティティの一貫性を維持できます。
 
 [ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md) を参照してください。

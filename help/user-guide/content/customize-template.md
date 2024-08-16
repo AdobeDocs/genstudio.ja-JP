@@ -1,11 +1,11 @@
 ---
 title: テンプレートのカスタマイズ
-description: GenStudioのカスタムテンプレートを作成する方法を説明します。
+description: パフォーマンスマーケター向けのAdobe GenStudio用カスタムテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # テンプレートのカスタマイズ
 
-_Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテンプレートを調整します。 Handlebars 構文では、コンテンツプレースホルダーとして二重中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
+_Handlebars_ テンプレート言語を使用して、パフォーマンスマーケター向けにAdobe GenStudio用のHTMLテンプレートを調整します。 Handlebars 構文では、コンテンツプレースホルダーとして二重中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,11 +35,11 @@ _Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテン
 
 >[!TIP]
 >
->次のいくつかの節では、メールフィールドのコンテンツプレースホルダーを追加します。例テンプレート、不要な要素をプレビューから非表示、静的コンテンツへのリンクの管理を参照してください。 テンプレートの準備が整ったら、[GenStudioにアップロード ](use-templates.md#upload-a-template)、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
+>次のいくつかの節では、メールフィールドのコンテンツプレースホルダーを追加します。例テンプレート、不要な要素をプレビューから非表示、静的コンテンツへのリンクの管理を参照してください。 テンプレートの準備が整ったら、[ パフォーマンスマーケター向けにGenStudioにアップロード ](use-templates.md#upload-a-template) し、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
 
 ## コンテンツプレースホルダー
 
-テンプレートの head または body 内では、Handlebars 構文を使用して、テンプレートに実際のコンテンツを入力する必要があるGenStudioのコンテンツプレースホルダーを挿入できます。 GenStudioは、フィールド名に基づいてコンテンツプレースホルダーを認識し、自動的に解釈します。
+テンプレートの先頭または本文内では、Handlebars 構文を使用して、コンテンツプレースホルダーを挿入できます。この場合、パフォーマンスマーケターがテンプレートに実際のコンテンツを入力するGenStudioが必要です。 GenStudio for Performance マーケターは、フィールド名に基づいてコンテンツプレースホルダーを認識し、解釈します。
 
 例えば、`{{ headline }}` を使用して、メールのヘッドラインを配置する場所を指定できます。
 
@@ -53,7 +53,7 @@ _Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテン
 
 #### 認識されたフィールド名
 
-次の表に、テンプレートへの母集団に対してGenStudioで認識されるフィールド名を示します。
+次の表に、テンプレートへの母集団について、GenStudioのパフォーマンスマーケター向けに認識されるフィールド名を示します。
 
 | フィールド | 役割 | チャネルテンプレート |
 | -------------- | ---------------------- | -------------------- |
@@ -65,7 +65,7 @@ _Handlebars_ テンプレート言語を使用して、GenStudio用のHTMLテン
 | `image` | 画像 | メール（推奨） <br> メタ広告（推奨） |
 | `brand_logo` | 選択したブランドのロゴ | メールメ <br> タ広告 |
 
-GenStudioは、特定のフィールドをテンプレートに自動的に入力するので、テンプレートデザインに含める必要はありません。
+GenStudio for Performance マーケターは、特定のフィールドをテンプレートに自動的に入力するので、テンプレートデザインに含める必要はありません。
 
 * `subject` フィールド （メールテンプレート）
 * `headline`、`body`、`CTA` の各フィールド（メタ広告テンプレート）
@@ -106,7 +106,7 @@ _例_:``{{customVariable}}`` （手動 `customVariable` 編集可能なセクシ
 
 ## セクションまたはグループ
 
-_セクション_ このセクションのフィールドには高い一貫性が必要であることをGenStudioに伝えます。 この関係を確立すると、AI がセクション内のクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
+_セクション_ このセクションのフィールドには高い一貫性が必要であることをパフォーマンスマーケター向けにGenStudioに伝えます。 この関係を確立すると、AI がセクション内のクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
 
 フィールド名に任意の接頭辞を使用して、フィールドがセクションまたはグループの一部であることを示します。
 
@@ -126,13 +126,13 @@ _セクション_ このセクションのフィールドには高い一貫性�
 * `news_headline`
 * `news_body`
 
-GenStudioは `spotlight_headline` が `news_body` よりも `spotlight_body` と密接に関係していることを理解しています。
+パフォーマンスマーケター向けGenStudioでは、`spotlight_headline` は `news_body` よりも `spotlight_body` と密接に関係していることを理解しています。
 
 ## テンプレートの例
 
 +++例：1 つのセクションを持つメールテンプレート
 
-次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [ プレースホルダー ](#content-placeholders) が含まれており、メール生成プロセス中にGenStudioでコンテンツを挿入するために使用されます。
+次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [ プレースホルダー ](#content-placeholders) が含まれており、GenStudio for Performance マーケターがメール生成プロセス中にコンテンツを挿入するために使用します。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -293,9 +293,9 @@ GenStudioは `spotlight_headline` が `news_body` よりも `spotlight_body` と
 
 ## 静的コンテンツ
 
-多くの場合、メールおよびメタテンプレートは、GenStudioの外部でホストされる画像や CSS ファイルにリンクされています。 GenStudioがこれらのテンプレートまたはそれらから派生したエクスペリエンスのサムネールを生成する際、正しいクロスオリジンリソース共有（CORS）ヘッダーがない場合、これらの外部リソースが無視される場合があります。
+メールおよびメタテンプレートは、多くの場合、パフォーマンスマーケター向けにGenStudioの外部でホストされている画像や CSS ファイルにリンクされています。 GenStudio for Performance マーケターが、これらのテンプレートまたはから派生したエクスペリエンスのサムネールを生成する際、正しいクロスオリジンリソース共有（CORS）ヘッダーがない場合、これらの外部リソースが無視される場合があります。
 
 サムネール生成プロセスの実行中にこれらのリソースを使用できるようにするには、次の 2 つのオプションを検討します。
 
-1. **CORS ヘッダーを使用**：ホストサーバーは、実稼動環境の値に設定された `Access-Control-Allow-Origin` ヘッダーで応答 `https://experience.adobe.com` 送信する必要があります。 これにより、GenStudioはリソースにアクセスして含めることができます。
+1. **CORS ヘッダーを使用**：ホストサーバーは、実稼動環境の値に設定された `Access-Control-Allow-Origin` ヘッダーで応答 `https://experience.adobe.com` 送信する必要があります。 これにより、パフォーマンスマーケターはGenStudioからリソースにアクセスして組み込むことができます。
 1. **データ URL を使用**：データ URL を使用して、外部リソースをテンプレートに直接埋め込みます。 この方法では、CORS の制限をバイパスし、サムネールの生成中にリソースを利用できるようにします。

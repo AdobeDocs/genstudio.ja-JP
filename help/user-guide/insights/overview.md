@@ -2,17 +2,17 @@
 title: 概要  [!DNL Insights]
 description: リアルタイムコンテンツのパフォーマンス指標に基づいてエクスペリエンスを最適化する方法を説明します。
 feature: Attributes, Insights, Experiences, Assets
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '484'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Insights]
+# パフォーマンスマーケター向けAdobe GenStudio [!DNL Insights]
 
-GenStudio [!DNL Insights] は、データに基づいた意思決定を支援する、コンテンツのパフォーマンスに関する高度な分析とインサイトを提供します。
+パフォーマンスの高いマーケター向けAdobe GenStudio [!DNL Insights] は、データに基づいた意思決定を支援できる、コンテンツのパフォーマンスに関する高度な分析とインサイトを提供します。
 
 [!DNL Insights] ダッシュボードから、次の操作を実行できます。
 
@@ -22,7 +22,7 @@ GenStudio [!DNL Insights] は、データに基づいた意思決定を支援す
 
 >[!TIP]
 >
->GenStudioで現在のマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受信できるようにする手順については、[ チャネルアカウントの接続 ](connect-channel.md) を参照してください。
+>パフォーマンスマーケターがGenStudioを有効にして、現在のマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受け取れるようにする手順については、[Connect チャネルアカウント ](connect-channel.md) を参照してください。
 
 ## ダッシュボード
 

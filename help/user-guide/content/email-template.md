@@ -1,29 +1,29 @@
 ---
-title: GenStudio用のメールテンプレートの準備
-description: GenStudioのカスタムメールテンプレートを作成する方法について説明します。
+title: パフォーマンスマーケター向けのAdobe GenStudio用メールテンプレートの準備
+description: パフォーマンスマーケター向けにAdobe GenStudio用のカスタムメールテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio用メールテンプレートの準備
+# パフォーマンスマーケター向けのAdobe GenStudio用メールテンプレートの準備
 
-通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。 メールテンプレートを設計、コーディング、テストしたら、GenStudioでアップロードおよび使用できるように準備できます。
+通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。 メールテンプレートを設計、コーディング、テストしたら、アップロード用に準備し、パフォーマンスマーケターがGenStudioで使用できるようにします。
 
 [ テンプレートの詳細 ](/help/user-guide/content/use-templates.md#anatomy-of-a-template) を参照してください。
 
 ## ガイドラインの追加
 
-メタ広告テンプレートを準備する前に、GenStudioに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
+メタ広告テンプレートを準備する前に、パフォーマンスマーケター向けGenStudioに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
 
 **例**：メールテンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
 
-ガイドラインがGenStudioに追加されていない場合は、デフォルトが使用されます。
+パフォーマンスマーケター向けにGenStudioにガイドラインが追加されていない場合は、デフォルトが使用されます。
 
 ## メールテンプレートのコーディング
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## 生成されたコンテンツ領域の定義
 
-GenStudioのコンテンツを動的に入力するメールテンプレート内の領域を定義します。
+パフォーマンスマーケター向けに、GenStudioのコンテンツを動的に入力するメールテンプレートの領域を定義します。
 
 生成されたコンテンツ領域を定義するには：
 
-* GenStudioで自動生成するテンプレート内のテキスト要素（ヘッドラインやCTAなど）を指定します。
+* パフォーマンスマーケター向けGenStudioで自動生成するテンプレート内のテキスト要素（ヘッドライン、CTAなど）を特定します。
 * Handblebars 構文を使用してプレースホルダーを挿入し、HTMLテンプレートを調整します。
 
 [ コンテンツのプレースホルダー ](/help/user-guide/content/customize-template.md#content-placeholders) を参照してください。
@@ -60,6 +60,6 @@ GenStudioのコンテンツを動的に入力するメールテンプレート�
 
 ## テンプレートのアップロードと使用
 
-テンプレートの設計、コーディング、テストおよびプレビューが完了したら、GenStudioにアップロードして、まったく新しいマーケティングコンテンツの生成に使用できます。
+テンプレートの設計、コーディング、テストおよびプレビューが完了したら、GenStudioにアップロードすると、パフォーマンスマーケターが新しいマーケティングコンテンツの生成に使用できます。
 
 [ テンプレートの操作 ](use-templates.md) を参照してください。

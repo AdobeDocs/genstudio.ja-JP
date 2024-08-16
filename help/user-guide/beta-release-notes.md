@@ -1,9 +1,9 @@
 ---
 title: パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 description: パフォーマンスマーケター向けのAdobe GenStudioに対する最新機能と機能強化について説明します。
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 
-これらのメモでは、8 月 16 日に終わる週のAdobe GenStudioの大幅な修正と機能強化について説明しています。
+これらのメモでは、8 月 16 日に終わる週のパフォーマンスマーケター向けの重要なAdobe GenStudioの修正と機能強化について説明しています。
 
 ## ハイライト
 
@@ -26,8 +26,6 @@ ht-degree: 0%
 * **ブランド抽出インターフェイスの更新**：ブランド抽出で、抽出プロセスの完了がパーセンテージで表示されるようになりました。
 
 * **抽出中のブランドの増分読み込み**：ブランドガイドラインがユーザーインターフェイスで増分的に読み込まれるようになりました。
-
-* **ガイドラインスキーマのコピーの簡略化**:`unique attributes` フィールドと `frequent keywords` フィールドがガイドラインスキーマのコピーから削除され、ガイドラインの設定処理が簡単になりました。
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ ht-degree: 0%
 
 以下の既知の問題は、GenStudio for Performance マーケターの GA リリースで解決される予定です。
 
-### 分析
-
-* **[!UICONTROL テンプレートを追加]** および **[!UICONTROL アップロード]** ボタンによってトリガーされるアクションは、現在は追跡されていません。<!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * _Assets_ からビデオを再生できません。<!-- GS-3846 -->
 
 * facebookにもログインしている場合、ユーザーは 2 回ログインする必要があります。 **回避策**:[!DNL Insights] にログインする前にFacebookからログアウトします。
-
-* **キャンペーンレベルでの支出** 値が不正確です。 現在、Facebook Ads Manager とデータレイクの間でデータが一貫していません。<!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* 作成者は、アセットを承認後、公開前に変更できます。 これらの変更は、承認者に通知されません。
-

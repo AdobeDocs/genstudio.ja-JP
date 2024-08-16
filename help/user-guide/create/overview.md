@@ -1,27 +1,27 @@
 ---
-title: 概要  [!DNL Create]
-description: GenStudio [!DNL Create] のジェネレーティブ AI を使用して、高パフォーマンスのオンブランドコンテンツを迅速に生成します。
+title: パフォーマンスマーケター向けGenStudioの概要  [!DNL Create]
+description: パフォーマンスマーケター向けのAdobe GenStudioで、ジェネレーティブ AI を使用して、高パフォーマンスのオンブランドコンテンツを迅速に生成  [!DNL Create] ます。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '503'
 ht-degree: 2%
 
 ---
 
 
-# GenStudio [!DNL Create]
+# パフォーマンスマーケター向けGenStudio [!DNL Create]
 
-GenStudio [!DNL Create] は、Adobe GenAI の機能を活用して、マーケターや分散型チームが高パフォーマンスのオンブランドエクスペリエンスを作成できるようにします。
+GenStudio for Performance Marketers [!DNL Create] は、Adobe GenAI の機能を活用して、マーケターや分散型チームが高パフォーマンスのオンブランドエクスペリエンスを作成できるようにします。
 
-GenStudio [!DNL Create] を使用すると、次のチャネルのコンテンツを生成できます。
+[!DNL Create] を使用すると、次のチャネルのコンテンツを生成できます。
 
 * メール
 * メタ広告
 <!-- * Social media images and ads
 * Display ads -->
 
-GenStudio[ ガイドライン ](/help/user-guide/guidelines/overview.md)、[!DNL Brands]、[!DNL Products]、[!DNL Personas]—[ コンテンツ ](/help/user-guide/content/overview.md)、[ レビューと承認 ](/help/user-guide/approvals/overview.md)、[ インサイト ](/help/user-guide/insights/overview.md) の機能に加えて、効果的なブランドに合致し [!DNL Create] マーケティングコンテンツの作成を容易にします。
+[ ガイドライン ](/help/user-guide/guidelines/overview.md) （[!DNL Brands]、[!DNL Products]、[!DNL Personas]） [ コンテンツ ](/help/user-guide/content/overview.md)、[ レビューと承認 ](/help/user-guide/approvals/overview.md)、[ インサイト ](/help/user-guide/insights/overview.md) の機能に加えて、効果的なブランドに合致したマーケティングコンテンツの作成 [!DNL Create] 容易になります。
 
 ## [!DNL Create] のユースケース
 
@@ -60,13 +60,13 @@ GenStudio[ ガイドライン ](/help/user-guide/guidelines/overview.md)、[!DNL
 </tr>
 </table>
 
-GenStudioを使用すると、マーケターは **新しいマーケティングコンテンツを作成** できます。 このユースケースでは、定義済みの [ ガイドライン ](/help/user-guide/guidelines/overview.md) とインスピレーション画像を使用して、ブランドに合わせたコンテンツの作成を通知します。
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+マーケターは、GenStudioを使用することで **新しいマーケティングコンテンツの作成** を実行できます。 このユースケースでは、定義済みの [ ガイドライン ](/help/user-guide/guidelines/overview.md) とインスピレーション画像を使用して、ブランドに合わせたコンテンツの作成を通知します。
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] 機能
 
-GenStudio [!DNL Create] は、GenStudioの様々なコンポーネントを統合して、コンテンツの生成を支援します。
+[!DNL Create] は、パフォーマンスマーケターがユーザーのコンテンツ生成を支援するために、GenStudioの様々なコンポーネントを統合しています。
 
 ### ドラフト
 
@@ -88,15 +88,15 @@ AI で生成された新しいコンテンツを作成するには、生成す�
 
 ### パラメーター
 
-プロンプトエリアでは、[!DNL Brands]、[!DNL Products]、[!DNL Personas] （GenStudio ガイドライン _などの_ パラメーター）やアセットを追加して、生成されたエクスペリエンスを形作ることができます。
+プロンプトエリアでは、[!DNL Brands]、[!DNL Products]、[!DNL Personas] （ガイドライン _などの_ パラメーター）またはアセットを追加して、生成されたエクスペリエンスを形作ることができます。
 
 _パラメーター_ にアップロードされた画像は、生成されたバリアントで使用され、バリアント用に生成されたコピーコンテンツ（テキスト）に情報を提供します。
 
-これらの追加されたパラメーターは、生成プロセスに [ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを挿入し、ブランドの包括的な ID に合わせてコンテンツをカスタマイズできるようにします。 GenStudioにガイドラインを追加し、コンテンツ作成プロセス中に使用することをお勧めします。ガイドラインは適切なオンブランドコンテンツの作成を大幅に向上させるからです。
+これらの追加されたパラメーターは、生成プロセスに [ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを挿入し、ブランドの包括的な ID に合わせてコンテンツをカスタマイズできるようにします。 パフォーマンスマーケター向けのGenStudioにガイドラインを追加し、コンテンツ作成プロセスで使用することをお勧めします。ガイドラインは、適切なオンブランドコンテンツの作成を大幅に強化するからです。
 
 ### ブランドの検証
 
-GenStudioは、（[ ガイドライン ](/help/user-guide/guidelines/overview.md) で定義されている）ブランドの ID の様々な側面に対してブランド検証を実行します。 [ ブランドの検証 ](/help/user-guide/guidelines/brand-validation.md) 生成されたコンテンツの情報を確認できます。これは、ブランドガイドラインへの準拠と、テキストと画像の一貫性を示します。 この情報を使用して、生成されたエクスペリエンスを改訂または改善し、ブランドとさらに良く一致させることができます。
+GenStudio for Performance マーケターは、（[ ガイドライン ](/help/user-guide/guidelines/overview.md) で定義されている）ブランドの ID の様々な側面に対してブランド検証を実行します。 [ ブランドの検証 ](/help/user-guide/guidelines/brand-validation.md) 生成されたコンテンツの情報を確認できます。これは、ブランドガイドラインへの準拠と、テキストと画像の一貫性を示します。 この情報を使用して、生成されたエクスペリエンスを改訂または改善し、ブランドとさらに良く一致させることができます。
 
 ### レビューと承認
 

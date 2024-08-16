@@ -2,9 +2,9 @@
 title: アセットとエクスペリエンスの管理
 description: デジタルマーケティングジャーニーでの使用と再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # アセットとエクスペリエンスの管理
 
-GenStudio [!DNL Content] は、デジタルマーケティングジャーニーでの使用と再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
+パフォーマンスの高いマーケター向けのAdobe GenStudioデジタルマーケティングジャーニーでの使用 [!DNL Content] 再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
 
 ## アセットの追加
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content] は、デジタルマーケティングジャーニー�
 
 1. 検出性を向上させるには、「**詳細**」セクションに _ブランド名_、_ペルソナ_、_地域_、_キーワード_ などのオプションの詳細を追加します。
 
-   提供する情報が多いほど、GenStudioの堅牢な機能を体験できます。 リストから 1 つ以上の詳細を選択するか、必要に応じて新しい詳細（キーワードを使用するなど）を入力します。 追加した各詳細は、リストの下に表示されます。 詳細を削除するには、「**`x`**」をクリックします。
+   提供する情報が多いほど、パフォーマンスマーケター向けのGenStudioの堅牢な機能を体験できます。 リストから 1 つ以上の詳細を選択するか、必要に応じて新しい詳細（キーワードを使用するなど）を入力します。 追加した各詳細は、リストの下に表示されます。 詳細を削除するには、「**`x`**」をクリックします。
 
    追加した詳細は、このアクションで追加されたすべてのアセットに適用されます。
 
-   [ メタデータの詳細 ](/help/user-guide/content/asset-details.md#genstudio-metadata) を参照してください。
+   [ メタデータの詳細 ](/help/user-guide/content/asset-details.md#system-metadata) を参照してください。
 
 1. **[!UICONTROL アセットを追加]** をクリックします。
 1. アセットのアップロードが完了したら、「**完了**」をクリックします。
@@ -59,7 +59,3 @@ In the future, need guidance on template upload errors. For now, the UI just say
 1. 全体表示および詳細リスト用のアセットを選択します。
 
    **[!UICONTROL ダウンロード]** （下矢印）をクリックして、ローカルワークステーションでアセットを使用します。
-
-<!-- 
-There is more here, but not ready yet.
--->

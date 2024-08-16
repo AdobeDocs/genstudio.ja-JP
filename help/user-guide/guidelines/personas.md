@@ -1,22 +1,22 @@
 ---
-title: GenStudio [!DNL Personas]
-description: GenStudio [!DNL Personas] 、お客様の関心、問題点、好み、行動特性を取り込み、お客様のセグメントを真に表したものです。
+title: パフォーマンスマーケター向けGenStudio [!DNL Personas]
+description: GenStudio for Performance マーケター  [!DNL Personas] 、顧客セグメントを真に表現し、顧客の関心、問題点、好み、行動特性を取り込みます。
 feature: Personas Service, Guidelines
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Personas]
+# パフォーマンスマーケター向けGenStudio [!DNL Personas]
 
 顧客の情報、関心、問題点、好み、行動特性など、顧客セグメントを真正に描写で [!DNL Personas] ます。
 
-GenStudioは、ガイドライン（[[!DNL Brands]、 [!DNL Products]、および  [!DNL Personas]](overview.md)）とAdobeのジェネレーティブ AI テクノロジーの力を活用して、ターゲット顧客に合わせてパーソナライズされたマーケティングコンテンツをキュレーション&#x200B;ます。
+GenStudio for Performance マーケターは、ガイドライン（[[!DNL Brands]、 [!DNL Products]、および  [!DNL Personas]](overview.md)）とAdobeのジェネレーティブ AI テクノロジーの力を活用して、パーソナライズされたマーケティングコンテンツをターゲット顧客にキュレーション&#x200B;ます。
 
-GenStudioの ![[!DNL Personas] ガイドライン ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+GenStudio for Performance マーケター向けの ![[!DNL Personas] ガイドライン ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **ペルソナの表示または変更**:
 
@@ -24,11 +24,11 @@ GenStudioの ![[!DNL Personas] ガイドライン ](/help/assets/personas-guidel
 1. [ 個々の詳細の表示またはペルソナの変更 ](add-guidelines.md#manage-personas) を行うには、_[!DNL Personas]_のアクションメニューをクリックして&#x200B;**開く**を選択します。
 1. ガイドラインカテゴリのテキストフィールドをクリックして、ペルソナのガイドラインを修正します。
 
-GenStudioでペルソナを追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+GenStudio for Performance マーケターでペルソナを追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
 
 ## [!DNL Personas] ガイドライン
 
-個々のペルソナのガイドラインは、GenStudioに対して、[!DNL Personas] ーザーの明確な全体像を提供します。
+個々のペルソナのガイドラインにより、パフォーマンスマーケター向けにGenStudioに [!DNL Personas] ークフローの明確な全体像が提供されます。
 
 このガイドラインでは、各ガイドラインのカテゴリと関連例について詳しく説明します。 例としては、生成されたコンテンツの出力を形成するサンプル入力があります。 これらを使用して、独自の [!DNL Personas] ガイドラインを伝えます。
 

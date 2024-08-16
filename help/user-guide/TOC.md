@@ -1,23 +1,23 @@
 ---
-user-guide-title: Adobe GenStudioユーザーガイド
+user-guide-title: パフォーマンスマーケターユーザーガイドのAdobe GenStudio
 breadcrumb-title: ユーザーガイド
 user-guide-description: オンブランドのアセットをすばやく見つけて生成する方法、バリエーションを作成する方法、リアルタイムのコンテンツパフォーマンスインサイトに基づいてエクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 3283f1ff0ddbc8825e084add893b322dd20066d0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 11%
 
 ---
 
 
-# Adobe GenStudioガイド {#user-guide}
+# パフォーマンスマーケターガイドのAdobe GenStudio {#user-guide}
 
-+ [GenStudio ガイド](home.md)
++ [GenStudio for Performance マーケターガイド](home.md)
 + [基本を学ぶ](get-started.md)
 + 概要 {#intro}
-   + [GenStudio概念](concepts.md)
+   + [概念](concepts.md)
    + [有効なプロンプト](effective-prompts.md)
    + [チュートリアル](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + ガイドライン {#guidelines}

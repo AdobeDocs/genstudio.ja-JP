@@ -1,13 +1,13 @@
 ---
-source-git-commit: 135502f6743f2d45860c900a49a8c19a024a58dc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 40%
+source-wordcount: '310'
+ht-degree: 39%
 
 ---
-# GenStudio ドキュメント
+# パフォーマンスマーケター向けGenStudio ドキュメント
 
-このサイトには、GenStudio製品の最新のドキュメントが含まれています。
+このサイトには、GenStudio for Performance マーケター製品に関する最新のドキュメントが含まれています。
 
 ## アドビオープンソース行動規範
 
@@ -35,10 +35,10 @@ Adobeプロダクトチームのテクニカルライター、プログラムマ
 
 ## マークダウン
 
-このリポジトリ内の記事はすべて、GitHub 固有の Markdown を使用しています。 Markdown に馴染みがない場合は、以下を参照してください。
+このリポジトリ内の記事はすべて、GitHub 固有の Markdown を使用しています。 Markdown に詳しくない方は、以下を参照してください。
 
-- [マークダウンの基礎知識](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [印刷可能なマークダウンチートシート](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Markdown の基本](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown の早見表（印刷用）](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## ラベル
 

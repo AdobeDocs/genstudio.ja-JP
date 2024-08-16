@@ -1,18 +1,18 @@
 ---
 title: アセットの詳細
-description: GenStudioでは、検索性とパフォーマンストラッキングのために、リッチなメタデータを使用して承認済みコンテンツを格納します。
+description: パフォーマンスのAdobe GenStudioマーケターは、検索性とパフォーマンストラッキングのために、豊富なメタデータを含む承認済みコンテンツを保存します。
 feature: Attributes, Assets
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 7%
+source-wordcount: '428'
+ht-degree: 6%
 
 ---
 
 
 # アセットの詳細
 
-GenStudioでは、検索性とパフォーマンストラッキングのために、リッチなメタデータを使用して承認済みコンテンツを格納します。
+パフォーマンスのAdobe GenStudioマーケターは、検索性とパフォーマンストラッキングのために、リッチなメタデータを含む承認済みコンテンツを保存します。
 
 各アセット（エクスペリエンスとテンプレートを含む）には、コンテンツのパフォーマンスを識別、追跡、使用および学習するのに役立つ _詳細_ （メタデータ）が関連付けられています。
 
@@ -26,7 +26,7 @@ GenStudioでは、検索性とパフォーマンストラッキングのため�
 
 ### 生成されたタグ
 
-アセットが承認されて [!DNL Content] に保存されると、GenStudioはAdobeの AI および機械学習機能を使用して、カラーやトーンなどのアセットの機能や、アセットの機能を識別するキーワードに基づいてタグを生成します。 タグは編集できません。
+アセットが承認されて [!DNL Content] に保存されると、GenStudio for Performance のマーケターは、Adobeの AI および機械学習機能を使用して、色やトーン、アセットの機能を特定するキーワードなど、アセットの機能に基づいてタグを生成します。 タグは編集できません。
 
 ### 生成されたコンテンツメタデータ
 
@@ -36,7 +36,7 @@ GenStudioでは、検索性とパフォーマンストラッキングのため�
 
 ユーザー定義メタデータは、アセットのコンテンツにマーケティングコンテキストを追加するので、マーケターはアセットの使用方法とエンゲージメント方法をより深く理解できます。
 
-[ アセットをアップロード ](/help/user-guide/content/manage-assets.md#add-assets) する際に、GenStudioにメタデータとして存在する一連のオプションのアセット詳細を定義できます。
+[ アセットをアップロード ](/help/user-guide/content/manage-assets.md#add-assets) する際に、パフォーマンスマーケター向けGenStudioにメタデータとして存在する一連のオプションのアセット詳細を定義できます。
 
 ### メタデータの詳細
 
@@ -45,10 +45,10 @@ GenStudioでは、検索性とパフォーマンストラッキングのため�
 | フィールド | 説明 | 編集可能 | 必須 |
 | ------------- | ----------- | -------- | -------- |
 | キャンペーン名（プロジェクト名） | アセットと共に取得され保存されるデフォルトのメタデータ | ○ | × |
-| ブランド名 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) がGenStudioに追加され、使用するために公開されました | ○ | × |
-| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) がGenStudioに追加されて使用されるようになりました | ○ | × |
-| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) がGenStudioに追加されて使用されるようになりました | ○ | × |
-| チャネル | メールやメタ広告など、アセットが使用されるGenStudioのコンテンツタイプ | ○ | × |
+| ブランド名 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) がパフォーマンスマーケター向けにGenStudioに追加され、使用するために公開されました | ○ | × |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) をパフォーマンスマーケター向けにGenStudioに追加して使用 | ○ | × |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) をパフォーマンスマーケター向けにGenStudioに追加して使用 | ○ | × |
+| チャネル | GenStudio for Performance Marketers で使用するアセットのコンテンツタイプ（メール、メタ広告など） | ○ | × |
 | 期間 | 四半期、シーズン、年など、使用したアセットの期間。 例：`Winter 2023` | ○ | × |
 | 地域  | アセットが使用される地域。 例：`North America`, `APAC`, `Italy` | ○ | × |
 | 言語 | アセットを使用する言語。 例：`Spanish` | ○ | × |

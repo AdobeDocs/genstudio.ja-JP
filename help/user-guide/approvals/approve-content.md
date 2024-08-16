@@ -2,9 +2,9 @@
 title: コンテンツを承認
 description: コンテンツの承認方法を説明します。
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ ht-degree: 0%
 
 1. ドラフトステータスを **作業が必要** から **承認済み** に変更します。
 
-あなたの承認者としての作業は完了しました。 GenStudioは、承認のドラフト作成者にアラートを送信します。 [!DNL Content] への保存または ](./publish-content.md) 公開 _のプロセスの概要については、[Publish コンテンツ_ を参照してください。
+あなたの承認者としての作業は完了しました。 GenStudio for Performance マーケターは、承認のドラフト作成者にアラートを送信します。 [!DNL Content] への保存または ](./publish-content.md) 公開 _のプロセスの概要については、[Publish コンテンツ_ を参照してください。
 
