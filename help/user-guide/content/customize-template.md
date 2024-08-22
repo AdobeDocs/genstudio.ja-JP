@@ -3,9 +3,9 @@ title: テンプレートのカスタマイズ
 description: パフォーマンスマーケター向けのAdobe GenStudio用カスタムテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 _Handlebars_ テンプレート言語を使用して、パフォーマンスマーケター向けにAdobe GenStudio用のHTMLテンプレートを調整します。 Handlebars 構文では、コンテンツプレースホルダーとして二重中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+GenStudio for Performance Marketers で使用するHTMLテンプレートがない場合は、まず、HTMLタグ（`DOCTYPE`、`html`、`head` および `body`）を使用してテンプレートの構造を定義できます。 次に、外観をカスタマイズするための CSS スタイルを含む、基本的なメールテンプレートを示します。
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ _Handlebars_ テンプレート言語を使用して、パフォーマンスマ�
 </body>
 </html>
 ```
-
-[ テンプレートの例 ](#template-examples) を参照してください。
 
 >[!TIP]
 >
@@ -47,11 +44,9 @@ _Handlebars_ テンプレート言語を使用して、パフォーマンスマ�
 <div>{{ headline }}</div>
 ```
 
-### フィールド名
+### 認識されたフィールド名
 
 カスタムテンプレートで許可されるフィールドの最大数は 20 です。
-
-#### 認識されたフィールド名
 
 次の表に、テンプレートへの母集団について、GenStudioのパフォーマンスマーケター向けに認識されるフィールド名を示します。
 
@@ -63,12 +58,12 @@ _Handlebars_ テンプレート言語を使用して、パフォーマンスマ�
 | `cta` | コールトゥアクション | メール（推奨） <br> メタ広告 |
 | `on_image_text` | 画像テキスト上 | メタ広告（推奨） |
 | `image` | 画像 | メール（推奨） <br> メタ広告（推奨） |
-| `brand_logo` | 選択したブランドのロゴ | メールメ <br> タ広告 |
+| `brand_logo` | 選択したブランドのロゴ <br> 推奨使用については、[ フィールド名 ](#brand-logo-field-name) を参照してください。 | メールメ <br> タ広告 |
 
 GenStudio for Performance マーケターは、特定のフィールドをテンプレートに自動的に入力するので、テンプレートデザインに含める必要はありません。
 
-* `subject` フィールド （メールテンプレート）
-* `headline`、`body`、`CTA` の各フィールド（メタ広告テンプレート）
+- `subject` フィールド （メールテンプレート）
+- `headline`、`body`、`CTA` の各フィールド（メタ広告テンプレート）
 
 >[!WARNING]
 >
@@ -76,55 +71,53 @@ GenStudio for Performance マーケターは、特定のフィールドをテン
 
 #### ブランドロゴフィールド名
 
-テンプレートにブランドロゴを追加するには、次のいずれかの方法を使用してデフォルトのロゴをレンダリングします。
+次の例は、ブランドロゴの条件付きレンダリング、ソースの検証、ブランドロゴが使用できない場合にデフォルトまたは代替ロゴを提供、スタイルを適用する 2 つの方法を示しています。
 
-_例_:
+_例_:HTML `img src` 定義
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_例_:
+_例_:Handlebars 条件内
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### 手動フィールド名
 
-その他のすべてのフィールド名は、手動で入力されたフィールドとして扱われます。 セクションを編集可能にする場合は、編集するセクションの周囲に二重かっこを追加します。
+その他のすべてのフィールド名は、手動で入力されたフィールドとして扱われます。 編集可能なセクションを作成するには、セクション名の周りに二重括弧を追加します。
 
-_例_:``{{customVariable}}`` （手動 `customVariable` 編集可能なセクション）
+```handlebars
+{{customVariable}}
+```
 
 ## セクションまたはグループ
 
-_セクション_ このセクションのフィールドには高い一貫性が必要であることをパフォーマンスマーケター向けにGenStudioに伝えます。 この関係を確立すると、AI がセクション内のクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
+_セクション_ このセクションのフィールドには高い一貫性が必要であることをパフォーマンスマーケター向けにGenStudioに伝えます。 この関係を確立すると、AI がセクションのクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
 
 フィールド名に任意の接頭辞を使用して、フィールドがセクションまたはグループの一部であることを示します。
 
 例えば、ハイライトされた領域に表示されるコンテンツにスポットライトを当てることができます。
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 各セクションには、各フィールドタイプを 1 つだけ含めることができます。 上記の例では、`spotlight` プレフィックスに `spotlight_headline` フィールドを 1 つだけ含めることができます。
 
 テンプレートには、最大で次の 3 つのセクションを含めることができます。
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 パフォーマンスマーケター向けGenStudioでは、`spotlight_headline` は `news_body` よりも `spotlight_body` と密接に関係していることを理解しています。
 
@@ -263,7 +256,6 @@ _セクション_ このセクションのフィールドには高い一貫性�
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```

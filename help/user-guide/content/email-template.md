@@ -3,9 +3,9 @@ title: パフォーマンスマーケター向けのAdobe GenStudio用メール�
 description: パフォーマンスマーケター向けにAdobe GenStudio用のカスタムメールテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 メール配信またはプルーフプラットフォームを使用して、メールをテストし、様々なメールクライアントやデバイスで正しくレンダリングされていることを確認します。
 
-メールテンプレートが次の条件を満たしていることを確認するテスト：
+メールテンプレートが次の条件を満たしていることをテストで確認します。
 
 * レイアウトは、CSS メディアクエリを使用して様々な画面サイズに合わせて調整します
 * ボタンをクリックして目的の場所に移動できます
@@ -48,13 +48,13 @@ ht-degree: 0%
 生成されたコンテンツ領域を定義するには：
 
 * パフォーマンスマーケター向けGenStudioで自動生成するテンプレート内のテキスト要素（ヘッドライン、CTAなど）を特定します。
-* Handblebars 構文を使用してプレースホルダーを挿入し、HTMLテンプレートを調整します。
+* Handlebars 構文を使用してプレースホルダーを挿入し、HTMLテンプレートを調整します。
 
 [ コンテンツのプレースホルダー ](/help/user-guide/content/customize-template.md#content-placeholders) を参照してください。
 
 ## テンプレートのプレビュー
 
-組み込みヘルパーを利用して、特定のコンテンツ領域の表示を制御します。 例えば、クリーンなプレビューリンクを維持しながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを含めることができます。
+組み込みヘルパーを使用して、特定のコンテンツ領域の表示を制御します。 例えば、クリーンなプレビューリンクを維持しながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを含めることができます。
 
 [ テンプレートプレビュー ](/help/user-guide/content/customize-template.md#template-preview) を参照してください。
 
