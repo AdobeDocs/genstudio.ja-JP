@@ -1,7 +1,7 @@
 ---
 title: パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 description: パフォーマンスマーケター向けのAdobe GenStudioに対する最新機能と機能強化について説明します。
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ### 解決された既知の問題
 
-* [ プロンプト ] 領域（ドロップダウン メニュー [!DNL Brands] は、電子メールの作成時に（[!DNL Brands] リストの最後にスピナーが表示されます。 （固定 8/22） <!-- GS-4077 -->
+* メールの作成中 [!DNL Brands] 「プロンプト」領域（ドロップダウンメニュー）には、（[!DNL Brands]）リストの最後にスピナーが表示されます。 （固定 8/22） <!-- GS-4077 -->
 
-## 以前のベータ版リリース
+## 以前のBeta リリース
 
-以前のベータ版リリースには、次のハイライトと修正が含まれていました。
+以前のBeta リリースには、次のハイライトと修正が含まれていました。
 
 ### ハイライト
 
