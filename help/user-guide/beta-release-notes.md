@@ -1,9 +1,9 @@
 ---
 title: パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 description: パフォーマンスマーケター向けのAdobe GenStudioに対する最新機能と機能強化について説明します。
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 0%
 * _Assets_ からビデオを再生できません。<!-- GS-3846 -->
 
 * facebookにもログインしている場合、Channel Meta Ads アカウントに 2 回ログインする必要があります。 **回避策**:Channel Meta Ads アカウントにログインする前に、Facebookからログアウトします。
+
+### 解決された既知の問題
+
+* [ プロンプト ] 領域（ドロップダウン メニュー [!DNL Brands] は、電子メールの作成時に（[!DNL Brands] リストの最後にスピナーが表示されます。 （固定 8/22） <!-- GS-4077 -->
 
 ## 以前のベータ版リリース
 
