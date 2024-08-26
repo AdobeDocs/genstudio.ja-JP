@@ -4,9 +4,9 @@ breadcrumb-title: ユーザーガイド
 user-guide-description: オンブランドのアセットをすばやく見つけて生成する方法、バリエーションを作成する方法、リアルタイムのコンテンツパフォーマンスインサイトに基づいてエクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 0cd877737f8ed4d38201c832d454795206505de2
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '125'
 ht-degree: 11%
 
 ---
@@ -42,6 +42,7 @@ ht-degree: 11%
    + テンプレート {#templates}
       + [テンプレートの操作](content/use-templates.md)
       + [テンプレートのカスタマイズ](content/customize-template.md)
+      + [アクセシブルなテンプレートの作成](content/accessibility-for-templates.md)
       + [メールテンプレートの準備](content/email-template.md)
       + [メタ広告テンプレートの準備](content/meta-template.md)
 + Campaigns {#campaigns}
