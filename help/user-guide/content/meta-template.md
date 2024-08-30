@@ -3,9 +3,9 @@ title: パフォーマンスマーケター向けのAdobe GenStudio用メタ広�
 description: パフォーマンスマーケター向けにAdobe GenStudioのカスタムメタ広告テンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。
 
-[ テンプレートの詳細 ](/help/user-guide/content/use-templates.md#anatomy-of-a-template) および [ テンプレート例 ](/help/user-guide/content/customize-template.md#template-examples) を参照してください。
+[ テンプレート要素 ](use-templates.md#template-elements) および [ テンプレート例 ](/help/user-guide/content/customize-template.md#template-examples) を参照してください。
 
 ### 広告仕様
 

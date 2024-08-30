@@ -2,9 +2,9 @@
 title: パフォーマンスマーケター向けAdobe GenStudioの概要  [!DNL Content]
 description: ブランドで承認されたアセットを 1 つの直感的なポータルで検索、編集、再利用、共有する方法について説明します。
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -20,45 +20,43 @@ GenStudio for Performance Marketers [!DNL Content] は、ブランドで承認�
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="拡大鏡" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="拡大鏡" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong> コンテンツを検索 </strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="プラス記号（+）付きの画像" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="プラス記号（+）付きの画像" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong> アセットの追加 </strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="アセットの稲妻" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong> テンプレートのカスタマイズ </strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="アセットの稲妻" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="プラス記号を使用したアセット上のボルトの軽量化" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong> テンプレートをアップロード </strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ GenStudio for Performance Marketers [!DNL Content] は、ブランドで承認�
 
 ### テンプレートの操作
 
-テンプレートを使用すると作成プロセスが迅速化されるので、複数のチャネルにわたって一貫性のあるコンテンツを生成できます。 テンプレートは、事前に設定されたレイアウトとデザイン要素を使用して、作成プロセスの開始点となります。
+テンプレートを使用すると作成プロセスが迅速化されるので、複数のチャネルにわたって一貫性のあるコンテンツを生成できます。 事前設定済みのレイアウトとデザイン要素を使用して、作成プロセスの出発点として使用するカスタムテンプレートをアップロードします。

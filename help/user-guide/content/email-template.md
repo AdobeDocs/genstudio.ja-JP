@@ -3,9 +3,9 @@ title: パフォーマンスマーケター向けのAdobe GenStudio用メール�
 description: パフォーマンスマーケター向けにAdobe GenStudio用のカスタムメールテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。 メールテンプレートを設計、コーディング、テストしたら、アップロード用に準備し、パフォーマンスマーケターがGenStudioで使用できるようにします。
 
-[ テンプレートの詳細 ](/help/user-guide/content/use-templates.md#anatomy-of-a-template) を参照してください。
+[ テンプレート要素 ](use-templates.md#template-elements) を参照してください。
 
 ## ガイドラインの追加
 

@@ -1,10 +1,10 @@
 ---
 title: アクセシブルなテンプレートの作成
-description: パフォーマンスマーケター向けのAdobe GenStudioに使用するために、すべてのオーディエンスに到達できるテンプレートを作成します。
+description: より多くのオーディエンスにリーチし、最適なエクスペリエンスを提供できるパフォーマンスマーケター向けのテンプレートを、Adobe GenStudioして作成します。
 feature: Templates, Content
-source-git-commit: 26d1b9c7b392e93e87ffcd9444f391c2980d1c3c
+source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
