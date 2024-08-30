@@ -2,9 +2,9 @@
 title: 有効なプロンプトの記述
 description: パフォーマンスマーケター向けのAdobe GenStudioの効果的なプロンプトを記述する方法について説明します。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/over
 
 >[!NOTE]
 >
->プロンプト領域の _パラメータ_ にガイドラインが追加されている場合は、プロンプトにガイドラインへの参照を含める必要はありません。 GenStudio for Performance マーケターは、これらの [!DNL Brands]、[!DNL Products] および [!DNL Personas] をコンテンツの生成に活用します。
+>プロンプト領域の _パラメータ_ にガイドラインが追加されている場合は、プロンプトにガイドラインへの参照を含める必要はありません。 パフォーマンスマーケター向けGenStudioでは、これらの [!DNL Brands]、[!DNL Products] および [!DNL Personas] をコンテンツの生成に活用します。
 
 ### ガイドライン
 
@@ -57,15 +57,7 @@ GenStudio for Performance Marketers のガイドラインは、ジェネレー�
 
 ## 再試行
 
-プロンプトは反復的なプロセスです。 結果が期待どおりでない場合は、プロンプトを確認し、変更を加えるか、詳細を追加します。 URL を例として、または詳しい情報のソースとして指定することで、プロンプトを絞り込むことができます。
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-または、キャンペーン概要のセクションにペーストすることもできます。 GenStudio for Performance Marketer に対して、特定の単語、要素またはテーマを避けるようにリクエストすることもできます。
+プロンプトは反復的なプロセスです。 結果が期待どおりでない場合は、プロンプトを確認し、変更を加えるか、詳細を追加します。 または、キャンペーン概要のセクションにペーストすることもできます。 GenStudio for Performance Marketer に対して、特定の単語、要素またはテーマを避けるようにリクエストすることもできます。
 
 ## ベストプラクティス
 
