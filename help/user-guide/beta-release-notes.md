@@ -2,9 +2,9 @@
 title: パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 description: パフォーマンスマーケター向けのAdobe GenStudioに対する最新機能と機能強化について説明します。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca5e746850925252679facc321d7522b251cd57a
+source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ## 新機能
 
-* GenStudioでメディアアセットをプレビューするオプションがサポートされ [!DNL Insights] した。 ビデオサムネールには、ミュートオプション付きの **再生** ボタンが含まれています。<!-- GS-4398 -->
-
-* Assetsを [!DNL Insights] でタイプ `video` でフィルタリングできるようになりました。<!-- GS-4398 -->
+* GenStudioで、テーブル表示およびギャラリー表示でメディアアセットをプレビュー [!DNL Insights] るオプションがサポートされるようになりました。 ビデオサムネールには、ミュートオプション付きの **再生** ボタンが含まれています。<!-- GS-4398 -->
 
 ## 既知の問題
 
