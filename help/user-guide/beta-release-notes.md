@@ -2,9 +2,9 @@
 title: パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 description: パフォーマンスマーケター向けのAdobe GenStudioに対する最新機能と機能強化について説明します。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * [!DNL Create Canvas] がメタ広告の画像を正しくレンダリングしません。<!-- GS-4864 -->
 
-* キャンペーンのないAssetsは、[!DNL Content] に正常にアップロードできますが、ユーザーには表示されない場合があります。<!-- GS-4815 -->
+* テンプレートはアップロードできますが、表示されません。<!-- GS-4815 -->
 
 * MetaAds キャンバスプレビューと書き出されたビューの間に不一致が存在します。<!-- GS-4492 4401 -->
 
