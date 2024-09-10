@@ -2,9 +2,9 @@
 title: パフォーマンスマーケター向けAdobe GenStudioBeta リリースノート
 description: パフォーマンスマーケター向けのAdobe GenStudioに対する最新機能と機能強化について説明します。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ ht-degree: 0%
 * _Assetsを追加_ ポップアップが期待どおりにローカライズされました。<!-- GS-3834 -->
 
 * メタ広告エクスペリエンステンプレートの拡大縮小に関する問題が解決されました。<!-- GS-4174 -->
-
-* テンプレート用に作成されたコンテンツフラグメントモデルをAEMで正確に表現できるようになりました。<!-- GS-4716 -->
 
 * マルチパート形式のメールの CSV 書き出しファイルのテキストフィールドが、期待どおりに並べられるようになりました。<!-- GS-4013 -->
 
