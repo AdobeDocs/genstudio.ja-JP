@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
-
 
 # メールエクスペリエンスの作成
 
@@ -69,16 +69,14 @@ ht-degree: 0%
 
 ## 生成されたメールを修正
 
-承認または公開用に送信する内容を選択する前に [!DNL Content] メールフラグメントを編集したり、生成された一連のメールからバリアントを削除したりできます。
+承認または公開用に送信する内容を選択する前に [!DNL Content] メールセクションを編集したり、生成された一連のメールからバリアントを削除したりできます。
 
 **生成されたバリアントを修正するには**:
 
-* **メールのドラフト名を編集するには**、キャンバス上部の _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
-* **メールを手動で編集するには**、メールフラグメント（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
-
-  件名行とプリヘッダーは、編集に 1 回のクリックのみが必要ですが、ヘッダー、本文コピー、コールトゥアクションでは、ダブルクリックが必要です。
-
-* **メールを削除するには**、をクリックしてメールのタイトル（「メール 1/4」など）を選択し、「**[!UICONTROL バリアントを削除]**」をクリックします。
+* **メールドラフト名を [ 編集](/help/user-guide/create/manage-variants.md#change-draft-name)** するには、キャンバスの上部にある _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
+* **メールを [ 手動で編集](/help/user-guide/create/manage-variants.md#manually-edit-text)** するには、編集可能なテキストフィールド（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
+* **バリアントのセクションを [ 再生成](/help/user-guide/create/manage-variants.md#re-generate-sections)** するには、編集可能なテキストフィールドをクリックして _[!UICONTROL 編集候補]_ オプションを使用するか、新しいプロンプトを入力して **[!UICONTROL 生成]** をクリックします。
+* **メールを [ 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、をクリックしてメールのタイトル（「メール 1/4」など）を選択し、「**[!UICONTROL バリアントを削除]**」をクリックします。
 
 ## ブランドの整合性の確認
 
@@ -87,7 +85,7 @@ ht-degree: 0%
 **ブランドの整合性を検証するには**:
 
 1. バリアントの [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) アイコンをクリックすると、ブランドに対してチェックされたときのそのバリアントのパフォーマンスの概要が表示されます。
-1. 改善が必要なフラグメントとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
+1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各メールを切り替えて、生成されたコンテンツを改善してブランドに合わせるようにする方法を確認します。
 1. [ メールを手動で修正 ](#revise-generated-emails) し、メールがブランドと密接に連携するようにします。

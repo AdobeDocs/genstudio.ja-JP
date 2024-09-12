@@ -2,13 +2,13 @@
 title: パフォーマンスマーケター向けGenStudioの概要  [!DNL Create]
 description: パフォーマンスマーケター向けのAdobe GenStudioで、ジェネレーティブ AI を使用して、高パフォーマンスのオンブランドコンテンツを迅速に生成  [!DNL Create] ます。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '549'
 ht-degree: 2%
 
 ---
-
 
 # パフォーマンスマーケター向けGenStudio [!DNL Create]
 
@@ -103,6 +103,12 @@ GenStudio for Performance マーケターは、（[ ガイドライン ](/help/u
 組み込みの [ レビューと承認 ](/help/user-guide/approvals/overview.md) 機能を使用して、作成プロセス中にレビューを勧誘、レビューのコメントを追跡、承認を取得します。
 
 コンテンツバリエーションの生成が完了したら、関係者の承認を得るためにドラフトを送信します。これにより、関係者はドラフトを保存して、マーケティング活動に実装で [!DNL Content] ます。
+
+### バリアントの管理
+
+GenStudio for Performance マーケターは、[ 個々のバリアントのセクションを包括的に制御 ](/help/user-guide/create/manage-variants.md) できます。
+
+単一のバリアントのセクションを改訂し、個々のセクションの内容を再生成し、提案された編集を使用して、メッセージ、切り抜き、アセットのサイズなどをキャンバス内で改善できます。
 
 ## チュートリアル
 
