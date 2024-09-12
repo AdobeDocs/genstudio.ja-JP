@@ -3,10 +3,10 @@ title: パフォーマンスマーケター向けGenStudioの概要  [!DNL Creat
 description: パフォーマンスマーケター向けのAdobe GenStudioで、ジェネレーティブ AI を使用して、高パフォーマンスのオンブランドコンテンツを迅速に生成  [!DNL Create] ます。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 2%
+source-wordcount: '554'
+ht-degree: 1%
 
 ---
 
@@ -18,8 +18,7 @@ GenStudio for Performance Marketers [!DNL Create] は、Adobe GenAI の機能を
 
 * メール
 * メタ広告
-<!-- * Social media images and ads
-* Display ads -->
+* 広告の表示
 
 [ ガイドライン ](/help/user-guide/guidelines/overview.md) （[!DNL Brands]、[!DNL Products]、[!DNL Personas]） [ コンテンツ ](/help/user-guide/content/overview.md)、[ レビューと承認 ](/help/user-guide/approvals/overview.md)、[ インサイト ](/help/user-guide/insights/overview.md) の機能に加えて、効果的なブランドに合致したマーケティングコンテンツの作成 [!DNL Create] 容易になります。
 
@@ -108,12 +107,13 @@ GenStudio for Performance マーケターは、（[ ガイドライン ](/help/u
 
 GenStudio for Performance マーケターは、[ 個々のバリアントのセクションを包括的に制御 ](/help/user-guide/create/manage-variants.md) できます。
 
-単一のバリアントのセクションを改訂し、個々のセクションの内容を再生成し、提案された編集を使用して、メッセージ、切り抜き、アセットのサイズなどをキャンバス内で改善できます。
+単一のバリアントのセクションを改訂し、個々のセクションのコンテンツを再生成し、提案された編集内容を使用して、メッセージ、サイズ、アセットなどをキャンバス内ですべて改善できます。
 
 ## チュートリアル
 
 * [メールエクスペリエンスの作成](/help/tutorials/create-email-experience.md)
 * [メタ広告エクスペリエンスの作成](/help/tutorials/create-meta-ad.md)
+* [ディスプレイとエクスペリエンスの作成](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

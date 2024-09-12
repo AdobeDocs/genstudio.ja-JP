@@ -1,15 +1,15 @@
 ---
 title: メールエクスペリエンスの作成
-description: Adobeでメールエクスペリエンスを作成する方法を説明します  [!DNL GenStudio]。
-feature: Content, Brands Service, Guidelines, Content Generation
+description: パフォーマンスマーケター向けに、Adobeでメールエ  [!DNL GenStudio]  スペリエンスを作成する方法を説明します。
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
    * **[!UICONTROL アップロード]** をクリックしてファイルを参照し、使用するアセットを選択します。 デバイスの参照に加えて、Microsoft OneDrive またはDropboxから読み込むこともできます。
    * アセットを「_コンテンツ_ セクションにドラッグ&amp;ドロップします。
+1. **[!UICONTROL 使用]** をクリックします。
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ ht-degree: 0%
 * **メールを [ 手動で編集](/help/user-guide/create/manage-variants.md#manually-edit-text)** するには、編集可能なテキストフィールド（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
 * **バリアントのセクションを [ 再生成](/help/user-guide/create/manage-variants.md#re-generate-sections)** するには、編集可能なテキストフィールドをクリックして _[!UICONTROL 編集候補]_ オプションを使用するか、新しいプロンプトを入力して **[!UICONTROL 生成]** をクリックします。
 * **メールを [ 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、をクリックしてメールのタイトル（「メール 1/4」など）を選択し、「**[!UICONTROL バリアントを削除]**」をクリックします。
+
+## デバイスのプレビュー
+
+メールエクスペリエンスを修正および準備する際に、デスクトップビューとモバイルビューのプレビューを切り替えて、ドラフトバリアントの一貫性と視覚的魅力を確保できます。
+
+**デスクトップおよびモバイルデバイスのバリアントをプレビューするには** 右側のメニューバー（コンピューターおよび電話のアイコン）で「**デスクトップ**」と「**モバイル**」の間のデバイスプレビューオプションを切り替えて、バリアントの表示をプレビューします。
 
 ## ブランドの整合性の確認
 

@@ -2,9 +2,9 @@
 title: バリアントの管理
 description: 生成されるバリアントとアセットをカスタマイズし、デジタルマーケティングのニーズに合わせて強化します。
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ GenStudio for Performance マーケターは、「編集候補 _[!UICONTROL や�
 
    バリアントが、改訂されたテキストで更新されます。
 
-## アセットの切り抜き
+<!-- ## Crop assets
 
-個別に生成されたバリアントで、画像アセットを手動で切り抜いたり再配置したりできます。
+You can manually crop and reposition image assets in individual generated variants.
 
-**バリアント内の画像の切り抜きと再配置**
+**To crop and reposition images in variants**:
 
-1. バリアントのセットを生成した後、バリアント内の画像の上にマウスポインターを置きます。
-1. 「**[!UICONTROL 切り抜きを適用]**」をクリックします。
-1. ズームイン/ズームアウトして、画像を目的の位置にドラッグします。
-1. 「**[!UICONTROL 適用]**」をクリックします。
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   切り抜いた画像は自動的に保存され、バリアントに対して表示されます。
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## アスペクト比の変更
 
 目的の広告サイズに合わせて、メタ広告の縦横比をすばやく変更できます。
 
-使用可能な縦横比は次のとおりです。
+使用できるサイズ/縦横比は次のとおりです。
 
-* 1:1 正方形
-* 4:5 垂直
-* 9:16 垂直
+* 1:1 平方（メタ）
+* 縦 4:5 （メタ）
+* 9:16 縦（Meta）
+* 250 x 980 （ディスプレイ広告）
 
-**生成されたメタ広告の縦横比を変更するには**:
+>[!NOTE]
+>
+>使用可能なテンプレートに応じて、他の縦横比やサイズも使用できます。
+
+**生成されたバリアントの縦横比を変更するには**:
 
 1. バリアントのセットを生成したら、キャンバスの左側にある縦横比のサイズ変更アイコン（ボックスの隅を指す矢印）を選択します。
 
