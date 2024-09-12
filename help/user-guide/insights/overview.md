@@ -3,9 +3,9 @@ title: 概要  [!DNL Insights]
 description: リアルタイムコンテンツのパフォーマンス指標に基づいてエクスペリエンスを最適化する方法を説明します。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ### エクスペリエンス
 
-[!DNL Insights] の _[!UICONTROL エクスペリエンス]_ ビューは、エクスペリエンスの有効性の評価に重点を置いています。 [!UICONTROL  エクスペリエンス ] ビューを使用すると、指定した日付範囲内の広告プレースメントに基づいてエクスペリエンスの指標を分析できます。 _[!UICONTROL 広告名]_ をクリックすると、選択したエクスペリエンスで使用されているアセットのリストにアクセスでき、全体的な成功に貢献したコンポーネントを特定できます。
+[!DNL Insights] の _[!UICONTROL エクスペリエンス]_ ビューは、エクスペリエンスの有効性の評価に重点を置いています。 [!UICONTROL  エクスペリエンス ] ビューを使用すると、指定した日付範囲内の広告プレースメントに基づいてエクスペリエンスの指標を分析できます。 _[!UICONTROL 広告名]_ をクリックすると、広告パフォーマンス指標、広告配置別のパフォーマンスおよび属性を表示できます。
 
 ### アセット
 

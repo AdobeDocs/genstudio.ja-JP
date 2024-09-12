@@ -2,13 +2,13 @@
 title: チャネルの概要
 description: パフォーマンスマーケター向けのAdobe GenStudioで、マーケティングキャンペーンに対する顧客エンゲージメント、パフォーマンス、予算、支出の概要を参照してください。
 feature: Insights, Channels
-source-git-commit: 2e76eadcc3281ea935dca383eb3db8c41b83e679
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
-
 
 # チャネルの概要
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 [!UICONTROL  チャネル ] テーブルは、チャネルベースの広告キャンペーンを使用して整理されます。 テーブルの左側の上にフィルター（ファネル）アイコンをクリックすると、**[!UICONTROL フィルター]** メニューが開き、[!UICONTROL  アカウント ]、[!UICONTROL  ステータス ]、[!UICONTROL  目的 ] リストから選択して、テーブル内のキャンペーンをフィルタリングできます。
 
-![ チャネルフィルターとテーブル ](../../assets/insights-channel-filter.png)
+![ チャネルフィルターとテーブル ](../../assets/insights-channels-filter.png)
 
-キャンペーンを選択すると、「[!UICONTROL  エクスペリエンス ]」タブが開き、そのキャンペーンに関連付けられている広告名のリストが表示されます。
+キャンペーンを選択すると、「[[!UICONTROL  エクスペリエンス ]」タブが開き ](experiences.md) そのキャンペーンに関連付けられた広告名のリストが表示されます。ここから、成功に貢献したエクスペリエンスを特定できます。
 
 ## 目的
 
