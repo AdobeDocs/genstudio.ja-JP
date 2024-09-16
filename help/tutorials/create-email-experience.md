@@ -1,15 +1,15 @@
 ---
 title: メールエクスペリエンスの作成
-description: パフォーマンスマーケター向けに、Adobeでメールエ  [!DNL GenStudio]  スペリエンスを作成する方法を説明します。
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+description: Adobeでメールエクスペリエンスを作成する方法を説明します  [!DNL GenStudio]。
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,6 @@ ht-degree: 0%
    * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
    * **[!UICONTROL アップロード]** をクリックしてファイルを参照し、使用するアセットを選択します。 デバイスの参照に加えて、Microsoft OneDrive またはDropboxから読み込むこともできます。
    * アセットを「_コンテンツ_ セクションにドラッグ&amp;ドロップします。
-1. **[!UICONTROL 使用]** をクリックします。
 
 >[!NOTE]
 >
@@ -70,20 +69,16 @@ ht-degree: 0%
 
 ## 生成されたメールを修正
 
-承認または公開用に送信する内容を選択する前に [!DNL Content] メールセクションを編集したり、生成された一連のメールからバリアントを削除したりできます。
+承認または公開用に送信する内容を選択する前に [!DNL Content] メールフラグメントを編集したり、生成された一連のメールからバリアントを削除したりできます。
 
 **生成されたバリアントを修正するには**:
 
-* **メールドラフト名を [ 編集](/help/user-guide/create/manage-variants.md#change-draft-name)** するには、キャンバスの上部にある _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
-* **メールを [ 手動で編集](/help/user-guide/create/manage-variants.md#manually-edit-text)** するには、編集可能なテキストフィールド（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **メールを [ 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、をクリックしてメールのタイトル（「メール 1/4」など）を選択し、「**[!UICONTROL バリアントを削除]**」をクリックします。
+* **メールのドラフト名を編集するには**、キャンバス上部の _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
+* **メールを手動で編集するには**、メールフラグメント（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
 
-## デバイスのプレビュー
+  件名行とプリヘッダーは、編集に 1 回のクリックのみが必要ですが、ヘッダー、本文コピー、コールトゥアクションでは、ダブルクリックが必要です。
 
-メールエクスペリエンスを修正および準備する際に、デスクトップビューとモバイルビューのプレビューを切り替えて、ドラフトバリアントの一貫性と視覚的魅力を確保できます。
-
-**デスクトップおよびモバイルデバイスのバリアントをプレビューするには** 右側のメニューバー（コンピューターおよび電話のアイコン）で「**デスクトップ**」と「**モバイル**」の間のデバイスプレビューオプションを切り替えて、バリアントの表示をプレビューします。
+* **メールを削除するには**、をクリックしてメールのタイトル（「メール 1/4」など）を選択し、「**[!UICONTROL バリアントを削除]**」をクリックします。
 
 ## ブランドの整合性の確認
 
@@ -92,7 +87,7 @@ ht-degree: 0%
 **ブランドの整合性を検証するには**:
 
 1. バリアントの [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) アイコンをクリックすると、ブランドに対してチェックされたときのそのバリアントのパフォーマンスの概要が表示されます。
-1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
+1. 改善が必要なフラグメントとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各メールを切り替えて、生成されたコンテンツを改善してブランドに合わせるようにする方法を確認します。
 1. [ メールを手動で修正 ](#revise-generated-emails) し、メールがブランドと密接に連携するようにします。

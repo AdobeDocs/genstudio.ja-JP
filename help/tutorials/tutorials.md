@@ -2,9 +2,9 @@
 title: パフォーマンスマーケターTutorials向けのAdobe GenStudio
 description: GenStudio for Performance Marketers のチュートリアルに従って、メールエクスペリエンスの作成などのエンドツーエンドのプロセスを完了する方法を説明します。
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
-source-git-commit: 1833ff2ee3f6fb6244d77c243fab6a09daa2dad3
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -37,16 +37,16 @@ ht-degree: 0%
    <p>
       <em> ブランドに合わせたメタ広告エクスペリエンスを作成する方法を説明します </em>。
    </p>
-</td>
+</td><!-- 
 <td valign="top">
    <div>
-      <a href="create-display-ad.md">
-      <img alt="アイデア，本，鉛筆，コンピューター" src="../assets/card-create-assets.png">
-      <strong> ディスプレイ広告エクスペリエンスの作成 </strong>
+      <a href="create-email-experience.md">
+      <img alt="Ideas, books, pencil, computer" src="../assets/card-create-assets.png">
+      <strong>Create an email experience</strong>
       </a>
    </div>
    <p>
-      <em> ブランド情報に基づくディスプレイ広告エクスペリエンスを作成する方法を説明します </em>。
+      <em>Learn how to create an on-brand Email experience.</em>
    </p>
-</td>
+</td> -->
 </table>

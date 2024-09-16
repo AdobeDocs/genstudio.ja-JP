@@ -4,10 +4,10 @@ breadcrumb-title: チュートリアル
 user-guide-description: ジェネレーティブ AI とインテリジェントな自動化により、コンテンツのサプライチェーンを加速および簡素化するエンドツーエンドのソリューションであるAdobe [!DNL GenStudio] に関するExperience Leagueチュートリアルをご覧ください。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 22222bfb4f04d31f3220f3ce2f28349c38138131
+source-git-commit: 1e61dfc03ea70ca1f1eb31610c8d486ab6a44611
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '41'
+ht-degree: 9%
 
 ---
 
@@ -17,5 +17,4 @@ ht-degree: 8%
 + [[!DNL GenStudio] チュートリアル](tutorials.md)
 + [メールエクスペリエンスの作成](create-email-experience.md)
 + [メタ広告エクスペリエンスの作成](create-meta-ad.md)
-+ [ディスプレイとエクスペリエンスの作成](create-display-ad.md)
 + [[!DNL GenStudio] ユーザーガイド](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
