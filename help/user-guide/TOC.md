@@ -4,9 +4,9 @@ breadcrumb-title: ユーザーガイド
 user-guide-description: オンブランドのアセットをすばやく見つけて生成する方法、バリエーションを作成する方法、リアルタイムのコンテンツパフォーマンスインサイトに基づいてエクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 12%
 
 ---
@@ -39,8 +39,9 @@ ht-degree: 12%
    + [Publish承認済みコンテンツ](approvals/publish-content.md)
 + Content {#content}
    + [コンテンツの概要](content/overview.md)
-   + [アセットの詳細](content/asset-details.md)
    + [アセットの管理](content/manage-assets.md)
+   + [AEM リポジトリの接続](content/connect-aem-repo.md)
+   + [アセットの詳細](content/asset-details.md)
    + テンプレート {#templates}
       + [テンプレートの操作](content/use-templates.md)
       + [テンプレートのカスタマイズ](content/customize-template.md)

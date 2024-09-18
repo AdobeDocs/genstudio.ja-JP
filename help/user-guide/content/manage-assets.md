@@ -2,19 +2,45 @@
 title: アセットとエクスペリエンスの管理
 description: デジタルマーケティングジャーニーでの使用と再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
 feature: Content, Assets, Experiences
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
+source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
-
 
 # アセットとエクスペリエンスの管理
 
 パフォーマンスの高いマーケター向けのAdobe GenStudioデジタルマーケティングジャーニーでの使用 [!DNL Content] 再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
 
-## アセットの追加
+## Assets美術館
+
+[!UICONTROL Assets] ギャラリーには、承認されたアセットのインベントリが表示されます。 テーブルの左側の上にあるフィルター（ファネル）アイコンをクリックすると、**[!UICONTROL フィルター]** メニューが開き、多数のカテゴリから選択して、ギャラリーに表示されるアセットをフィルタリングできます。 検索（虫眼鏡）アイコンをクリックし、キーワードを使用してアセットを検索します。
+
+以下は、[!UICONTROL Assets] ギャラリーの用語 `dog` に対する検索を示しています。
+
+![ 犬で検索したAssets ビュー ](../../assets/content-assets.png)
+
+### Assets場所
+
+デフォルトでは、[!DNL Create] プロセスまたはアップロードを通じて [!DNL Content] に追加したアセットは、`GenStudio assets` リポジトリに保存されます。 `GenStudio assets` リポジトリは、パフォーマンスマーケター向けの、GenStudioの読み取り/書き込みリポジトリです。 つまり、`GenStudio assets` リポジトリ内のアセットを保存、編集、削除できます。
+
+右側のギャラリーの上にある **[!UICONTROL 場所]** リストを使用すると、接続されたAdobe Experience Manager（AEM）の [!DNL Assets Content Hub] リポジトリから選択できます。 AEM リポジトリを選択すると、そのリポジトリのアセットのインベントリがギャラリーに表示され、承認されたアセットをコンテンツ作成用の入力として活用できます。 フィルターオプションは、[!DNL AEM Assets Content Hub] で設定されたカテゴリを反映して変更されます。
+
+AEM リポジトリーは読み取り専用です。つまり、ドラフト、新しいアセットまたはメタデータをAEM リポジトリーに保存することはできません。 アセット、エクスペリエンスおよびテンプレートのすべてのドラフトと最終更新は、新しい [ システムメタデータ ](asset-details.md#system-metadata) とともに `GenStudio assets` リポジトリに保存されます。
+
+パフォーマンスマーケター向けにAEM リポジトリをGenStudioに追加する方法については、[[!DNL AEM Assets Content Hub] リポジトリの接続 ](connect-aem-repo.md) を参照してください。
+
+## Assets管理
+
+[!UICONTROL  コンテンツ ] では、パフォーマンスマーケターはデジタルアセットを簡単に保存、取得および管理できます。 `GenStudio assets` リポジトリーとAEM リポジトリーの両方を活用することで、アセットが適切に整理され、様々なマーケティングキャンペーンからアクセスできるようになります。 このマルチリポジトリアプローチは、環境全体でのアセットの使用を柔軟に制御し、承認された最新のアセットのみをマーケティング活動で使用できるようにします。
+
+### アセットの追加
+
+アセットを [!DNL Content] に追加すると、デフォルトでは、`GenStudio assets` リポジトリに保存されます。 「_[!UICONTROL アセットを追加]_」ボタンは、「_[!UICONTROL 場所]_ が `GenStudio assets` リポジトリの場合にのみ使用できます。
+
+![Location フィールド ](../../assets/content-location.png){width="350" align="center"}
 
 **1 つ以上のアセットを追加するには**:
 
@@ -40,15 +66,21 @@ ht-degree: 0%
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## アセットを検索
+### アセットを検索
 
 [!DNL Content] 検索インターフェイスは迅速かつレスポンシブで、生産的な検索ファーストエクスペリエンスを提供します。
 
-フィルターを適用し、アセットの詳細からメタデータタグを使用して、検索結果を絞り込みます。 例えば、キャンペーンの新しいエクスペリエンスを構築するのに役立つアセットを検索したい場合があります。
+フィルターを適用し、アセットの詳細からメタデータタグを使用して、検索結果を絞り込みます。 例えば、キャンペーンの新しいエクスペリエンスを構築するのに役立つ、特定のファイルタイプや件名のアセットを検索することができます。
 
 **再利用するコンテンツを検索するには**:
 
 1. _[!DNL Content]_で、「**[!UICONTROL Assets]**」セクションを選択します。
+
+1. **[!UICONTROL 場所]** リストからアセットリポジトリを選択するか、正しいアセットリポジトリを表示していることを確認します。 デフォルトのリポジトリは `GenStudio assets` です。
+
+   >[!IMPORTANT]
+   >
+   >_場所_ リストを使用できるのは [AEM リポジトリに接続 ](connect-aem-repo.md) している場合のみです。
 
 1. **[!UICONTROL 検索]** （虫眼鏡）をクリックして、キーワードまたは説明を入力します。
 
