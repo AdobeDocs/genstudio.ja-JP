@@ -1,15 +1,15 @@
 ---
 title: メタ広告エクスペリエンスの作成
-description: ジェネレーティブ AI を使用して、FacebookまたはInstagram用の新しいオンブランド Meta 広告エクスペリエンスを作成する方法について説明します。
-feature: Content, Brands Service, Guidelines, Content Generation
+description: パフォーマンスマーケター向けのAdobe GenStudioを使用して、FacebookまたはInstagram向けのオンブランドのメタ広告エクスペリエンスを作成する方法を説明します。
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
    * **[!UICONTROL アップロード]** をクリックしてファイルを参照し、使用するアセットを選択します。 デバイスの参照に加えて、Microsoft OneDrive またはDropboxから読み込むこともできます。
    * アセットを「_コンテンツ_ セクションにドラッグ&amp;ドロップします。
+1. **[!UICONTROL 使用]** をクリックします。
 
 パラメーターの追加が完了したら、「_パラメーター_」アイコンを再度クリックすると、プロンプト領域を折りたたむことができます。
 
@@ -67,7 +68,7 @@ ht-degree: 0%
 
 メタ広告を生成する際は、Facebook広告またはInstagram広告を選択できます。
 
-上部メニューバーのメタ広告チャネルオプションを **Facebook** または **Instagram** に切り替えて、各チャネルで生成されたドラフトを管理します。
+右側のメニューバー（FacebookとInstagramのアイコン **で「** Facebook」と「**Instagram**」の間のメタ広告チャネルオプションを切り替えて、各チャネルのバリアントを表示および管理します。
 
 [ メタ広告の変更 ](#revise-generated-meta-ads) を行う場合、Facebook広告とInstagram広告の縦横比を変更できます。
 
@@ -77,14 +78,13 @@ ht-degree: 0%
 
 **生成されたバリアントを修正するには**:
 
-* **メタ広告のドラフト名を編集するには**、キャンバスの上部にある _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
-* **メタ広告を手動で編集するには**、任意の広告フラグメント（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
-
-  件名とプリヘッダーは、編集に 1 回のクリックのみが必要ですが、ヘッダーと本文のコピーは、ダブルクリックが必要です。
-
-* **コールトゥアクションを変更または選択するには**、コールトゥアクションボタンをクリックし、使用可能なボタンから選択します。
-* **サイズと縦横比を変更するには**、「サイズ変更 __ ボタン（キャンバスの左側にボタンアイコンが付いたボックス）をクリックして、すべてのバリアントに適用する新しいサイズと縦横比を選択します。 バリアントが複製され、サイズが変更されます。
-* **メタ広告を削除するには**、をクリックして広告タイトル（「Meta 4」など）を選択し、**[!UICONTROL バリアントを削除]** をクリックします。
+* **メタ広告のドラフト名を [ 編集](/help/user-guide/create/manage-variants.md#change-draft-name)** するには、キャンバスの上部にある _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
+* **メタ広告を [ 手動で編集](/help/user-guide/create/manage-variants.md#manually-edit-text)** するには、任意の広告セクション（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
+* **コールトゥアクションを変更または選択するには**、コールトゥアクションボタンをクリックし、使用可能なボタンテキストオプションから選択します。 _[!UICONTROL リンク]_ に、コールトゥアクションテキストの URL を入力します。
+* **広告のサイズと縦横比を [ 変更](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** するには、_[!UICONTROL サイズ変更]_ ボタン（キャンバスの左側にボタンアイコンが表示されたボックス）をクリックし、すべてのバリアントに適用する新しいサイズと縦横比を選択します。 バリアントが複製され、サイズが変更されます。
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+* **メタ広告を [ 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、広告タイトル（「Meta 4」など）をクリックし、**[!UICONTROL バリアントを削除]** をクリックします。
 
 ## ブランドの整合性の確認
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 **ブランドの整合性を検証するには**:
 
 1. バリアントの [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) アイコンをクリックすると、ブランドに対してチェックされたときのそのバリアントのパフォーマンスの概要が表示されます。
-1. 改善が必要なフラグメントとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
+1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各広告を切り替えて、生成されたコンテンツを改善してブランドに合わせる方法を確認します。
 1. [ 手動で広告を改訂 ](#revise-generated-meta-ads) して、広告がブランドと密接に連携していることを確認します。

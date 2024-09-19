@@ -4,7 +4,7 @@ description: パフォーマンスマーケターがブランドに合わせた�
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 8%
@@ -38,7 +38,7 @@ GenStudio for Performance Marketers は、ブランドアイデンティティ�
 
 ### GenStudio エディター
 
-**エディター** には、Performance Marketers [!DNL Brands]、[!DNL Campaigns] および [!DNL Content] アセット用のGenStudioを作成するために必要なコア権限があります。 また、作成したアセットを編集および削除することもできます。 パフォーマンスマーケター向けGenStudioでは、数百個のコンテンツをすばやく作成することができます。 これらのユーザーは、特定のマーケティングキャンペーンのニーズを満たすために、承認済みのコンテンツの個別の部分を調整するコンテンツフラグメントまたはエクスペリエンス全体を生成できます。
+**エディター** には、Performance Marketers [!DNL Brands]、[!DNL Campaigns] および [!DNL Content] アセット用のGenStudioを作成するために必要なコア権限があります。 また、作成したアセットを編集および削除することもできます。 パフォーマンスマーケター向けGenStudioでは、数百個のコンテンツをすばやく作成することができます。 これらのユーザーは、特定のマーケティングキャンペーンのニーズを満たすために、承認済みのコンテンツの個別の部分を調整するコンテンツセクションまたはエクスペリエンス全体を生成できます。
 
 編集者は、_プロンプト_ を通じてGenStudioを操作し、パフォーマンスマーケターの生成 AI テクノロジーを実現します。 キャンバスのプロンプト領域には、特定のキャンペーンのガイドラインのコンテキストでプロンプトを配置するツールが用意されています。 その結果、生成されるコンテンツの品質と成功は、組織がアップロードしたブランドガイドラインの品質と、プロンプトの特異性に部分的に依存します。
 

@@ -4,13 +4,13 @@ description: パフォーマンスマーケター向けのAdobe GenStudioでガ�
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
-
 
 # ガイドラインの追加
 
@@ -25,6 +25,9 @@ GenStudio for Performance Marketers にガイドラインを追加すること�
 パフォーマンスマーケター向けにGenStudioにブランドを追加するには、[ ブランドガイドをアップロード ](#upload-brand-guidelines) するか、[ 手動でブランドを作成 ](#manually-add-brand) ガイドラインを選択してブランドの詳細を入力します。 [Publish a brand](#publish-brand) を [!DNL Content] して、今後のコンテンツ生成で使用できるようにします。
 
 左側のナビゲーション領域で、「**[!DNL Brands]**」をクリックします。 _[!DNL Brands]_パネルで、「**ブランドを追加**」を選択します。
+
+>[!TIP]
+>各ブランドは、階層関係なしで独立して動作します。 親ブランドの下にサブブランドを作成するには、作成プロセス中に親ブランドの情報を含めます。
 
 ### アップロードからブランドを追加
 
