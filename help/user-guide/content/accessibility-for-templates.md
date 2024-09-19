@@ -2,13 +2,13 @@
 title: アクセシブルなテンプレートの作成
 description: より多くのオーディエンスにリーチし、最適なエクスペリエンスを提供できるパフォーマンスマーケター向けのテンプレートを、Adobe GenStudioして作成します。
 feature: Templates, Content
-source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
+exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
+source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # アクセシブルなテンプレートの作成
 
@@ -27,6 +27,13 @@ Adobeは、すべてのオーディエンスに最適なエクスペリエンス
 ```
 
 ![ アイデア、本、巨大な鉛筆を持つ男、コンピュータのコラージュ ](../../assets/card-create-assets.png){width="400"}
+
+## コントラスト比
+
+テキストと背景の間に適切なコントラストを指定します。 次の最小コントラスト比を使用します。
+
+- テキストおよびテキストの画像：4.5:1 以上のコントラスト比
+- 大きなテキストと大きなテキストの画像：3:1 以上のコントラスト比
 
 ## リンクの目的（リンクのみ）
 
