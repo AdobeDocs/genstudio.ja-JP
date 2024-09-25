@@ -1,20 +1,20 @@
 ---
-title: パフォーマンスマーケター向けGenStudio [!DNL Brands]
-description: GenStudio for Performance マーケターは  [!DNL Brands]  マーケティングコピー、画像、エクスペリエンスなどのブランドアセットを包括的に集めたもので、ブランドに合わせたコンテンツを作成するための情報を提供します。
+title: パフォーマンスマーケティング  [!DNL Brands]GenStudio
+description: GenStudio for Performance マーケティング  [!DNL Brands] 、マーケティングコピー、画像、エクスペリエンスなどのブランドアセットを包括的に集めたもので、ブランドに合わせたコンテンツの作成を通知します。
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 1%
 
 ---
 
-# パフォーマンスマーケター向けGenStudio [!DNL Brands]
+# Performance Marketing [!DNL Brands] 向けGenStudio
 
 ブランドは、組織、製品、サービスまたは概念を他のブランドと区別します。 ブランドの側面には、ロゴのような客観的なものと、声のトーンのような主観的なものがあります。
 
-GenStudio for Performance マーケターは、ブランドから得た豊富なブランド情報を活用し、[!DNL Product] や [!DNL Persona] の情報と提携して、包括的なブランドアイデンティティを構築します。 このブランドアイデンティティは、Adobeの生成 AI テクノロジーを使用してオンブランドコンテンツの作成を通知するために使用されます。
+GenStudio for Performance Marketing は、自社ブランドの豊富なブランドインフォメーションを活用し、[!DNL Product] や [!DNL Persona] の情報と提携し、包括的なブランドアイデンティティを構築します。 このブランドアイデンティティは、Adobeの生成 AI テクノロジーを使用してオンブランドコンテンツの作成を通知するために使用されます。
 
 **ブランドを表示または変更するには**:
 
@@ -22,11 +22,11 @@ GenStudio for Performance マーケターは、ブランドから得た豊富な
 1. ブランドの概要情報を確認するには、定義済みのブランドをクリックして開きます。
 1. 個々の詳細を表示したり、ブランドを変更したりするには、上部の [**[!UICONTROL  ブランドの音声ガイドライン ]**](#brand-voice-guidelines)、[**[!UICONTROL  チャネルガイドライン ]**](#channel-guidelines)、**[!UICONTROL 画像ガイドライン]**、または **[!UICONTROL ロゴ]** をクリックします。
 
-パフォーマンスマーケターがブランドを自動作成できるように、ブランドガイドラインドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudioにアップロードできます。 パフォーマンスマーケター向けにGenStudioにブランドを追加する方法、ブランドを変更する方法、ブランドを公開する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+Brand Guideline ドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudio for Performance Marketing にアップロードして、ブランドを自動的に作成できます。 Performance Marketing 用にGenStudioにブランドを追加する方法、ブランドを変更する方法、ブランドを公開する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
 
 ## [!DNL Brands] ガイドライン
 
-GenStudioのパフォーマンスマーケター向けガイドラインでは、ブランド固有のアプローチ、トーン、視覚的感覚などを明確に把握できます。
+GenStudio for Performance Marketing のガイドラインでは、ブランド固有のアプローチ、トーン、視覚的感覚などを明確に把握できます。
 
 次のガイドラインの節では、各ガイドラインのカテゴリ、例となるガイドライン、考えられる結果について詳しく説明します。 ガイドラインの例は、結果の出力を形作るサンプル入力です（以下の結果例）。それらを使用して、独自のブランドガイドラインを示します。
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketing](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## ブランドの検証
 
-GenStudio for Performance Marketers では、ブランドの検証は、[!DNL Brands]、[!DNL Products]、[!DNL Personas] のジェネレーティブ AI 機能と組み合わせて重要な役割を果たします。 これにより、すべてのコンテンツとブランドアイデンティティの一貫性を維持できます。
+GenStudio for Performance Marketing では、ブランドの検証は、[!DNL Brands]、[!DNL Products]、[!DNL Personas] の生成 AI 機能と組み合わせて重要な役割を果たします。 これにより、すべてのコンテンツとブランドアイデンティティの一貫性を維持できます。
 
 [ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md) を参照してください。

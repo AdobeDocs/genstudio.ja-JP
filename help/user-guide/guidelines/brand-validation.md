@@ -1,9 +1,9 @@
 ---
-title: パフォーマンスマーケター向けAdobe GenStudioでのブランド検証
-description: パフォーマンスマーケター向けに、GenStudioでのビルトインのブランド検証システムの仕組みについて説明します。
+title: パフォーマンスマーケティングにAdobe GenStudioしたブランド検証
+description: GenStudio for Performance Marketing におけるビルトインのブランド検証システムの仕組みについて説明します。
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # ブランドの検証
 
-GenStudio for Performance Marketers では、ブランド検証は、ジェネレーティブ AI 機能およびガイドライン（[[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)、[[!DNL Personas]](/help/user-guide/guidelines/personas.md)）と連携して機能する不可欠なコンポーネントです。 これにより、すべてのコンテンツがブランドアイデンティティに合わせて調整されます。
+GenStudio for Performance Marketing では、ブランド検証は、生成 AI 機能およびガイドライン（[[!DNL Brands]](/help/user-guide/guidelines/brands.md)、[[!DNL Products]](/help/user-guide/guidelines/products.md)、[[!DNL Personas]](/help/user-guide/guidelines/personas.md) など）と連携して機能する不可欠なコンポーネントです。 これにより、すべてのコンテンツがブランドアイデンティティに合わせて調整されます。
 
-GenStudio for Performance マーケターは、次のような様々な側面からブランド検証を実施します。
+GenStudio for Performance Marketing では、次のような様々な側面からブランド検証を実施しています。
 
 * 各顧客に固有のブランドガイドライン
 * 様々なチャネルプラットフォーム向けのコピーガイドライン

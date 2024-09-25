@@ -2,7 +2,7 @@
 title: バリアントの管理
 description: 生成されるバリアントとアセットをカスタマイズし、デジタルマーケティングのニーズに合わせて強化します。
 feature: Content, Assets, Experiences
-source-git-commit: bf22e0006f2abe96f8cffd3607d0a8ee7e138583
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # バリアントの管理
 
-パフォーマンスマーケター向けAdobe GenStudio [!DNL Create] を使用すると、生成されるバリアント（メール、メタ広告など）をカスタマイズして強化し、デジタルマーケティング戦略で使用できます。
+Performance Marketing [!DNL Create] のAdobe GenStudioを使用すると、生成されるバリアント（メール、メタ広告など）をカスタマイズおよび強化して、デジタルマーケティング戦略で使用できます。
 
 [ エクスペリエンスの作成 ](/help/tutorials/tutorials.md) 時に、生成されたバリアントのコンテンツとアセットを個別にまたはバッチで変更できます。 個々のマイクロレベルでバリアントを管理する機能により、生成されたコンテンツの各部分を明示的に管理できます。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 <!-- ## Re-generate sections
 
-GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 

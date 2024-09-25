@@ -1,20 +1,20 @@
 ---
-user-guide-title: Adobe [!DNL GenStudio] Tutorials
+user-guide-title: パフォーマンスマーケティングチュートリアルのAdobe GenStudio
 breadcrumb-title: チュートリアル
-user-guide-description: ジェネレーティブ AI とインテリジェントな自動化により、コンテンツのサプライチェーンを加速および簡素化するエンドツーエンドのソリューションであるAdobe [!DNL GenStudio] に関するExperience Leagueチュートリアルをご覧ください。
+user-guide-description: ジェネレーティブ AI とインテリジェントな自動化により、コンテンツサプライチェーンを加速および簡素化するエンドツーエンドのソリューションである、パフォーマンスマーケティングのGenStudioに関するチュートリアルをご覧ください。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 9%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
 
-# Adobe[!DNL GenStudio]Tutorials {#learning}
+# パフォーマンスマーケティングTutorialsのためのAdobe GenStudio {#learning}
 
-+ [[!DNL GenStudio] チュートリアル](tutorials.md)
++ [パフォーマンスマーケティングTutorials向けGenStudio](tutorials.md)
 + [メールエクスペリエンスの作成](create-email-experience.md)
 + [メタ広告エクスペリエンスの作成](create-meta-ad.md)
-+ [[!DNL GenStudio] ユーザーガイド](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [GenStudio for Performance マーケティングユーザーガイド ](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)

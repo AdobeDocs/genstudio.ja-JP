@@ -1,13 +1,13 @@
 ---
-title: マーケター向けのパフォーマンスコンテンツ用にAdobe GenStudioのバリアントを生成する
-description: パフォーマンスマーケター向けに、Adobe GenStudioで作成したコンテンツのバリアントを生成する方法を説明します。
+title: Performance Marketing コンテンツ用のAdobe GenStudioのバリアントを生成します
+description: Performance Marketing にAdobe GenStudioして、作成したコンテンツのバリアントを生成する方法を説明します。
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## メール
 
-デフォルトでは、GenStudio for Performance マーケターは、4 つのメールバリエーションを生成します。 新しいプロンプトと _パラメーター_ を組み合わせて、スタイル設定の目標やブランドのアドヒアランスを達成するために、手動で変更または再生成できます。
+デフォルトでは、GenStudio for Performance Marketing は 4 つのメールバリエーションを生成します。 新しいプロンプトと _パラメーター_ を組み合わせて、スタイル設定の目標やブランドのアドヒアランスを達成するために、手動で変更または再生成できます。
 
 **生成された E メールバリアントを変更するには：**
 
@@ -27,6 +27,6 @@ ht-degree: 0%
    1. **[!UICONTROL ブランド]**、**[!UICONTROL ペルソナ]** または **[!UICONTROL 製品]** [ ガイドライン ](/help/user-guide/guidelines/overview.md) を選択します。
    1. 「_[!UICONTROL コンテンツ]_」セクションで画像を追加または削除します。
    1. 「生成するエクスペリエンスを説明 _プロンプトボックスに新しいプロンプトを入力し_ す。
-1. **[!UICONTROL 生成]** をクリックします。
+1. 「**[!UICONTROL 生成]**」をクリックします。
 
 バリアントの新しいセットが生成されます。 [!DNL Content] に公開して使用するために書き出す準備が整うまで、バリアントに対する変更、生成、繰り返し処理を続行できます。

@@ -1,22 +1,22 @@
 ---
-title: パフォーマンスマーケター向けGenStudio [!DNL Personas]
-description: GenStudio for Performance マーケター  [!DNL Personas] 、顧客セグメントを真に表現し、顧客の関心、問題点、好み、行動特性を取り込みます。
+title: パフォーマンスマーケティング  [!DNL Personas]GenStudio
+description: GenStudio for Performance Marketing は  [!DNL Personas]  顧客セグメントを真に表現し、顧客の興味、問題点、好み、行動特性を取り込みます。
 feature: Personas Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-
-# パフォーマンスマーケター向けGenStudio [!DNL Personas]
+# Performance Marketing [!DNL Personas] 向けGenStudio
 
 顧客の情報、関心、問題点、好み、行動特性など、顧客セグメントを真正に描写で [!DNL Personas] ます。
 
-GenStudio for Performance マーケターは、ガイドライン（[[!DNL Brands]、 [!DNL Products]、および  [!DNL Personas]](overview.md)）とAdobeのジェネレーティブ AI テクノロジーの力を活用して、パーソナライズされたマーケティングコンテンツをターゲット顧客にキュレーション&#x200B;ます。
+GenStudio for Performance Marketing では、ガイドライン（[[!DNL Brands]、 [!DNL Products]、および  [!DNL Personas]](overview.md)）とAdobeのジェネレーティブ AI テクノロジーの機能を活用して、パーソナライズされたマーケティングコンテンツをターゲット顧客にキュレーション&#x200B;ます。
 
-GenStudio for Performance マーケター向けの ![[!DNL Personas] ガイドライン ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+GenStudio for Performance Marketing の ![[!DNL Personas] ガイドライン ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **ペルソナの表示または変更**:
 
@@ -24,11 +24,11 @@ GenStudio for Performance マーケター向けの ![[!DNL Personas] ガイド�
 1. [ 個々の詳細の表示またはペルソナの変更 ](add-guidelines.md#manage-personas) を行うには、_[!DNL Personas]_のアクションメニューをクリックして&#x200B;**開く**を選択します。
 1. ガイドラインカテゴリのテキストフィールドをクリックして、ペルソナのガイドラインを修正します。
 
-GenStudio for Performance マーケターでペルソナを追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+GenStudio for Performance Marketing でペルソナを追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
 
 ## [!DNL Personas] ガイドライン
 
-個々のペルソナのガイドラインにより、パフォーマンスマーケター向けにGenStudioに [!DNL Personas] ークフローの明確な全体像が提供されます。
+個々のペルソナのガイドラインは、GenStudio for Performance Marketing が [!DNL Personas] ーザーの状況を明確に把握できるようにします。
 
 このガイドラインでは、各ガイドラインのカテゴリと関連例について詳しく説明します。 例としては、生成されたコンテンツの出力を形成するサンプル入力があります。 これらを使用して、独自の [!DNL Personas] ガイドラインを伝えます。
 

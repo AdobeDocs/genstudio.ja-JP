@@ -1,24 +1,24 @@
 ---
 title: メールエクスペリエンスの作成
-description: パフォーマンスマーケター向けに、Adobeでメールエ  [!DNL GenStudio]  スペリエンスを作成する方法を説明します。
+description: パフォーマンスマーケティング用にAdobe GenStudioでメールエクスペリエンスを作成する方法を説明します。
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
 
 # メールエクスペリエンスの作成
 
-このチュートリアルでは、GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアの絵筆アイコン）を使用してブランド化されたメールエクスペリエンスを生成する方法を説明します。
+このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアの絵筆アイコン）を使用してブランド化されたメールエクスペリエンスを生成する方法を説明します。
 
-効果的なメールエクスペリエンスを作成するには、開始する前に [ パフォーマンスマーケター向けGenStudioにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) し、[ プロンプトの作成の基本 ](/help/user-guide/effective-prompts.md) を詳しく調べることをお勧めします。
+効果的なメールエクスペリエンスを作成するには、開始する前に [ パフォーマンスマーケティングのGenStudioにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) し、[ プロンプトの作成の基本 ](/help/user-guide/effective-prompts.md) を詳しく調べることをお勧めします。
 
 ## テンプレートを選択
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. _パラメーター_ アイコンをクリックして、プロンプト領域を展開します。
 1. 「_パラメーター_」セクションで、ガイドライン（[!DNL Brands]、[!DNL Personas]、[!DNL Products]）を選択して、コンテンツの作成を通知します。
 
-   これらのメニューに表示されるブランド、ペルソナまたは製品がない場合は、[ パフォーマンスマーケター向けGenStudioにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) してください。
+   これらのメニューに表示されるブランド、ペルソナまたは商品がない場合は、[ パフォーマンスマーケティングのGenStudioにガイドラインを追加してください ](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 「**[!UICONTROL コンテンツを選択]**」をクリックして、エクスペリエンスで使用するコンテンツを追加 *および* をクリックすると、コンテンツの生成に影響が及びます。
    * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。

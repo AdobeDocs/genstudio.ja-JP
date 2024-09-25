@@ -1,19 +1,19 @@
 ---
-title: パフォーマンスマーケターTutorials向けのAdobe GenStudio
-description: GenStudio for Performance Marketers のチュートリアルに従って、メールエクスペリエンスの作成などのエンドツーエンドのプロセスを完了する方法を説明します。
+title: パフォーマンスマーケティングTutorialsのためのAdobe GenStudio
+description: GenStudioのパフォーマンスマーケティングチュートリアルに従って、メールエクスペリエンスの作成など、エンドツーエンドのプロセスを完了する方法を説明します。
 exl-id: f4afb6c8-67d0-4499-84e8-0ab819543b59
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Performance Marketers チュートリアルのAdobe GenStudio
+# パフォーマンスマーケティングチュートリアルのAdobe GenStudio
 
-パフォーマンスマーケター向けAdobe GenStudioチュートリアルでは、ユーザーガイドのより深い概念へのリンクが含まれた、基本的なステップバイステップのワークフローに従っています。
+パフォーマンスマーケティングのAdobe GenStudioチュートリアルでは、ユーザーガイドのより深い概念へのリンクを含んだ、基本的なステップバイステップのワークフローに従っています。
 
-このガイドのチュートリアルでは、パフォーマンスマーケター向けGenStudioで高品質なマーケティングコンテンツを正常に生成するために必要な概念、前提条件、ベストプラクティスおよび個々の手順について説明します。
+このガイドのチュートリアルでは、GenStudio for Performance Marketing で高品質のマーケティングコンテンツを正常に生成するために必要な概念、前提条件、ベストプラクティスおよび個々の手順について説明します。
 
 <table style="table-layout:fixed">
 <td valign="top">

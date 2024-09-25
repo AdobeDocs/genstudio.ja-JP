@@ -1,13 +1,13 @@
 ---
 title: メタ広告エクスペリエンスの作成
-description: パフォーマンスマーケター向けのAdobe GenStudioを使用して、FacebookまたはInstagram向けのオンブランドのメタ広告エクスペリエンスを作成する方法を説明します。
+description: Performance Marketing のAdobe GenStudioを使用して、FacebookまたはInstagram向けのオンブランドのメタ広告エクスペリエンスを作成する方法を説明します。
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # メタ広告エクスペリエンスの作成
 
-このチュートリアルでは、GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアの絵筆アイコン）を使用してブランド化されたメタ広告エクスペリエンスを生成する方法を説明します。
+このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアの絵筆アイコン）を使用してブランド化されたメタ広告エクスペリエンスを生成する方法を説明します。
 
-メタ広告エクスペリエンスの生成を開始する前に、パフォーマンスマーケター向けGenStudioで [ ガイドラインを組み込む ](/help/user-guide/guidelines/add-guidelines.md) ことが重要です。また、[ プロンプトの作成 ](/help/user-guide/effective-prompts.md) の基本を理解しておいてください。
+メタ広告エクスペリエンスの生成を開始する前に、GenStudio for Performance Marketing で [ ガイドラインを組み込む ](/help/user-guide/guidelines/add-guidelines.md) ことが重要です。また、[ プロンプトの作成 ](/help/user-guide/effective-prompts.md) の基本を理解しておく必要があります。
 
 ## テンプレートを選択
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. _パラメーター_ アイコンをクリックして、プロンプト領域を展開します。
 1. 「_パラメーター_」セクションで、ガイドライン（[!DNL Brands]、[!DNL Personas]、[!DNL Products]）を選択して、コンテンツの作成を通知します。
 
-   これらのメニューに表示されるブランド、ペルソナまたは製品がない場合は、[ パフォーマンスマーケター向けGenStudioにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) してください。
+   これらのメニューに表示されるブランド、ペルソナまたは商品がない場合は、[ パフォーマンスマーケティングのGenStudioにガイドラインを追加してください ](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 「**[!UICONTROL コンテンツを選択]**」をクリックして、エクスペリエンスで使用するコンテンツを追加 *および* をクリックすると、コンテンツの生成に影響が及びます。
    * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
@@ -125,6 +125,6 @@ ht-degree: 0%
 
 ## メタを接続
 
-GenStudio for Performance マーケターを Meta に接続して、コンテンツのパフォーマンスに関する高度な分析と [ インサイト ](/help/user-guide/insights/overview.md) を受け取ることができます。
+GenStudio for Performance Marketing を Meta に接続して、コンテンツのパフォーマンスに関する高度な分析と [ インサイト ](/help/user-guide/insights/overview.md) を受け取ることができます。
 
 詳しくは、[ チャネルアカウントの接続 ](/help/user-guide/insights/connect-channel.md) を参照してください。
