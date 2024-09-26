@@ -3,13 +3,13 @@ title: パフォーマンスマーケター向けのAdobe GenStudio用メール�
 description: パフォーマンスマーケター向けにAdobe GenStudio用のカスタムメールテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # パフォーマンスマーケター向けのAdobe GenStudio用メールテンプレートの準備
 
@@ -30,6 +30,14 @@ ht-degree: 0%
 テンプレートは、デザイン後、HTMLとインライン CSS を使用してコーディングされます。 コードは、様々なデバイスに対してクリーンでレスポンシブである必要があります。
 
 [ テンプレートの例 ](/help/user-guide/content/customize-template.md#template-examples) を参照してください。
+
+### 複数セクションのメール
+
+コンテンツ生成時に [ 構造化プロンプト ](/help/user-guide/effective-prompts.md#structured-prompts) を使用して、メールのセクションごとに様々なコンテンツを生成するようGenStudio for Performance Marketingに指示できます。
+
+例えば、メールテンプレート内のセクションの先頭に `Pod`—`Pod1` と `Pod2` が付いている場合、コンテンツ生成の構造化されたプロンプトには、これらのメールセクションの特定のディレクティブを含めることができます。 GenStudio for Performance Marketingは、プロンプトでセクション固有のディレクティブを関連するメールセクションに一致させ、ディレクティブに合わせたコンテンツを生成します。
+
+[ 構造化プロンプト ](/help/user-guide/effective-prompts.md#structured-prompts) を参照してください。
 
 ## メールテンプレートのテスト
 

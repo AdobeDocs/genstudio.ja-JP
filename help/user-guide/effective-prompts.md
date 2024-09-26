@@ -2,13 +2,13 @@
 title: 有効なプロンプトの記述
 description: パフォーマンスマーケター向けのAdobe GenStudioの効果的なプロンプトを記述する方法について説明します。
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
+exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
+source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
-
 
 # 有効なプロンプトの記述
 
@@ -54,6 +54,44 @@ GenStudio for Performance Marketers のガイドラインは、ジェネレー�
 >[!TIP]
 >
 >GenStudio for Performance Marketers で [!DNL Brand] ガイドラインを使用する方法とタイミングを制御します。 ブランドガイドラインの設定および管理方法については、[ ガイドライン ](/help/user-guide/guidelines/overview.md) を参照してください。
+
+### 構造化されたプロンプト
+
+複数セクションのメールの場合、メール内のセクションごとに様々なコンテンツを生成するための、セクション固有の手順を提供するように促す構造を作成できます。 構造化プロンプトは、生成されたコンテンツを対応するコンテンツプレースホルダーに挿入できるように ](/help/user-guide/content/email-template.md#multi-section-emails) メールテンプレート内のセクション名 [ を直接参照する必要があります。
+
+例えば、メールの 1 番目のセクションで新製品を宣伝するコンテンツを作成し、2 番目のセクションで製品のコスト削減メリットの詳細を説明するコンテンツを作成するようにGenStudio for Performance Marketingに指示できます。
+
+構造化されたプロンプトでは、次の操作を行う必要があります。
+
+- メールテンプレートのセクション名に、次のいずれかの参照を使用します。
+   - ポッド
+   - グループ
+   - セクション
+   - モジュール
+
+  例えば、テンプレートでセクション名として `moduleA` または `Group-3` を使用している場合、プロンプトでこれらのセクション名を参照できます。
+
+- 推奨されるルール/構造に従います。 プロンプト構造が指定された形式に準拠していない場合、プロンプトは *すべて* のメールセクションに適用され、引き続きコンテンツの生成を容易にします。
+- [ メールテンプレートで定義した ](/help/user-guide/content/email-template.md#code-an-email-template) セクション名を使用します。 プロンプト参照は、メールテンプレートにコーディングされたセクション名と一致する必要があります。
+- 大文字と小文字を区別しない。 例えば、メールテンプレートと構造化プロンプトで `Pod` または `pod` を使用できます。
+- 最初に汎用のユーザープロンプトを参照し、次にセクション固有のディレクティブを参照します。
+- セクション名の参照とディレクティブの間の区切りとして、コロン、ハイフン、コンマ、その他の区切り文字（`,:;#$!~|@=-%&*^_`）を使用します。 例えば、次をセクション固有のプロンプトディレクティブとして使用できます。`Pod1; Describe how to easily edit text and swap images.`
+
+以下は、推奨されるプロンプト構造を明確にし、`Pod1`、`Pod2`、`Pod3` などの識別用語 `Pod` を使用するメールテンプレートを活用するプロンプトのサンプルです。
+
+```properties
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
+
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
+```
+
+[ メールテンプレートの準備 ](/help/user-guide/content/email-template.md#code-an-email-template) を参照してください。
 
 ## 再試行
 
