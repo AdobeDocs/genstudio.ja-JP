@@ -1,30 +1,30 @@
 ---
-title: パフォーマンスマーケターキャンペーンのAdobe GenStudio
+title: Adobe GenStudio for Performance Marketing キャンペーン
 description: 一元化されたキャンペーン計画とキャンペーン概要の作成について説明します。
 feature: Campaigns, Campaign Brief, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: bbf66552-5a42-48d4-9bcd-944cf643e513
+source-git-commit: c355f5cc374a01c69c4a8c50db0d12c48668d02a
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# Adobe GenStudio for Performance Marketing [!DNL Campaigns]
 
-# パフォーマンスマーケター向けGenStudio [!DNL Campaigns]
-
-Performance Marketers [!DNL Campaigns] 機能のAdobe GenStudioは、マーケティングイニシアチブ（_キャンペーン_ の開発とデプロイメントを促進します。 [!DNL Campaigns] ワークフローは、ブランドに準拠した画像やテキストなど、AI で生成されたワークフローによる作成と管理に役立つキャンペーンアセットの開発を強化します。 また、キャンペーンの目標、ブランドに合わせたコンテンツ、指定されたチャネルに対する透明性も提供します。
+Adobe GenStudio for Performance Marketing [!DNL Campaigns] 機能を使用すると、マーケティングイニシアチブ（キャンペーン _の開発とデプロイメントを高速化_ きます。 [!DNL Campaigns] ワークフローは、ブランドに準拠した画像やテキストなど、AI で生成されたワークフローによる作成と管理に役立つキャンペーンアセットの開発を強化します。 また、キャンペーンの目標、ブランドに合わせたコンテンツ、指定されたチャネルに対する透明性も提供します。
 
 マーケティングマネージャーは、[!DNL Campaigns] ワークフローを使用して _キャンペーン概要_ を作成します。このキャンペーン概要では、[!DNL Campaign] アセットの作成、レビュー、承認およびデプロイメントに関与するすべての関係者に対するキャンペーン機能が定義されます。
 
 ## キャンペーン概要
 
-パフォーマンスのマーケター向けのGenStudioの概要では [!DNL Campaigns] キャンペーン作成者によって定義された、キャン [!DNL Campaign] ーンの基本的な側面について説明します。 関係者 [!DNL Campaign]、この概要を使用してコンテンツを作成および評価します。 キャンペーンの概要は動的です。 これらは、キャンペーンの個々のステージがデプロイされ、マーケターが各ステージの成功を評価すると変更されます。
+GenStudio for Performance Marketing [!DNL Campaigns] の概要では、キャンペーン作成者によって定義されたキャン [!DNL Campaign] ーンの基本的な側面を説明します。 関係者 [!DNL Campaign]、この概要を使用してコンテンツを作成および評価します。 キャンペーンの概要は動的です。 これらは、キャンペーンの個々のステージがデプロイされ、マーケターが各ステージの成功を評価すると変更されます。
 
 ## [!DNL Campaigns] コンテンツ
 
 コンテンツ [!DNL Campaigns]、承認済みのアセットとエクスペリエンスで構成されています。
 
-GenStudio for Performance マーケターのアセットまたはエクスペリエンスが承認されると、複数の [!DNL Campaigns] ージに含めることができます。 次の場合に承認済みアセットに [!DNL Campaign] ラベルを追加することで、[!DNL Campaign] ージにコンテンツを追加できます。
+GenStudio for Performance Marketingのアセットまたはエクスペリエンスが承認されると、複数のエクスペリ [!DNL Campaigns] ンスに含めることができます。 次の場合に承認済みアセットに [!DNL Campaign] ラベルを追加することで、[!DNL Campaign] ージにコンテンツを追加できます。
 
 * [!DNL Content] に承認済みアセットを保存しています。
 * ファイルのアップロードまたは読み込み
