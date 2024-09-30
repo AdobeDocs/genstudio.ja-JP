@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing Beta リリースノート
 description: Adobe GenStudio for Performance Marketingの最新機能と機能強化について説明します。
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ ht-degree: 0%
 * テンプレートはアップロードできますが、表示されません。 **回避策**:「**[!UICONTROL キャンペーン]** フィールドに値を入力したアセットをアップロードします。 次に、テンプレートを再度アップロードします。<!-- GS-4815 5650-->
 
 * サイズ変更後に、手動でメタ広告を切り抜くことはできません。<!-- GS-5871 -->
-
-* ユーザーは、[!DNL Content] のワークフローから新しい [!DNL Campaign] を作成できます。<!-- GS-5650 -->
 
 * facebookにもログインしている場合、Channel Meta Ads アカウントに 2 回ログインする必要があります。 回避策：Channel Meta Ads アカウントにログインする前に、Facebookからログアウトします。<!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ ht-degree: 0%
 * 書き出し後のメタ広告生成画像の画像レンダリングを修正しました。<!-- GS-5749 -->
 
 * C[!DNL Create] キャンバスでユーザーがメールバリアントをズームインまたはズームアウトすると、`%` 記号が DEU、FRA、ESP ロケールで正しくレンダリングされるようになりました。<!-- GS-5007 -->
-
 
 #### ローカライゼーション
 
