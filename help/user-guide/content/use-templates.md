@@ -1,18 +1,18 @@
 ---
 title: テンプレートの操作
-description: テンプレートを効果的に使用して、パフォーマンスマーケター向けのAdobe GenStudioでクリエイティブプロセスを効率化する方法を説明します。
+description: テンプレートを効果的に使用して、Adobe GenStudio for Performance Marketingのクリエイティブプロセスを効率化する方法を説明します。
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 1%
 
 ---
 
-
 # テンプレートの操作
 
-GenStudio for Performance Marketers を使用すると、コンテンツ作成者は _テンプレート_ を使用して、一貫性のあるオンブランドマーケティングコンテンツを素早く作成できます。 テンプレートは、事前設定済みのレイアウトとデザイン要素を含む出発点を提供することで、新しいコンテンツの生成に必要な時間と労力を大幅に削減します。
+GenStudio for Performance Marketingを使用すると、コンテンツ作成者は _テンプレート_ を使用して、一貫性のあるオンブランドマーケティングコンテンツを迅速に作成できます。 テンプレートは、事前設定済みのレイアウトとデザイン要素を含む出発点を提供することで、新しいコンテンツの生成に必要な時間と労力を大幅に削減します。
 
 ## テンプレート要素
 
@@ -71,17 +71,17 @@ GenStudio for Performance Marketers を使用すると、コンテンツ作成�
 
 >[!TIP]
 >
->各チャネルタイプのテンプレートについては、マーケター向けGenStudioがサポートする [ 認識されたフィールド名 ](customize-template.md#recognized-field-names) を参照してください。
+>各チャネルタイプのテンプレートに対してGenStudio for Performance Marketingがサポートする [ 認識されたフィールド名 ](customize-template.md#recognized-field-names) を参照してください。
 
 ## チャネルガイドラインの設定
 
-パフォーマンスマーケター向けのGenStudioでテンプレートを使用する前に、ブランドごとに [ チャネルガイドライン ](../guidelines/brands.md#channel-guidelines) を設定することをお勧めします。 チャネルガイドラインは、テンプレートの使用時に生成されるコンテンツのタイプに直接影響します。 例えば、メールの本文に文字制限を設定できます。
+GenStudio for Performance Marketingでテンプレートを使用する前に、ブランドごとに [ チャネルガイドライン ](../guidelines/brands.md#channel-guidelines) を設定することをお勧めします。 チャネルガイドラインは、テンプレートの使用時に生成されるコンテンツのタイプに直接影響します。 例えば、メールの本文に文字制限を設定できます。
 
 ![ ボディ仕様 ](/help/assets/channel-email-body.png)
 
 ## テンプレートをカスタマイズ
 
-ジェネレーティブ AI がコンテンツの挿入に使用するコンテンツプレースホルダー（フィールド）を挿入して、パフォーマンスマーケター向けのGenStudioで使用できるように [ テンプレートをカスタマイズ ](customize-template.md) します。 GenStudio for Performance マーケターは、「`body`」フィールドなどの特定のフィールドを認識し、選択したブランドに設定されているチャネルガイドラインに従います。
+GenStudio for Performance Marketingで使用できるように [ テンプレートをカスタマイズ ](customize-template.md) するには、生成 AI がコンテンツの挿入に使用するコンテンツプレースホルダー（フィールド）を挿入します。 GenStudio for Performance Marketingは、「`body`」フィールドなどの特定のフィールドを認識し、選択したブランド用に設定されたチャネルガイドラインに従います。
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ GenStudio for Performance Marketers を使用すると、コンテンツ作成�
 
 ## テンプレートのアップロード
 
-パフォーマンスマーケター向けのGenStudioのテンプレートを準備する際に、ガイドとして [ テンプレートをカスタマイズ ](customize-template.md) を使用します。 すべてのオーディエンスによりよいエクスペリエンスを提供する方法については、[ テンプレートのアクセシビリティガイドライン ](accessibility-for-templates.md) を参照してください。
+GenStudio for Performance Marketing用のテンプレートを準備する際のガイドとして、[ テンプレートのカスタマイズ ](customize-template.md) を使用します。 すべてのオーディエンスによりよいエクスペリエンスを提供する方法については、[ テンプレートのアクセシビリティガイドライン ](accessibility-for-templates.md) を参照してください。
 
 **テンプレートを追加するには**:
 
@@ -122,7 +122,7 @@ GenStudio for Performance Marketers を使用すると、コンテンツ作成�
 
 ## テンプレートを使用して作成
 
-パフォーマンスマーケターがエクスペリエンスをさらに作成できるように、GenStudioで既存のテンプレートを検索して使用します。
+GenStudio for Performance Marketingで既存のテンプレートを検索および使用して、より多くのエクスペリエンスを作成できます。
 
 **テンプレートを使用してエクスペリエンスを作成するには**:
 

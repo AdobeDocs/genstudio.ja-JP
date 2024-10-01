@@ -1,10 +1,10 @@
 ---
 title: テンプレートのカスタマイズ
-description: パフォーマンスマーケターがAdobe GenStudioできるようテンプレートをパーソナライズおよび最適化する方法について説明します。
+description: Adobe GenStudio for Performance Marketing用テンプレートをパーソナライズおよび最適化する方法について説明します。
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # テンプレートのカスタマイズ
 
-_Handlebars_ テンプレート言語を使用して、パフォーマンスマーケター向けにAdobe GenStudio用のHTMLテンプレートを調整します。 [!DNL Handlebars] の構文では、コンテンツのプレースホルダーとして中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
+_Handlebars_ テンプレート言語を使用して、Adobe GenStudio for Performance Marketing用のHTMLテンプレートを調整します。 [!DNL Handlebars] の構文では、コンテンツのプレースホルダーとして中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
 
-次のいくつかの節では、コンテンツプレースホルダーを追加する方法、不要な要素をプレビューから非表示にする方法、静的コンテンツへのリンクを管理する方法について説明します。 テンプレートの準備が整ったら、[ パフォーマンスマーケター向けにGenStudioにアップロード ](use-templates.md#upload-a-template) し、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
+次のいくつかの節では、コンテンツプレースホルダーを追加する方法、不要な要素をプレビューから非表示にする方法、静的コンテンツへのリンクを管理する方法について説明します。 テンプレートの準備が整ったら、[GenStudio for Performance Marketingにアップロード ](use-templates.md#upload-a-template)、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
 
 ## コンテンツプレースホルダー
 
-GenStudio for Performance マーケターは、認識できるフィールド名で識別した場合にのみ、テンプレート内の特定の [ 要素 ](use-templates.md#template-elements) を認識します。
+GenStudio for Performance Marketingは、テンプレート内の特定の [ 要素 ](use-templates.md#template-elements) を認識しますが、それは認識されたフィールド名で識別した場合のみです。
 
-テンプレートのヘッドまたは本文内では、[!DNL Handlebars] の構文をコンテンツプレースホルダーとして使用できます。この場合、パフォーマンスマーケターがテンプレートに実際のコンテンツを入力するようにGenStudioに求めます。 GenStudio for Performance マーケターは、[ 認識された _フィールド_ 名 ](#recognized-field-names) に基づいてコンテンツプレースホルダーを認識および解釈します。
+テンプレートの head または body 内では、GenStudio for Performance Marketingに実際のコンテンツをテンプレートに入力させる必要がある場合、[!DNL Handlebars] 構文をコンテンツプレースホルダーとして使用できます。 GenStudio for Performance Marketingは、[ 認識された _field_ name](#recognized-field-names) に基づいてコンテンツプレースホルダーを認識および解釈します。
 
 例えば、[!DNL Handlebars] の構文で `{{ headline }}` を使用して、メールのヘッドラインを配置する場所を示すことができます。
 
@@ -31,7 +31,7 @@ GenStudio for Performance マーケターは、認識できるフィールド名
 
 ### 認識されたフィールド名
 
-次の表に、テンプレートへの母集団について、GenStudioのパフォーマンスマーケター向けに認識されるフィールド名を示します。 GenStudio for Performance Marketers でコンテンツを生成する必要があるテンプレートに、[!DNL Handlebars] 構文を使用してこれらのフィールド名を追加します。
+次の表に、テンプレートへの母集団に対してGenStudio for Performance Marketingで認識されるフィールド名を示します。 GenStudio for Performance Marketingでコンテンツを生成する必要があるテンプレートに、[!DNL Handlebars] 構文を使用してこれらのフィールド名を追加します。
 
 | フィールド | 役割 | チャネルテンプレート |
 | -------------- | ---------------------- | ------------------------------ |
@@ -43,7 +43,7 @@ GenStudio for Performance マーケターは、認識できるフィールド名
 | `image` | 画像 | メール <br> メタ広告 |
 | `brand_logo` | 選択したブランドのロゴ <br> 推奨使用については、[ ブランドロゴフィールド名 ](#brand-logo-field-name) を参照してください。 | メールメ <br> タ広告 |
 
-GenStudio for Performance マーケターは、以下のテンプレートの特定のフィールドに自動的に入力します。
+GenStudio for Performance Marketingでは、特定のフィールドに次のテンプレートで自動的に入力されます。
 
 - **メールテンプレート** で `subject` フィールドを識別する必要はありません
 - **メタ広告テンプレート** では、「`headline`」、「`body`」、「`CTA`」フィールドを識別する必要はありません
@@ -56,11 +56,11 @@ GenStudio for Performance マーケターは、以下のテンプレートの特
 >
 >instagram広告の場合、生成されたヘッドラインは最終的なエクスペリエンスには表示されません。
 
-パフォーマンスマーケター向けにGenStudioにテンプレートをアップロードする際には、フィールドを 20 個までに制限しています。 メールでは `subject` フィールドが自動的に生成されるので、1 つのフィールドとしてカウントされます。 つまり、メールテンプレートでは 19 個のフィールドを使用できます。
+テンプレートをGenStudio for Performance Marketingにアップロードできるフィールドは 20 個までです。 メールでは `subject` フィールドが自動的に生成されるので、1 つのフィールドとしてカウントされます。 つまり、メールテンプレートでは 19 個のフィールドを使用できます。
 
 >[!TIP]
 >
->パフォーマンスマーケター向けGenStudioの [ テンプレートプレビュー ](#template-preview) を使用して、テンプレートを検証できます。
+>GenStudio for Performance Marketingの [ テンプレートプレビュー ](#template-preview) を使用して、テンプレートを検証できます。
 
 #### ブランドロゴフィールド名
 
@@ -94,7 +94,7 @@ GenStudio for Performance マーケターは、以下のテンプレートの特
 
 ### セクションまたはグループ
 
-_セクション_ このセクションのフィールドには高い一貫性が必要であることをパフォーマンスマーケター向けにGenStudioに伝えます。 この関係を確立すると、AI がセクションのクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
+_セクション_ このセクションのフィールドには高い一貫性が必要であることをGenStudio for Performance Marketingに伝えます。 この関係を確立すると、AI がセクションのクリエイティブ要素に一致するコンテンツを生成するのに役立ちます。
 
 フィールド名に任意の接頭辞を使用して、フィールドがセクションまたはグループの一部であることを示します。 例えば、ハイライトされた領域に表示されるコンテンツにスポットライトを当てることができます。
 
@@ -112,11 +112,11 @@ _セクション_ このセクションのフィールドには高い一貫性�
 - `pod2_headline`
 - `pod2_body`
 
-パフォーマンスマーケター向けGenStudioでは、`pod1_headline` は `pod2_body` よりも `pod1_body` と密接に関係していることを理解しています。
+GenStudio for Performance Marketingは `pod1_headline` が `pod2_body` よりも `pod1_body` と密接に関係していることを理解しています。
 
 ## テンプレートのプレビュー
 
-[ テンプレートをアップロード ](use-templates.md#upload-a-template) すると、GenStudio for Performance マーケターはHTMLファイルをスキャンして、認識されたフィールドを探します。 プレビューを使用して [ テンプレート要素 ](use-templates.md#template-elements) を確認し、それらが [ 認識されたフィールド名 ](#recognized-field-names) で正しく識別されたことを確認します。
+[ テンプレートをアップロード ](use-templates.md#upload-a-template) すると、GenStudio for Performance MarketingはHTMLファイルをスキャンして、認識されたフィールドを探します。 プレビューを使用して [ テンプレート要素 ](use-templates.md#template-elements) を確認し、それらが [ 認識されたフィールド名 ](#recognized-field-names) で正しく識別されたことを確認します。
 
 メールテンプレートのプレビューの例：
 
@@ -134,7 +134,7 @@ _セクション_ このセクションのフィールドには高い一貫性�
 {{/if}}
 ```
 
-もう 1 つの例は、パフォーマンスマーケター向けにGenStudioでテンプレートをプレビューする際に、トラッキングコードを使用しないようにすることです。 次の例では、プレビューリンクをクリーンな状態に保ちながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを追加する方法を示します。
+もう 1 つの例として、GenStudio for Performance Marketingでテンプレートをプレビューする際に、トラッキングコードを使用しないようにすることがあります。 次の例では、プレビューリンクをクリーンな状態に保ちながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを追加する方法を示します。
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
@@ -145,11 +145,11 @@ _セクション_ このセクションのフィールドには高い一貫性�
 
 ## 静的コンテンツ
 
-メールおよびメタテンプレートは、多くの場合、パフォーマンスマーケター向けにGenStudioの外部でホストされている画像や CSS ファイルにリンクされています。 GenStudio for Performance マーケターが、これらのテンプレートまたはから派生したエクスペリエンスのサムネールを生成する際、正しいクロスオリジンリソース共有（CORS）ヘッダーがない場合、これらの外部リソースが無視される場合があります。
+多くの場合、メールおよびメタテンプレートは、GenStudio for Performance Marketingの外部でホストされる画像や CSS ファイルにリンクされています。 GenStudio for Performance Marketingがこれらのテンプレートまたはそれらから派生したエクスペリエンスのサムネールを生成する際、正しいクロスオリジンリソース共有（CORS）ヘッダーがない場合、これらの外部リソースが無視される場合があります。
 
 サムネール生成プロセスの実行中にこれらのリソースを使用できるようにするには、次の 2 つのオプションを検討します。
 
-1. **CORS ヘッダーを使用**：ホストサーバーは、実稼動環境の値に設定された `Access-Control-Allow-Origin` ヘッダーで応答 `https://experience.adobe.com` 送信する必要があります。 これにより、パフォーマンスマーケターはGenStudioからリソースにアクセスして組み込むことができます。
+1. **CORS ヘッダーを使用**：ホストサーバーは、実稼動環境の値に設定された `Access-Control-Allow-Origin` ヘッダーで応答 `https://experience.adobe.com` 送信する必要があります。 これにより、GenStudio for Performance Marketingはリソースにアクセスして含めることができます。
 
 1. **データ URL を使用**：データ URL を使用して、外部リソースをテンプレートに直接埋め込みます。 この方法では、CORS の制限をバイパスし、サムネールの生成中にリソースを利用できるようにします。
 
@@ -157,7 +157,7 @@ _セクション_ このセクションのフィールドには高い一貫性�
 
 +++例：1 つのセクションを持つメールテンプレート
 
-次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [ プレースホルダー ](#content-placeholders) が含まれており、GenStudio for Performance マーケターがメール生成プロセス中にコンテンツを挿入するために使用します。
+次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [ プレースホルダー ](#content-placeholders) が含まれており、メール生成プロセス中にGenStudio for Performance Marketingでコンテンツを挿入するために使用されます。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>

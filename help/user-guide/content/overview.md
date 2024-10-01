@@ -1,18 +1,18 @@
 ---
-title: パフォーマンスマーケター向けAdobe GenStudioの概要  [!DNL Content]
+title: Adobe GenStudio for Performance Marketingの概要  [!DNL Content]
 description: ブランドで承認されたアセットを 1 つの直感的なポータルで検索、編集、再利用、共有する方法について説明します。
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: c8c23be561dfb77ceb8f1abe6a85b9321201bb40
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
 
 ---
 
-# パフォーマンスマーケター向けAdobe GenStudio [!DNL Content]
+# Adobe GenStudio for Performance Marketing [!DNL Content]
 
-GenStudio for Performance Marketers [!DNL Content] は、ブランドで承認されたすべてのアセット、エクスペリエンスおよびテンプレートを一元的に保存、検索、共有できる場所を提供します。 コンテンツの編集とリミックス、コンテンツの使用状況とセンチメントのインサイト、生成 AI を使用した既存のアセットの更新と再利用ができます。
+GenStudio for Performance Marketing [!DNL Content] は、ブランドが承認したすべてのアセット、エクスペリエンスおよびテンプレートを一元的に保存、検索および共有する場所を提供します。 コンテンツの編集とリミックス、コンテンツの使用状況とセンチメントのインサイト、生成 AI を使用した既存のアセットの更新と再利用ができます。
 
 ## [!DNL Content] のユースケース
 
@@ -63,7 +63,7 @@ GenStudio for Performance Marketers [!DNL Content] は、ブランドで承認�
 
 ## [!DNL Content] 機能
 
-パフォーマンスマーケター向けGenStudio [!DNL Content] を使用すると、承認済みアセットの管理が容易になり、コンテンツのライフサイクルを迅速化できます。 ま **[!UICONTROL [!DNL Content]]**、パフォーマンスの高いコンテンツを検索、検索および再利用したり、アセットやエクスペリエンスを選択してエバーグリーンキャンペーンの新しいバリアントの作成を開始したりできます。
+GenStudio for Performance Marketing [!DNL Content] を使用すると、承認済みアセットを簡単に管理し、コンテンツのライフサイクルを迅速化できます。 ま **[!UICONTROL [!DNL Content]]**、パフォーマンスの高いコンテンツを検索、検索および再利用したり、アセットやエクスペリエンスを選択してエバーグリーンキャンペーンの新しいバリアントの作成を開始したりできます。
 
 ### アセットのアップロード
 
@@ -71,7 +71,7 @@ GenStudio for Performance Marketers [!DNL Content] は、ブランドで承認�
 
 ### 承認済みコンテンツの検索
 
-承認済みアセットを保存すると、[!DNL Content] は豊富なメタデータ、生成コンテキストおよび監査履歴を保持します。 アセットの詳細は、フィルターと検索文字列を使用して検索結果をすばやく絞り込むのに役立ちます。 GenStudio for Performance マーケターの AI は、色などの特定の詳細を自動的に識別して保存します。 検索フィールドで `blue` を検索すると、コンテンツリストが青としてタグ付けされたアセットに絞り込まれます。
+承認済みアセットを保存すると、[!DNL Content] は豊富なメタデータ、生成コンテキストおよび監査履歴を保持します。 アセットの詳細は、フィルターと検索文字列を使用して検索結果をすばやく絞り込むのに役立ちます。 GenStudio for Performance Marketingの AI は、色などの特定の詳細を自動的に識別して保存します。 検索フィールドで `blue` を検索すると、コンテンツリストが青としてタグ付けされたアセットに絞り込まれます。
 
 ### テンプレートの操作
 

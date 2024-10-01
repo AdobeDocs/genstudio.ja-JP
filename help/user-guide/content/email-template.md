@@ -1,29 +1,29 @@
 ---
-title: パフォーマンスマーケター向けのAdobe GenStudio用メールテンプレートの準備
-description: パフォーマンスマーケター向けにAdobe GenStudio用のカスタムメールテンプレートを作成する方法について説明します。
+title: Adobe GenStudio for Performance Marketing用のメールテンプレートの準備
+description: Adobe GenStudio for Performance Marketingのカスタムメールテンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-# パフォーマンスマーケター向けのAdobe GenStudio用メールテンプレートの準備
+# Adobe GenStudio for Performance Marketing用メールテンプレートの準備
 
-通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。 メールテンプレートを設計、コーディング、テストしたら、アップロード用に準備し、パフォーマンスマーケターがGenStudioで使用できるようにします。
+通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。 メールテンプレートを設計、コーディング、テストしたら、GenStudio for Performance Marketingでアップロードおよび使用できるように準備できます。
 
 [ テンプレート要素 ](use-templates.md#template-elements) を参照してください。
 
 ## ガイドラインの追加
 
-メタ広告テンプレートを準備する前に、パフォーマンスマーケター向けGenStudioに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
+メタ広告テンプレートを準備する前に、GenStudio for Performance Marketingに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
 
 **例**：メールテンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
 
-パフォーマンスマーケター向けにGenStudioにガイドラインが追加されていない場合は、デフォルトが使用されます。
+ガイドラインがGenStudio for Performance Marketingに追加されていない場合は、デフォルトが使用されます。
 
 ## メールテンプレートのコーディング
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 ## 生成されたコンテンツ領域の定義
 
-パフォーマンスマーケター向けに、GenStudioのコンテンツを動的に入力するメールテンプレートの領域を定義します。
+GenStudio for Performance Marketingのコンテンツを動的に入力するメールテンプレート内の領域を定義します。
 
 生成されたコンテンツ領域を定義するには：
 
-* パフォーマンスマーケター向けGenStudioで自動生成するテンプレート内のテキスト要素（ヘッドライン、CTAなど）を特定します。
+* GenStudio for Performance Marketingで自動生成するテンプレート内のテキスト要素（ヘッドラインやCTAなど）を指定します。
 * Handlebars 構文を使用してプレースホルダーを挿入し、HTMLテンプレートを調整します。
 
 [ コンテンツのプレースホルダー ](/help/user-guide/content/customize-template.md#content-placeholders) を参照してください。
@@ -68,6 +68,6 @@ ht-degree: 0%
 
 ## テンプレートのアップロードと使用
 
-テンプレートの設計、コーディング、テストおよびプレビューが完了したら、GenStudioにアップロードすると、パフォーマンスマーケターが新しいマーケティングコンテンツの生成に使用できます。
+テンプレートの設計、コーディング、テストおよびプレビューが完了したら、GenStudio for Performance Marketingにアップロードして、まったく新しいマーケティングコンテンツの生成に使用できます。
 
 [ テンプレートの操作 ](use-templates.md) を参照してください。

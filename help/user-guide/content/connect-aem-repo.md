@@ -1,18 +1,18 @@
 ---
-title: AEM Assets Content Hub リポジトリへの接続
-description: パフォーマンスマーケター向けGenStudioをAdobe Experience Manager（AEM）Content Hub リポジトリに接続し、既存の承認済みコンテンツを活用する方法について説明します。
+title: "リポジトリへ  [!DNL AEM Assets Content Hub]  接続"
+description: Adobe GenStudio for Performance MarketingをAdobe Experience Manager（AEM）  [!DNL Content Hub]  リポジトリに接続し、既存の承認済みコンテンツを活用する方法について説明します。
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # [!DNL AEM Assets Content Hub] リポジトリへの接続
 
-Adobe Experience Manager（AEM）にアセットがある場合、次の手順に従って、パフォーマンスマーケターがGenStudioでアセットにアクセスできるようにします。
+Adobe Experience Manager（AEM）にアセットがある場合は、次の手順に従ってGenStudio for Performance Marketingでアクセスできるようにします。
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ Adobe Experience Manager（AEM）にアセットがある場合、次の手順�
 
 ## 手順 3：アセットの承認
 
-[!DNL AEM Assets Content Hub] で使用するアセットを承認します。これにより、パフォーマンスマーケターはGenStudioでアセットを使用できるようになります。 [2}AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) ドキュメントの {Experience Managerでのアセットの承認 _を参照してください。_
+[!DNL AEM Assets Content Hub] で使用するアセットを承認して、GenStudio for Performance Marketingで使用できるようにします。 [2}AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) ドキュメントの {Experience Managerでのアセットの承認 _を参照してください。_
 
 ## 手順 4：アセットの表示の設定
 
@@ -45,4 +45,4 @@ Adobe Experience Manager（AEM）にアセットがある場合、次の手順�
 
 ## 手順 5：接続の確認
 
-GenStudio for Performance Marketers Content では、右側のギャラリーの上にある _[!UICONTROL 場所]_ リストを使用できます。 アクセス権がない場合や、組織が [!DNL AEM Assets Content Hub] リポジトリをデプロイおよび接続していない場合、リストは使用できません。
+GenStudio for Performance Marketing コンテンツでは、右側のギャラリーの上にある _[!UICONTROL 場所]_ リストを使用できます。 アクセス権がない場合や、組織が [!DNL AEM Assets Content Hub] リポジトリをデプロイおよび接続していない場合、リストは使用できません。

@@ -3,7 +3,7 @@ title: アセットとエクスペリエンスの管理
 description: デジタルマーケティングジャーニーでの使用と再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # アセットとエクスペリエンスの管理
 
-パフォーマンスの高いマーケター向けのAdobe GenStudioデジタルマーケティングジャーニーでの使用 [!DNL Content] 再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
+Adobe GenStudio for Performance Marketing [!DNL Content] は、デジタルマーケティングジャーニーでの使用と再利用のために、ブランド承認済みアセットの管理を簡素化および強化します。
 
 ## Assets美術館
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### Assets場所
 
-デフォルトでは、[!DNL Create] プロセスまたはアップロードを通じて [!DNL Content] に追加したアセットは、`GenStudio assets` リポジトリに保存されます。 `GenStudio assets` リポジトリは、パフォーマンスマーケター向けの、GenStudioの読み取り/書き込みリポジトリです。 つまり、`GenStudio assets` リポジトリ内のアセットを保存、編集、削除できます。
+デフォルトでは、[!DNL Create] プロセスまたはアップロードを通じて [!DNL Content] に追加したアセットは、`GenStudio assets` リポジトリに保存されます。 `GenStudio assets` リポジトリは、GenStudio for Performance Marketingの読み取り/書き込みリポジトリです。 つまり、`GenStudio assets` リポジトリ内のアセットを保存、編集、削除できます。
 
 右側のギャラリーの上にある **[!UICONTROL 場所]** リストを使用すると、接続されたAdobe Experience Manager（AEM）の [!DNL Assets Content Hub] リポジトリから選択できます。 AEM リポジトリを選択すると、そのリポジトリのアセットのインベントリがギャラリーに表示され、承認されたアセットをコンテンツ作成用の入力として活用できます。 フィルターオプションは、[!DNL AEM Assets Content Hub] で設定されたカテゴリを反映して変更されます。
 
 AEM リポジトリーは読み取り専用です。つまり、ドラフト、新しいアセットまたはメタデータをAEM リポジトリーに保存することはできません。 アセット、エクスペリエンスおよびテンプレートのすべてのドラフトと最終更新は、新しい [ システムメタデータ ](asset-details.md#system-metadata) とともに `GenStudio assets` リポジトリに保存されます。
 
-パフォーマンスマーケター向けにAEM リポジトリをGenStudioに追加する方法については、[[!DNL AEM Assets Content Hub] リポジトリの接続 ](connect-aem-repo.md) を参照してください。
+[AEM リポジトリをGenStudio for Performance Marketingに追加する方法については、[!DNL AEM Assets Content Hub] リポジトリの接続 ](connect-aem-repo.md) を参照してください。
 
 ## Assets管理
 
@@ -52,7 +52,7 @@ AEM リポジトリーは読み取り専用です。つまり、ドラフト、�
 
 1. 検出性を向上させるには、「**詳細**」セクションに _ブランド名_、_ペルソナ_、_地域_、_キーワード_ などのオプションの詳細を追加します。
 
-   提供する情報が多いほど、パフォーマンスマーケター向けのGenStudioの堅牢な機能を体験できます。 リストから 1 つ以上の詳細を選択するか、必要に応じて新しい詳細（キーワードを使用するなど）を入力します。 追加した各詳細は、リストの下に表示されます。 詳細を削除するには、「**`x`**」をクリックします。
+   提供する情報が多いほど、GenStudio for Performance Marketingの堅牢な機能を体験できます。 リストから 1 つ以上の詳細を選択するか、必要に応じて新しい詳細（キーワードを使用するなど）を入力します。 追加した各詳細は、リストの下に表示されます。 詳細を削除するには、「**`x`**」をクリックします。
 
    追加した詳細は、このアクションで追加されたすべてのアセットに適用されます。
 

@@ -1,9 +1,9 @@
 ---
 title: アクセシブルなテンプレートの作成
-description: より多くのオーディエンスにリーチし、最適なエクスペリエンスを提供できるパフォーマンスマーケター向けのテンプレートを、Adobe GenStudioして作成します。
+description: Adobe GenStudio for Performance Marketingでテンプレートを作成して、より多くのオーディエンスにリーチし、最適なエクスペリエンスを提供できるようにします。
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobeは、すべてのオーディエンスに最適なエクスペリエンスを提供するよう取り組んでいます。 詳しくは、[Adobeでのアクセシビリティイニシアチブ ](https://www.adobe.com/trust/accessibility/initiatives.html) を参照してください。
 
-パフォーマンスマーケター向けのGenStudioでは、様々なエクスペリエンスのコンテンツを作成できるアセットとテンプレートをアップロードできます。 アクセシビリティ標準に準拠することで、コンテンツが対象オーディエンスの上限に到達することができます。
+GenStudio for Performance Marketingでは、様々なエクスペリエンスのコンテンツを作成できるアセットとテンプレートをアップロードできます。 アクセシビリティ標準に準拠することで、コンテンツが対象オーディエンスの上限に到達することができます。
 
 最適なアクセシビリティ標準を使用してテンプレートを準備するには、次の推奨事項を使用します。
 

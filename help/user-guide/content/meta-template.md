@@ -1,27 +1,27 @@
 ---
-title: パフォーマンスマーケター向けのAdobe GenStudio用メタ広告テンプレートの準備
-description: パフォーマンスマーケター向けにAdobe GenStudioのカスタムメタ広告テンプレートを作成する方法について説明します。
+title: Adobe GenStudio for Performance Marketing用のメタ広告テンプレートの準備
+description: Adobe GenStudio for Performance Marketingのカスタムメタ広告テンプレートを作成する方法について説明します。
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
+# Adobe GenStudio for Performance Marketing用のメタ広告テンプレートの準備
 
-# パフォーマンスマーケター向けのAdobe GenStudio用メタ広告テンプレートの準備
-
-メタ広告テンプレートを作成するには、ソーシャルメディア用にカスタマイズされた構造化アプローチが必要です。 メタ広告テンプレートを設計およびテストしたら、パフォーマンスマーケターがGenStudioでアップロードおよび使用できるように準備できます。
+メタ広告テンプレートを作成するには、ソーシャルメディア用にカスタマイズされた構造化アプローチが必要です。 メタ広告テンプレートを設計およびテストしたら、GenStudio for Performance Marketingでアップロードおよび使用できるように準備できます。
 
 ## ガイドラインの追加
 
-メタ広告テンプレートを準備する前に、パフォーマンスマーケター向けGenStudioに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
+メタ広告テンプレートを準備する前に、GenStudio for Performance Marketingに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
 
 **例**：メタ広告テンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
 
-パフォーマンスマーケター向けにGenStudioにガイドラインが追加されていない場合は、デフォルトが使用されます。
+ガイドラインがGenStudio for Performance Marketingに追加されていない場合は、デフォルトが使用されます。
 
 ## テンプレートのデザイン
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
 ### 広告仕様
 
-パフォーマンスマーケター向けGenStudioでは、メタ広告に対して次の縦横比をサポートしています。
+GenStudio for Performance Marketingでは、メタ広告に対して次の縦横比をサポートしています。
 
 * 正方形（1:1）: 1080 x 1080 ピクセル
 * 縦長（4:5）: 1080 x 1350 ピクセル
 * ストーリー（9:16）: 1080 x 1920 ピクセル
 
-広告がこれらの縦横比のいずれかで設計されていない場合、パフォーマンスマーケター向けGenStudioは画像を適切なサイズに自動的にトリミングします。
+広告がこれらの縦横比のいずれかで設計されていない場合、GenStudio for Performance Marketingは画像を適切なサイズに自動的に切り抜きます。
 
 ## メタ広告テンプレートのテスト
 
@@ -47,11 +47,11 @@ Meta の Creative Hub を使用してテンプレートをテストし、フィ�
 
 ## 生成されたコンテンツ領域の定義
 
-パフォーマンスマーケター向けに、GenStudioのコンテンツを動的に入力するメールテンプレートの領域を定義します。
+GenStudio for Performance Marketingのコンテンツを動的に入力するメールテンプレート内の領域を定義します。
 
 生成されたコンテンツ領域を定義するには：
 
-* パフォーマンスマーケター向けGenStudioで自動生成するテンプレート内のテキスト要素（ヘッドライン、CTAなど）を特定します。
+* GenStudio for Performance Marketingで自動生成するテンプレート内のテキスト要素（ヘッドラインやCTAなど）を指定します。
 * Handlebars 構文を使用してプレースホルダーを挿入し、HTMLテンプレートを調整します。
 
 [ コンテンツのプレースホルダー ](/help/user-guide/content/customize-template.md#content-placeholders) を参照してください。
@@ -64,6 +64,6 @@ Meta の Creative Hub を使用してテンプレートをテストし、フィ�
 
 ## テンプレートのアップロードと使用
 
-テンプレートの設計、コーディング、テストおよびプレビューが完了したら、パフォーマンスマーケターが新しいマーケティングコンテンツの生成に使用できるように、テンプレートをGenStudioにアップロードします。
+テンプレートの設計、コーディング、テストおよびプレビューが完了したら、GenStudio for Performance Marketingにアップロードして新しいマーケティングコンテンツの生成に使用できます。
 
 [ テンプレートの操作 ](use-templates.md) を参照してください。
