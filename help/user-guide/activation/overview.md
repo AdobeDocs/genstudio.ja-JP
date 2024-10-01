@@ -2,34 +2,34 @@
 title: アクティベーションの概要
 description: Adobe Experience Cloudおよびサードパーティ製アプリケーションでコンテンツをアクティブ化する方法について説明します。
 feature: Assets, Approval, Experiences
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
+source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
+# Adobe GenStudio for Performance Marketing Activation
 
-# パフォーマンスマーケター向けAdobe GenStudioのアクティベーション
+_アクティベーション_ は、Adobe GenStudio for Performance Marketingで生成されたアセットやエクスペリエンスを、選択したチャネルやAdobe Experience Cloud製品で配信できるようにするプロセスです。 [!DNL Products] に含めたサードパーティアプリケーションに最適な形式で、GenStudio for Performance Marketingから承認済みコンテンツを簡単に書き出すことができます。
 
-_アクティベーション_ とは、マーケターが生成したアセットやエクスペリエンスを、一部のチャネルやAdobe Experience Cloud製品を通じてAdobe GenStudioで配信できるようにするプロセスです。 製品に含めたサードパーティのアプリケーションに最適な形式で、パフォーマンスマーケター向けにGenStudioから承認済みコンテンツを簡単に書き出すことができます。
-
-GenStudio for Performance マーケターのアクティベーション機能は、Adobeのエクスペリエンス配信製品（Journey Optimizer、Journey Optimizer B2B Edition、Experience Manager、Marketoおよび Target）にネイティブに統合されています。
+GenStudio for Performance マーケターのアクティブ化機能は、Adobeのエクスペリエンス配信製品（Journey Optimizer、Journey Optimizer B2B Edition、Experience Manager、Marketoおよび Target）にネイティブに統合されています。
 
 **承認済みアセットをアクティベートするには**:
 
 1. [!DNL Content] からアセットを選択します。
 
-1. アセットの詳細パネルの **[!UICONTROL ダウンロード]** ボタンをクリックします。 パフォーマンスマーケター向けGenStudioからダウンロードプロセスを開始します。
+1. **[!UICONTROL 詳細]** ビューの上にある「_ダウンロード_ （下矢印）」アイコンをクリックします。
 
-アセットが zip ファイルとして、ローカルのダウンロードフォルダーにダウンロードされます。
+   アセットが ZIP ファイルとして、ローカルの _ダウンロード_ フォルダーにダウンロードされます。
 
 **承認済みエクスペリエンスをアクティブ化するには**:
 
-1. [!DNL Content] からエクスペリエンスを選択します。
+1. [!DNL Content]/[!DNL Experiences] からエクスペリエンスを選択します。
 
-1. エクスペリエンスの詳細パネルにある「**[!UICONTROL アクティベーション用に書き出し]**」ボタンをクリックします。 パフォーマンスマーケター向けGenStudioには、「**[!UICONTROL アクティベーション用に書き出し]** ポップアップが表示され、CSV とHTMLの 2 つのダウンロード形式が用意されています。
+1. エクスペリエンスの詳細表示で、「**[!UICONTROL アクティベーション用に書き出し]**」ボタンをクリックします。 GenStudio for Performance Marketingに **[!UICONTROL アクティベーション用に書き出し]** ポップアップが表示され、CSV とHTMLの 2 つのダウンロード形式が用意されています。 （または、（`...` で表される *[!UICONTROL その他のオプション]* メニューから _アクティベーション用にエクスポート_*ボタンにアクセスできます）。
 
-1. ポップアップの「**[!UICONTROL CVS をエクスポート]**」または **[!UICONTROL HTMLをエクスポート]** ボタンをクリックして、ダウンロード形式を選択します。
+1. ポップアップの「**[!UICONTROL CSV を書き出し]** または **[!UICONTROL HTMLを書き出し]**」ボタンをクリックして、目的のダウンロードフォーマットを選択します。
 
-書き出しプロセスにより、ZIP パッケージがローカルの _ダウンロード_ フォルダーに作成されます。 このフォルダー名は、GenStudio for Performance マーケターエクスペリエンス名と同じです。
+   書き出しプロセスにより、ZIP パッケージがローカルの _ダウンロード_ フォルダーに作成されます。 このフォルダー名はエクスペリエンス名と同じです。
