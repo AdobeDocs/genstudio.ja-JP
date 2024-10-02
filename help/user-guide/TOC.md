@@ -4,10 +4,10 @@ breadcrumb-title: ユーザーガイド
 user-guide-description: Adobe GenStudio for Performance Marketingの機能を探索します。 オンブランドのアセットをすばやく作成し、バリエーションを生成し、エクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
+source-git-commit: 967309ee0572365e9442c4e77816f9483e6522d3
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 13%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 13%
    + [Publish承認済みコンテンツ](approvals/publish-content.md)
 + Content {#content}
    + [コンテンツの概要](content/overview.md)
-   + [アセットの管理](content/manage-assets.md)
+   + [アセットとエクスペリエンスの管理](content/manage-assets.md)
    + [AEM リポジトリの接続](content/connect-aem-repo.md)
    + [アセットの詳細](content/asset-details.md)
    + テンプレート {#templates}
