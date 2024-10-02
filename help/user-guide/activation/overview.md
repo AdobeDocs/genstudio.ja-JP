@@ -3,7 +3,7 @@ title: アクティベーションの概要
 description: Adobe Experience Cloudおよびサードパーティ製アプリケーションでコンテンツをアクティブ化する方法について説明します。
 feature: Assets, Approval, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 _アクティベーション_ は、Adobe GenStudio for Performance Marketingで生成されたアセットやエクスペリエンスを、選択したチャネルやAdobe Experience Cloud製品で配信できるようにするプロセスです。 [!DNL Products] に含めたサードパーティアプリケーションに最適な形式で、GenStudio for Performance Marketingから承認済みコンテンツを簡単に書き出すことができます。
 
-GenStudio for Performance マーケターのアクティブ化機能は、Adobeのエクスペリエンス配信製品（Journey Optimizer、Journey Optimizer B2B Edition、Experience Manager、Marketoおよび Target）にネイティブに統合されています。
+GenStudio for Performance Marketingのアクティブ化機能は、Adobeのエクスペリエンス配信製品（Journey Optimizer、Journey Optimizer B2B Edition、Experience Manager、Marketoおよび Target）にネイティブに統合されています。
 
 **承認済みアセットをアクティベートするには**:
 

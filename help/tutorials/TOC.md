@@ -1,12 +1,12 @@
 ---
 user-guide-title: パフォーマンスマーケティングチュートリアルのAdobe GenStudio
 breadcrumb-title: チュートリアル
-user-guide-description: ジェネレーティブ AI とインテリジェントな自動化により、コンテンツサプライチェーンを加速および簡素化するエンドツーエンドのソリューションである、パフォーマンスマーケティングのGenStudioに関するチュートリアルをご覧ください。
+user-guide-description: GenStudioのパフォーマンスマーケティングチュートリアルに従って、メールエクスペリエンスの作成など、エンドツーエンドのプロセスを完了する方法を説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 1b0121a7006799cc5b2c2168fcb55a9a5ac10601
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---

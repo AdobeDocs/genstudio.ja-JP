@@ -1,13 +1,13 @@
 ---
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 39%
 
 ---
-# パフォーマンスマーケター向けGenStudio ドキュメント
+# GenStudio for Performance Marketing ドキュメント
 
-このサイトには、GenStudio for Performance マーケター製品に関する最新のドキュメントが含まれています。
+このサイトには、GenStudio for Performance Marketing製品の最新のドキュメントが含まれています。
 
 ## アドビオープンソース行動規範
 
