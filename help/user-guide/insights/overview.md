@@ -3,16 +3,16 @@ title: 概要  [!DNL Insights]
 description: リアルタイムコンテンツのパフォーマンス指標に基づいてエクスペリエンスを最適化する方法を説明します。
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
-# パフォーマンスマーケター向けAdobe GenStudio [!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-パフォーマンスの高いマーケター向けAdobe GenStudio [!DNL Insights] は、データに基づいた意思決定を支援できる、コンテンツのパフォーマンスに関する高度な分析とインサイトを提供します。
+Adobe GenStudio for Performance Marketing [!DNL Insights] は、データに基づいた意思決定を支援する、コンテンツのパフォーマンスに関する高度な分析とインサイトを提供します。
 
 [!DNL Insights] ダッシュボードから、次の操作を実行できます。
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->パフォーマンスマーケターがGenStudioを有効にして、現在のマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受け取れるようにする手順については、[Connect チャネルアカウント ](connect-channel.md) を参照してください。
+>GenStudio for Performance Marketingで現在のマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受信できるようにする手順については、[ チャネルアカウントの接続 ](connect-channel.md) を参照してください。
 
 ## ダッシュボード
 
@@ -31,8 +31,6 @@ ht-degree: 0%
 ダッ ![[!DNL Insights] ボード ](/help/assets/insights-dashboard.png)
 
 各ビューには、対応するテーブルが表示され、キーワード、フィルタリングおよび日付範囲で検索できます。 テーブルの右側の上にある設定（歯車）アイコンをクリックして、表示可能な列タイプを切り替えることができます。 _[!UICONTROL 概要]_ 行には、列の合計または平均が表示される場合があります。
-
-テーブルの各列タイプの説明については、[ のデータ列  [!DNL Insights]](data-columns.md) を参照してください。
 
 [!UICONTROL  エクスペリエンス ]、[!UICONTROL Assets] および [!UICONTROL  属性 ] には、画像やビデオのサムネール付きカードを使用してアセットのスキャンや並べ替えをおこなえる、ギャラリービューが含まれています。 各カードには、`Click-through rate`、`Cost per click`、`Spend` の 3 つの主要指標のいずれかを表示するオプションがあります。
 
@@ -50,7 +48,7 @@ ht-degree: 0%
 
 アセットをクリックすると、様々なエクスペリエンスでのアセットのパフォーマンスに関する詳細なコンテキストが提供されます。
 
-![ アセット表示 ](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![ 資産の詳細 ](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 アセットビューの左側には、アセットのサムネールと属性のリストが表示されます。 ハイライト表示された指標は、`Click-through rate`、`Cost per click`、`Spend` の 3 つです。 パフォーマンスハイライトは、選択した期間の実際の値（実線）と平均値（点線）の比較を示します（デフォルトは `Last 30 days`）。
 

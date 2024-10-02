@@ -1,20 +1,29 @@
 ---
 title: チャネルアカウントを接続
-description: チャネルアカウントを連携して、パフォーマンスに関するAdobe GenStudioをモニタリング マーケターのマーケティングキャンペーンとアセットのパフォーマンス。
+description: チャネルアカウントを連携して、Adobe GenStudio for Performance Marketing マーケティングキャンペーンとアセットのパフォーマンスをモニタリングします。
 level: Intermediate
 feature: Insights, Channels
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
+source-git-commit: afccf6d60d245bc72667d5e4a0abb9af77154977
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-
 # チャネル広告アカウントを接続
 
-[!DNL Insights] を初めて開くと、パフォーマンスマーケター向けのAdobe GenStudioをチャネルアカウントと結び付けるためのガイドのバナーが表示される場合があります。 これにより、パフォーマンスマーケター向けGenStudioは、アクティブなマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受け取ることができます。 [!DNL Insights] を使用すると、データを分析してアクションを実行するツールを使用できます。
-<!-- May need some assurance here that their data is safe. -->
+[!DNL Insights] を初めて開くと、Adobe GenStudio for Performance Marketingとチャネルアカウントを連携させるためのガイドのバナーが表示される場合があります。
+
+これにより、GenStudio for Performance Marketingは、アクティブなマーケティングキャンペーン、アセットおよびエクスペリエンスから統計データを受け取ることができます。 GenStudio for Performance Marketingは最初、過去 6 か月のデータを取り込むので、ユーザーは最新のデータを分析してアクションを実行できます。
+
+>[!BEGINSHADEBOX]
+
+**データの取り込みと保持のポリシー**
+
+GenStudio for Performance Marketingは、チャネルデータを 13 か月間保持します。 これには 6 か月の初期ルックバック期間が含まれ、包括的な履歴データの分析とレポートが確実に行われます。
+
+>[!ENDSHADEBOX]
 
 ## メタ広告接続
 
@@ -23,11 +32,11 @@ ht-degree: 0%
 **前提条件**:
 
 - Facebook/メタ広告アカウント
-- レポートへのアクセスと広告の表示 `View performance` 行う権限レベルを持つ Meta Ads アカウントへのアクセス
+- レポートへのアクセスと広告の表示 `View performance` 行う権限レベルを持つメタ広告アカウントへのアクセス
 
 >[!ENDSHADEBOX]
 
-**パフォーマンスマーケター向けにGenStudioで Meta Ads アカウントを連携するには**:
+**GenStudio for Performance Marketingで Meta Ads アカウントを連携するには**:
 
 1. _[!DNL Insights]_で、「**[!UICONTROL チャネルアカウントを接続]**」をクリックします。
 
@@ -39,13 +48,13 @@ ht-degree: 0%
 
 1. _[!UICONTROL 再接続]_ ポップアップ（Meta からAdobeへのシンボル）で、アカウント情報を確認して **[!UICONTROL 再接続]** をクリックします。
 
-   再接続すると、パフォーマンスマーケター向けGenStudioが視野に入ります。
+   再接続すると、GenStudio for Performance Marketingが表示されます。
 
 1. _[!UICONTROL メタ広告アカウントを接続]_ ビューで、1 つ以上の広告アカウントを選択し、**[!UICONTROL アカウントを接続]** をクリックします。
 <!--
 >[!INFO]
 >
->You may receive an error if you previously enrolled the channel account with GenStudio for Performance Marketers.
+>You may receive an error if you previously enrolled the channel account with GenStudio for Performance Marketing.
 
 The new user experience shows a banner to connect an account. There is not option to connect yet after you have one connection.
 -->

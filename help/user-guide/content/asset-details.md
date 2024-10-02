@@ -3,9 +3,9 @@ title: アセットの詳細
 description: Adobe GenStudio for Performance Marketingでは、検索性とパフォーマンストラッキングのために、リッチなメタデータを使用して承認済みコンテンツを格納します。
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
+source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '461'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,9 @@ Adobe GenStudio for Performance Marketingでは、検索性とパフォーマン
 
 ### 生成されたタグ
 
-承認済みのアセットを [!DNL Content] に保存すると、GenStudio for Performance MarketingはAdobeの AI および機械学習機能を使用してアセットを調査し、アセット機能に基づいてタグを適用します。 例えば、猫の写真では、`pet photography` や `cat` などのスマートタグや、写真の中で支配的な色を識別するカラータグが生成される場合があります。 タグは編集できません。
+承認済みのアセットを [!DNL Content] に保存すると、GenStudio for Performance MarketingはAdobeの AI および機械学習機能を使用してアセットを調査し、アセット機能に基づいてタグを適用します。 例えば、猫の画像では、`pet photography` や `cat` などの属性タグや、画像内で支配的な色を識別するカラータグが生成される場合があります。 タグは編集できません。
+
+[Insights 属性 ](/help/user-guide/insights/attributes.md) を参照してください。
 
 ### 生成されたコンテンツメタデータ
 
