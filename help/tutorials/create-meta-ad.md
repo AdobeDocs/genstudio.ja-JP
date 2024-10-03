@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1074'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ ht-degree: 0%
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **画像を [ 切り抜きまたは再配置](/help/user-guide/create/manage-variants.md#crop-assets)** するには、画像の上にマウスポインターを置き、表示される切り抜きアイコンをクリックし、画像のサイズと配置を調整します。
 * **メタ広告を [ 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、広告タイトル（「Meta 4」など）をクリックし、**[!UICONTROL バリアントを削除]** をクリックします。
+
+## 生成フィードバックを送信
+
+生成出力の品質に関する [ フィードバックを送信 ](/help/user-guide/create/manage-variants.md#generation-feedback) するには、オプションアイコン（3 つのドット）をクリックし、**[!UICONTROL 良好な出力]** または **[!UICONTROL 不良な出力]** を選択します。
 
 ## ブランドの整合性の確認
 
