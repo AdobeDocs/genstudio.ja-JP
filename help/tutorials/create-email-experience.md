@@ -7,7 +7,7 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
 workflow-type: tm+mt
 source-wordcount: '854'
 ht-degree: 0%
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ## ブランドの整合性の確認
 
-生成されるメールを最適化し、ブランドアイデンティティに厳密に準拠するには、[_ブランドガイドラインチェック_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) の機能を活用します。この機能は、バリアントのブランド調整の概要を提供し、[_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) は、包括的なブランド検証の詳細を表示し、改善点を明らかにします。
+生成されるメールを最適化し、ブランドアイデンティティに確実に準拠するには、[_ブランドガイドラインチェック_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) の機能を活用して、バリアントのブランド調整の概要を提供します。また、[_ブランド検証_ パネル ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を使用して、包括的なブランド検証の詳細を表示し、改善点を明らかにします。
 
 **ブランドの整合性を検証するには**:
 
