@@ -2,9 +2,9 @@
 title: バリアントの管理
 description: 生成されるバリアントとアセットをカスタマイズし、デジタルマーケティングのニーズに合わせて強化します。
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # バリアントの管理
 
-Performance Marketing [!DNL Create] のAdobe GenStudioを使用すると、生成されるバリアント（メール、メタ広告など）をカスタマイズおよび強化して、デジタルマーケティング戦略で使用できます。
+Adobe GenStudio for Performance Marketing [!DNL Create] を使用すると、生成されるバリアント [ メール ](/help/user-guide/create/email-experiences.md)、[ メタ広告 ](/help/user-guide/create/meta-experiences.md) などをカスタマイズして強化し、デジタルマーケティング戦略で使用できます。
 
 [ エクスペリエンスの作成 ](/help/tutorials/tutorials.md) 時に、生成されたバリアントのコンテンツとアセットを個別にまたはバッチで変更できます。 個々のマイクロレベルでバリアントを管理する機能により、生成されたコンテンツの各部分を明示的に管理できます。
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## アセットの切り抜き
 
-You can manually crop and reposition image assets in individual generated variants.
+個別に生成されたバリアントで、画像アセットを手動で切り抜いたり再配置したりできます。
 
-**To crop and reposition images in variants**:
+**バリアント内の画像の切り抜きと再配置**
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. バリアントのセットを生成した後、バリアント内の画像の上にマウスポインターを置きます。
+1. 画像の左隅に表示される切り抜きアイコンをクリックします。
+1. 画像のバウンディングボックスを調整し、画像を目的の位置にドラッグします。
+1. **[!UICONTROL 適用]** をクリックして切り抜きを 1 つの画像に適用するか、**[!UICONTROL すべての画像に適用]** をクリックしてバリアント内のすべての画像に適用します。
 
-   The cropped image is automatically saved and visible for the variant. -->
+   切り抜かれた画像は保存され、バリアントに表示されます。
 
 ## アスペクト比の変更
 
@@ -100,6 +100,12 @@ You can manually crop and reposition image assets in individual generated varian
 [!DNL Create] は、選択した新しい縦横比に基づいて各バリアントのコピーを作成します。 初期のアスペクト比を含むすべてのバリアントがキャンバスに存在します。
 
 例えば、最初に 1:1 の縦横比で 4 つのバリアントを生成し、縦横比を 4:5 に変更した場合、合計 _8_ のバリアントがキャンバスで使用できるようになりました。
+
+## デバイスのプレビュー
+
+メールエクスペリエンスを修正および準備する際に、デスクトップビューとモバイルビューのプレビューを切り替えて、ドラフトバリアントの一貫性と視覚的魅力を確保できます。
+
+**デスクトップおよびモバイルデバイスのバリアントをプレビューするには**、右側のメニューバー（コンピューターおよび電話のアイコン **で「デバイスプレビュー」オプションを** デスクトップ」と **モバイル** の間で切り替えて、バリアントの表示をプレビューします。
 
 ## バリアントを削除
 

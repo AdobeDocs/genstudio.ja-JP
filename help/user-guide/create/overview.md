@@ -3,10 +3,10 @@ title: GenStudio for Performance Marketing の概要  [!DNL Create]
 description: Performance Marketing [!DNL Create] のAdobe GenStudioで、ジェネレーティブ AI を使用して、高パフォーマンスのオンブランドコンテンツを迅速に生成します。
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 4b6602e833ed7245bca1abc42ea95b465a61c109
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 2%
+source-wordcount: '566'
+ht-degree: 1%
 
 ---
 
@@ -16,8 +16,8 @@ GenStudio for Performance Marketing [!DNL Create] は、Adobe GenAI の機能を
 
 [!DNL Create] を使用すると、次のチャネルのコンテンツを生成できます。
 
-* メール
-* メタ広告
+* [メール](email-experiences.md)
+* [メタ広告](meta-experiences.md)
 <!-- * Social media images and ads
 * Display ads -->
 
@@ -68,31 +68,25 @@ GenStudio for Performance Marketing を使用すると、マーケターは **�
 
 [!DNL Create] は、ユーザーがコンテンツを生成できるように、GenStudio for Performance Marketing の様々なコンポーネントを統合しています。
 
-### ドラフト
-
-[!DNL Create] の _最近の作業_ セクションで、最近のすべてのドラフトにアクセスして管理します。 以前の作業を表示して完了し、[[!DNL Content]](/help/user-guide/content/overview.md) に公開する準備を整えます。
-
-進行中のドラフトは自動的に保存されます。 [!DNL Create] ホームに戻ると、「_最近の作業_ セクションが更新され、最新のドラフトが表示されます。 ドラフトごとに、それが _承認済み_ か、まだ _ドラフト_ 形式かを確認できます。
-
 ### テンプレート
 
-「今日は何を作成しますか？_で生成するコンテンツチャネルを選択します。_ のセクションでは、コンテンツ生成で使用する、ブランド承認済みのテンプレートにアクセスできます。 テンプレートを使用すると、コンテンツ作成プロセスをすぐに開始でき、定義済みのブランドアイデンティティと連携した状態を保つことができます。
+_今日は何を作成しますか？_ のセクションでは、コンテンツ生成で使用する、ブランド承認済みのテンプレートにアクセスできます。 テンプレートを使用すると、コンテンツ作成プロセスを即座に開始でき、定義済みのブランドアイデンティティとの連携が保たれます。
 
 テンプレートは [ にアップロードおよび保存  [!DNL Content]](/help/user-guide/content/overview.md) され、[!DNL Create] からアクセスできます。
+
+### パラメーター
+
+プロンプトエリアでは、[!DNL Brands]、[!DNL Products]、[!DNL Personas] （ガイドライン）などの _パラメーター_ と [!DNL Content] （アセット）を追加して、生成されたエクスペリエンスを形作ることができます。
+
+これらの追加されたパラメーターは、生成プロセスに [ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを挿入し、ブランドの包括的な ID に合わせてコンテンツをカスタマイズできるようにします。 パフォーマンスマーケティングのガイドラインをGenStudioに追加し、コンテンツ作成プロセス中に使用することをお勧めします。これにより、適切なオンブランドコンテンツの作成が大幅に向上します。
+
+_パラメーター_ 内のコンテンツ（アップロードまたは追加された画像アセット）は、生成されたバリアントで使用され、バリアント用に生成されたコピーコンテンツ（テキスト）に通知されます。 アセットをアップロードすることも、[!DNL Content] または接続されたAEM Content Hub リポジトリに既に存在するアセットを選択することもできます。
 
 ### プロンプト
 
 [ 効果的なプロンプトの作成 ](/help/user-guide/effective-prompts.md) は、[!DNL Create] の生成プロセスの重要な部分です。
 
-AI で生成された新しいコンテンツを作成するには、生成するコンテキストまたはエクスペリエンスを説明した [ 説明プロンプト ](/help/user-guide/effective-prompts.md) と、[ ガイドライン ](/help/user-guide/guidelines/overview.md) および [_パラメーター_](#parameters) をプロンプト領域に入力し、「**[!UICONTROL 生成]**」をクリックします。
-
-### パラメーター
-
-プロンプトエリアでは、[!DNL Brands]、[!DNL Products]、[!DNL Personas] （ガイドライン _などの_ パラメーター）またはアセットを追加して、生成されたエクスペリエンスを形作ることができます。
-
-_パラメーター_ にアップロードされた画像は、生成されたバリアントで使用され、バリアント用に生成されたコピーコンテンツ（テキスト）に情報を提供します。
-
-これらの追加されたパラメーターは、生成プロセスに [ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを挿入し、ブランドの包括的な ID に合わせてコンテンツをカスタマイズできるようにします。 パフォーマンスマーケティングのガイドラインをGenStudioに追加し、コンテンツ作成プロセス中に使用することをお勧めします。これにより、適切なオンブランドコンテンツの作成が大幅に向上します。
+AI で生成されたコンテンツを作成するには、生成するコンテキストまたはエクスペリエンスを説明した [ 説明プロンプト ](/help/user-guide/effective-prompts.md) と、[ ガイドライン ](/help/user-guide/guidelines/overview.md) および [_パラメーター_](#parameters) をプロンプト領域に入力し、「**[!UICONTROL 生成]**」をクリックします。
 
 ### ブランドの検証
 
@@ -103,6 +97,12 @@ GenStudio for Performance Marketing では、（[guidelines](/help/user-guide/gu
 組み込みの [ レビューと承認 ](/help/user-guide/approvals/overview.md) 機能を使用して、作成プロセス中にレビューを勧誘、レビューのコメントを追跡、承認を取得します。
 
 コンテンツバリエーションの生成が完了したら、関係者の承認を得るためにドラフトを送信します。これにより、関係者はドラフトを保存して、マーケティング活動に実装で [!DNL Content] ます。
+
+### ドラフト
+
+[!DNL Create] の _最近の作業_ セクションで、最近のすべてのドラフトにアクセスして管理します。 以前の作業を表示して完了し、[[!DNL Content]](/help/user-guide/content/overview.md) に公開する準備を整えます。
+
+進行中のドラフトは自動的に保存されます。 [!DNL Create] ホームに戻ると、「_最近の作業_ セクションが更新され、最新のドラフトが表示されます。 ドラフトごとに、それが _承認済み_ か、まだ _ドラフト_ 形式かを確認できます。
 
 ### バリアントの管理
 

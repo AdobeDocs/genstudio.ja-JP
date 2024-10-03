@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # メールエクスペリエンスの作成
 
-このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアの絵筆アイコン）を使用してブランド化されたメールエクスペリエンスを生成する方法を説明します。
+このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアにある絵筆のアイコン ](/help/user-guide/create/email-experiences.md) を使用して、ブランド化された [ メールエクスペリエンス）を生成する方法を説明します。
 
 効果的なメールエクスペリエンスを作成するには、開始する前に [ パフォーマンスマーケティングのGenStudioにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) し、[ プロンプトの作成の基本 ](/help/user-guide/effective-prompts.md) を詳しく調べることをお勧めします。
 
@@ -44,8 +44,11 @@ ht-degree: 0%
    これらのメニューに表示されるブランド、ペルソナまたは商品がない場合は、[ パフォーマンスマーケティングのGenStudioにガイドラインを追加してください ](/help/user-guide/guidelines/add-guidelines.md)。
 
 1. 「**[!UICONTROL コンテンツを選択]**」をクリックして、エクスペリエンスで使用するコンテンツを追加 *および* をクリックすると、コンテンツの生成に影響が及びます。
-   * **[!UICONTROL コンテンツから選択]** をクリックして、[!DNL Content] に公開済みのアセット（画像）を選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
-   * **[!UICONTROL アップロード]** をクリックしてファイルを参照し、使用するアセットを選択します。 デバイスの参照に加えて、Microsoft OneDrive またはDropboxから読み込むこともできます。
+   * [!DNL Content] リポジトリからアセット（画像）を選択するには、「**[!UICONTROL コンテンツから選択]**」をクリックします。 1 つ以上の画像のフィルタリングと選択
+
+     接続された [!DNL AEM Assets Content Hub] リポジトリのアセットを使用するには、_場所_ ドロップダウンメニューからリポジトリを選択します。 1 つ以上の画像のフィルタリングと選択
+
+   * 1 つ以上の新しいアセットをアップロードするには、「**[!UICONTROL アップロード]**」をクリックし、ファイルを参照して、使用するアセットを選択します。 デバイスの参照に加えて、Microsoft OneDrive またはDropboxから読み込むこともできます。 目的の画像をクリックして選択します。
    * アセットを「_コンテンツ_ セクションにドラッグ&amp;ドロップします。
 1. **[!UICONTROL 使用]** をクリックします。
 
@@ -68,6 +71,8 @@ ht-degree: 0%
 
 デフォルトでは、4 つのバリエーション（追加したプロンプト、ガイドラインおよびコンテンツによってすべて強化される）が生成され、キャンバスに表示されます。
 
+生成されたコンテンツは徐々に読み込まれます。メールエクスペリエンスの各セクションが生成されると、キャンバスに表示されます。 これらの変更がキャンバスにどのように読み込まれるかを学ぶには、[ メールエクスペリエンス ](/help/user-guide/create/meta-experiences.md#progressive-loading) を参照してください。
+
 ## 生成されたメールを修正
 
 承認または公開用に送信する内容を選択する前に [!DNL Content] メールセクションを編集したり、生成された一連のメールからバリアントを削除したりできます。
@@ -81,9 +86,7 @@ ht-degree: 0%
 
 ## デバイスのプレビュー
 
-メールエクスペリエンスを修正および準備する際に、デスクトップビューとモバイルビューのプレビューを切り替えて、ドラフトバリアントの一貫性と視覚的魅力を確保できます。
-
-**デスクトップおよびモバイルデバイスのバリアントをプレビューするには**、右側のメニューバー（コンピューターおよび電話のアイコン **で「デバイスプレビュー」オプションを** デスクトップ」と **モバイル** の間で切り替えて、バリアントの表示をプレビューします。
+メールエクスペリエンスを修正および準備する際に、ドラフトバリアントの一貫性と視覚的魅力を確保するために、[ デスクトップビューとモバイルビューのプレビューを切り替える ](/help/user-guide/create/manage-variants.md#preview-for-device) ことができます。
 
 ## ブランドの整合性の確認
 
