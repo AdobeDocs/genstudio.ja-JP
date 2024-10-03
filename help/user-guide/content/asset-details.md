@@ -3,9 +3,9 @@ title: アセットの詳細
 description: Adobe GenStudio for Performance Marketingでは、検索性とパフォーマンストラッキングのために、リッチなメタデータを使用して承認済みコンテンツを格納します。
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
+source-git-commit: 44e4a297077d06047767cc40b7009ac88e7b493c
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '681'
 ht-degree: 1%
 
 ---
@@ -26,11 +26,37 @@ Adobe GenStudio for Performance Marketingでは、検索性とパフォーマン
    >
    >「_[!UICONTROL 詳細]_」セクションが表示されない場合は、「**[!UICONTROL 情報]** （i）」アイコンをクリックします。
 
-アセットの詳細には、作成またはアップロード処理中に適用されたメタデータが含まれます。 アセットメタデータタイプには、[ システムメタデータ ](#system-metadata) および [ ユーザー定義メタデータ ](#user-defined-metadata) が含まれます。
+   アセットの詳細には、作成またはアップロード処理中に適用されたメタデータが含まれます。 アセットメタデータタイプには、[ システムメタデータ ](#system-metadata) および [ ユーザー定義メタデータ ](#user-defined-metadata) が含まれます。
 
 >[!NOTE]
 >
 >AEM リポジトリからのAssetsには、異なるメタデータが表示されます。 アセットの詳細を設定する方法については、[ アセットの表示の設定 ](connect-aem-repo.md#step-4-configure-asset-visibility) を参照 [!DNL AEM Assets Content Hub] てください。
+
+## Express で編集
+
+Adobe Expressを使用して、GenStudio for Performance Marketing内で画像アセット（JPGまたは PNG）を直接編集できます。 _[!UICONTROL Adobe Expressを利用]_ キャンバスには、GenStudio アプリケーションを離れることなく画像を強化できる便利な機能が用意されています。 背景の削除、ジェネレーティブフィルの適用、エフェクトの調整、画像の切り抜きを簡単に行うことができます。
+
+1. _[!DNL Content]_で、画像アセットを選択します。 アセットをクリックすると、そのアセットのフォーカスされたビューが開きます。
+
+1. アセットビューで、右上の **[!UICONTROL Adobe Expressで編集]** アイコンをクリックします。
+
+1. _[!UICONTROL Powered by Adobe Express]_ キャンバスで、左側のパネルの Express コントロールを使用して、画像を強調します。
+
+1. 更新された画像が気に入ったら、右上の **[!UICONTROL コピーを保存]** をクリックします。
+
+1. ファイル形式（JPGまたは PNG）を選択し、「**[!UICONTROL コピーを保存]**」をクリックします。
+
+1. _[!UICONTROL アセットのコピーを保存]_ ポップアップで **[!UICONTROL アセット名]** を更新します。
+
+   - **[!UICONTROL 元のアセットと同じ詳細]** を選択して、アセットの詳細を新しい画像に引き継ぎます。
+
+   - 「**[!UICONTROL 詳細]**」セクションを展開すると、キャンペーン、ガイドライン、その他のメタデータを更新できます。
+
+   >[!TIP]
+   >
+   >提供する情報が多いほど、GenStudio for Performance Marketingの堅牢な機能を体験できます。 リストから 1 つ以上の詳細を選択するか、必要に応じて新しい詳細（キーワードを使用するなど）を入力します。 追加した各詳細は、リストの下に表示されます。 詳細を削除するには、「**`x`**」をクリックします。
+
+1. **[!UICONTROL 保存]**&#x200B;をクリックします。
 
 ## システムメタデータ
 
