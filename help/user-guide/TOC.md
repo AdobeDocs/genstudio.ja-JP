@@ -4,7 +4,7 @@ breadcrumb-title: ユーザーガイド
 user-guide-description: Adobe GenStudio for Performance Marketingの機能を探索します。 オンブランドのアセットをすばやく作成し、バリエーションを生成し、エクスペリエンスを最適化する方法について説明します。
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 5b04b6bddbf89d38a83c2a3f070a086f523645f7
+source-git-commit: b91e0be1fbae9a3562dba4c37de7989df128952e
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 11%
