@@ -20,7 +20,7 @@ GenStudio for Performance Marketingは、ブランドから得た豊富なブラ
 
 1. 左側のナビゲーション領域で、「**[!UICONTROL [!DNL Brands]]**」をクリックします。
 1. ブランドの概要情報を確認するには、定義済みのブランドをクリックして開きます。
-1. 個々の詳細を表示したり、ブランドを変更したりするには、上部の [**[!UICONTROL  ブランドの音声ガイドライン ]**](#brand-voice-guidelines)、[**[!UICONTROL  チャネルガイドライン ]**](#channel-guidelines)、**[!UICONTROL 画像ガイドライン]**、または **[!UICONTROL ロゴ]** をクリックします。
+1. 個々の詳細を表示したり、ブランドを変更したりするには、上部の [**[!UICONTROL &#x200B; ブランドの音声ガイドライン &#x200B;]**](#brand-voice-guidelines)、[**[!UICONTROL &#x200B; チャネルガイドライン &#x200B;]**](#channel-guidelines)、**[!UICONTROL 画像ガイドライン]**、または **[!UICONTROL ロゴ]** をクリックします。
 
 ブランドガイドラインドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudio for Performance Marketingにアップロードして、ブランドを自動的に作成できます。 GenStudio for Performance Marketingにブランドを追加、変更、公開する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
 

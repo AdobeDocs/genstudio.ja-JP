@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # メタ広告エクスペリエンスの作成
 
-このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアにある絵筆のアイコン ](/help/user-guide/create/meta-experiences.md) を使用して、ブランド化された [ メタ広告エクスペリエンス）を生成する方法を説明します。
+このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアにある絵筆のアイコン [&#128279;](/help/user-guide/create/meta-experiences.md) を使用して、ブランド化された  メタ広告エクスペリエンス）を生成する方法を説明します。
 
 Meta 広告エクスペリエンスの作成を開始する前に、GenStudio for Performance Marketingで [ ガイドラインを組み込む ](/help/user-guide/guidelines/add-guidelines.md) ことが重要です。また、[ プロンプトの作成 ](/help/user-guide/effective-prompts.md) の基本を理解しておく必要があります。
 
@@ -26,7 +26,7 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 **メタ広告テンプレートを選択するには**:
 
-1. _[!DNL Create]_**[!UICONTROL で、「今日は何を作成しますか？」の_ メタ広告]** をクリックします。_セクション。
+1. _[!DNL Create]_&#x200B;**[!UICONTROL で、「今日は何を作成しますか？」の_ メタ広告]** をクリックします。_セクション。
 1. _フィルター_ の横にある検索オプションを使用して、特定のメタ広告テンプレートを見つけます。
 1. テンプレートをクリックして選択し、「**[!UICONTROL 使用]**」をクリックします。
 
@@ -102,7 +102,7 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 **ブランドの整合性を検証するには**:
 
 1. バリアントの [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) アイコンをクリックすると、ブランドに対してチェックされたときのそのバリアントのパフォーマンスの概要が表示されます。
-1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
+1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**&#x200B;_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各広告を切り替えて、生成されたコンテンツを改善してブランドに合わせる方法を確認します。
 1. [ 手動で広告を改訂 ](#revise-generated-meta-ads) して、広告がブランドと密接に連携していることを確認します。
@@ -124,7 +124,7 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 ## Publishと書き出しの経験
 
-生成したメタ広告を現在および将来の使用で使用できるようにするには、[!UICONTROL  コンテンツ ] に公開し、マーケティングキャンペーンで使用するためにエクスポートします。
+生成したメタ広告を現在および将来の使用で使用できるようにするには、[!UICONTROL &#x200B; コンテンツ &#x200B;] に公開し、マーケティングキャンペーンで使用するためにエクスポートします。
 
 1. **新しいメタ広告エクスペリエンスを公開するには**、上部のツールバーの **[!UICONTROL Publish]** をクリックします。
 1. **新しいメタ広告エクスペリエンスを書き出すには** 上部のツールバーにある **[!UICONTROL 書き出し]** をクリックします。

@@ -26,13 +26,13 @@ Adobe GenStudio for Performance Marketing [!DNL Insights] は、データに基�
 
 ## ダッシュボード
 
-[!DNL Insights] ダッシュボードには、コンテンツタイプ [!UICONTROL  チャネル ]、{ エクスペリエンス ]、{5[!UICONTROL Assets]、{ 属性 [!UICONTROL  ごとに設定可能なテーブルが ] ります。[!UICONTROL 
+[!DNL Insights] ダッシュボードには、コンテンツタイプ [!UICONTROL &#x200B; チャネル &#x200B;]、&lbrace; エクスペリエンス 、&lbrace;5[!UICONTROL Assets]、&lbrace; 属性 [!UICONTROL &#x200B; ごとに設定可能なテーブルが &#x200B;] ります。
 
 ダッ ![[!DNL Insights] ボード ](/help/assets/insights-dashboard.png)
 
 各ビューには、対応するテーブルが表示され、キーワード、フィルタリングおよび日付範囲で検索できます。 テーブルの右側の上にある設定（歯車）アイコンをクリックして、表示可能な列タイプを切り替えることができます。 _[!UICONTROL 概要]_ 行には、列の合計または平均が表示される場合があります。
 
-[!UICONTROL  エクスペリエンス ]、[!UICONTROL Assets] および [!UICONTROL  属性 ] には、画像やビデオのサムネール付きカードを使用してアセットのスキャンや並べ替えをおこなえる、ギャラリービューが含まれています。 各カードには、`Click-through rate`、`Cost per click`、`Spend` の 3 つの主要指標のいずれかを表示するオプションがあります。
+[!UICONTROL &#x200B; エクスペリエンス &#x200B;]、[!UICONTROL Assets] および [!UICONTROL &#x200B; 属性 &#x200B;] には、画像やビデオのサムネール付きカードを使用してアセットのスキャンや並べ替えをおこなえる、ギャラリービューが含まれています。 各カードには、`Click-through rate`、`Cost per click`、`Spend` の 3 つの主要指標のいずれかを表示するオプションがあります。
 
 ### チャネル
 
@@ -40,7 +40,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights] は、データに基�
 
 ### エクスペリエンス
 
-[!DNL Insights] の _[!UICONTROL エクスペリエンス]_ ビューは、エクスペリエンスの有効性の評価に重点を置いています。 [!UICONTROL  エクスペリエンス ] ビューを使用すると、指定した日付範囲内の広告プレースメントに基づいてエクスペリエンスの指標を分析できます。 _[!UICONTROL 広告名]_ をクリックすると、広告パフォーマンス指標、広告配置別のパフォーマンスおよび属性を表示できます。
+[!DNL Insights] の _[!UICONTROL エクスペリエンス]_ ビューは、エクスペリエンスの有効性の評価に重点を置いています。 [!UICONTROL &#x200B; エクスペリエンス &#x200B;] ビューを使用すると、指定した日付範囲内の広告プレースメントに基づいてエクスペリエンスの指標を分析できます。 _[!UICONTROL 広告名]_ をクリックすると、広告パフォーマンス指標、広告配置別のパフォーマンスおよび属性を表示できます。
 
 ### アセット
 

@@ -38,7 +38,7 @@ GenStudio for Performance Marketingは、チャネルデータを 13 か月間�
 
 **GenStudio for Performance Marketingで Meta Ads アカウントを連携するには**:
 
-1. _[!DNL Insights]_で、「**[!UICONTROL チャネルアカウントを接続]**」をクリックします。
+1. _[!DNL Insights]_&#x200B;で、「**[!UICONTROL チャネルアカウントを接続]**」をクリックします。
 
    >[!INFO]
    >

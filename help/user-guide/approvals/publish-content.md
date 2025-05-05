@@ -22,7 +22,7 @@ ht-degree: 0%
 
 1. 承認済みのドラフトに直接アクセスするか、_公開準備が整った承認済みのバリアント_ ポップアップからアクセスします。 このポップアップには、承認されたアセットの公開を延期する **[!UICONTROL 閉じる]** ボタンと、公開プロセスを開始する **[!UICONTROL Publish]** ボタンが含まれています。
 
-1. ]**0}Publish} をクリックして、アセットまたはエクスペリエンスを [!DNL Content] に保存します。**[!UICONTROL  GenStudio for Performance Marketingに _承認されたコンテンツの詳細を確認_ ウィンドウが表示され、承認されたアセットのサムネールが表示されます。
+1. **0&rbrace;Publish&rbrace; をクリックして、アセットまたはエクスペリエンスを [!DNL Content] に保存します。** GenStudio for Performance Marketingに _承認されたコンテンツの詳細を確認_ ウィンドウが表示され、承認されたアセットのサムネールが表示されます。
 
 1. GenStudio for Performance Marketingの指示に従って、コンテンツに関する情報を追加します。 この情報は、メタデータとして保存され、フィルターおよび検索操作 [!DNL Content] 値を追加します。 公開プロセスのこの時点で、アセットをGenStudio for Performance Marketing キャンペーンに追加できます。
 

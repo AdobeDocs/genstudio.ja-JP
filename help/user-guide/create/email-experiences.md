@@ -35,7 +35,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 ## 複数セクションのメール
 
-メールエクスペリエンスには複数のセクションを含めることができるので、ブランドや目標に合わせて完全にカスタマイズできます。 [ [!DNL Products]  各セクションのアセットを選択して視覚的に表示し ](/help/tutorials/create-email-experience.md#add-parameters)[ 構造化プロンプト ](/help/user-guide/effective-prompts.md#structured-prompts) を使用して一意のコンテンツを作成します。 各セクションは、1 つのビジュアルアセットをサポートします。
+メールエクスペリエンスには複数のセクションを含めることができるので、ブランドや目標に合わせて完全にカスタマイズできます。 [ [!DNL Products]  各セクションのアセットを選択して視覚的に表示し ](/help/tutorials/create-email-experience.md#add-parameters) [ 構造化プロンプト ](/help/user-guide/effective-prompts.md#structured-prompts) を使用して一意のコンテンツを作成します。 各セクションは、1 つのビジュアルアセットをサポートします。
 
 複数セクションテンプレートの作成方法については、[ メールテンプレートの準備 ](/help/user-guide/content/email-template.md) を参照してください。
 

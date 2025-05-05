@@ -24,4 +24,4 @@ ht-degree: 0%
 
 1. **[!UICONTROL 承認済み]** を選択します。
 
-あなたの承認者としての作業は完了しました。 Adobe GenStudio for Performance Marketingは、承認のドラフト作成者にアラートを送信します。 [!DNL Content] への保存または ](./publish-content.md) 公開 _のプロセスの概要については、[Publish コンテンツ_ を参照してください。
+あなたの承認者としての作業は完了しました。 Adobe GenStudio for Performance Marketingは、承認のドラフト作成者にアラートを送信します。 [!DNL Content] への保存または [&#128279;](./publish-content.md) 公開 _のプロセスの概要については、Publish コンテンツ_ を参照してください。

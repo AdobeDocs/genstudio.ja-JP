@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # メールエクスペリエンスの作成
 
-このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアにある絵筆のアイコン ](/help/user-guide/create/email-experiences.md) を使用して、ブランド化された [ メールエクスペリエンス）を生成する方法を説明します。
+このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアにある絵筆のアイコン [&#128279;](/help/user-guide/create/email-experiences.md) を使用して、ブランド化された  メールエクスペリエンス）を生成する方法を説明します。
 
 効果的なメールエクスペリエンスを作成するには、開始する前に [GenStudio for Performance Marketingにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) し、[ プロンプトの作成の基本 ](/help/user-guide/effective-prompts.md) をブラッシュアップすることをお勧めします。
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **メールテンプレートを選択するには**:
 
-1. _[!DNL Create]_で、「今日は何を作成しますか&#x200B;]**という_ の**[!UICONTROL  メール」をクリックします。_セクション。
+1. _[!DNL Create]_&#x200B;で、「今日は何を作成しますか&#x200B;**という_ の** メール」をクリックします。_セクション。
 1. _フィルター_ の横にある検索オプションを使用して、特定のメールテンプレートを検索します。
 1. クリックしてメールテンプレートを選択し、「**[!UICONTROL 使用]**」をクリックします。
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 **ブランドの整合性を検証するには**:
 
 1. バリアントの [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) アイコンをクリックすると、ブランドに対してチェックされたときのそのバリアントのパフォーマンスの概要が表示されます。
-1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
+1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**&#x200B;_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各メールを切り替えて、生成されたコンテンツを改善してブランドに合わせるようにする方法を確認します。
 1. [ メールを手動で修正 ](#revise-generated-emails) し、メールがブランドと密接に連携するようにします。
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 ## Publishと書き出しの経験
 
-生成されたメールを現在および将来の使用で使用できるようにするには、メールを [!UICONTROL  コンテンツ ] に公開し、マーケティングキャンペーンで使用するために書き出します。
+生成されたメールを現在および将来の使用で使用できるようにするには、メールを [!UICONTROL &#x200B; コンテンツ &#x200B;] に公開し、マーケティングキャンペーンで使用するために書き出します。
 
 1. **新しいメールエクスペリエンスを公開するには**、上部のツールバーの **[!UICONTROL Publish]** をクリックします。
 1. **新しいメールエクスペリエンスを書き出すには**、上部のツールバーにある **[!UICONTROL 書き出し]** をクリックします。

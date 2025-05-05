@@ -93,7 +93,7 @@ GenStudio for Performance Marketing用のテンプレートを準備する際の
 
 **テンプレートを追加するには**:
 
-1. _[!DNL Content]_で、「**[!UICONTROL テンプレート]**」セクションを選択します。
+1. _[!DNL Content]_&#x200B;で、「**[!UICONTROL テンプレート]**」セクションを選択します。
 
 1. **[!UICONTROL テンプレートを追加]** をクリックします。
 
@@ -126,7 +126,7 @@ GenStudio for Performance Marketingで既存のテンプレートを検索およ
 
 **テンプレートを使用してエクスペリエンスを作成するには**:
 
-1. _[!DNL Content]_で、「**[!UICONTROL テンプレート]**」セクションを選択します。
+1. _[!DNL Content]_&#x200B;で、「**[!UICONTROL テンプレート]**」セクションを選択します。
 
    ![ コンテンツテンプレートリスト ](../../assets/content-templates.png){width="650" zoomable="yes"}
 

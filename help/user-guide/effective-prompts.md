@@ -57,7 +57,7 @@ GenStudio for Performance Marketingのガイドラインは、生成 AI がア�
 
 ### 構造化されたプロンプト
 
-複数セクションのメールの場合、[ メール ](/help/user-guide/create/email-experiences.md) 内のセクションごとに異なるコンテンツを生成するためのセクション固有の手順を提供するように促す構造を作成できます。 構造化プロンプトは、生成されたコンテンツを対応するコンテンツプレースホルダーに挿入できるように ](/help/user-guide/content/email-template.md#multi-section-emails) メールテンプレート内のセクション名 [ を直接参照する必要があります。
+複数セクションのメールの場合、[ メール ](/help/user-guide/create/email-experiences.md) 内のセクションごとに異なるコンテンツを生成するためのセクション固有の手順を提供するように促す構造を作成できます。 構造化プロンプトは、生成されたコンテンツを対応するコンテンツプレースホルダーに挿入できるように [&#128279;](/help/user-guide/content/email-template.md#multi-section-emails) メールテンプレート内のセクション名  を直接参照する必要があります。
 
 例えば、メールの 1 番目のセクションで新製品を宣伝するコンテンツを作成し、2 番目のセクションで製品のコスト削減メリットの詳細を説明するコンテンツを作成するようにGenStudio for Performance Marketingに指示できます。
 
