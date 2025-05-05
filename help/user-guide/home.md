@@ -10,4 +10,4 @@ ht-degree: 62%
 
 # パフォーマンスマーケティング用の Adobe GenStudio ユーザーガイド
 
-この内容は、[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) のドキュメントページに移動しました。
+この内容は、[GenStudio for Performance Marketing](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing) のドキュメントページに移動しました。
