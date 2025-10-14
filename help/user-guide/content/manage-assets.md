@@ -20,7 +20,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content] は、デジタルマ�
 
 以下は、[!UICONTROL Assets] ギャラリーの用語 `dog` に対する検索を示しています。
 
-![ 犬で検索したAssets ビュー ](../../assets/content-assets.png)
+![&#x200B; 犬で検索したAssets ビュー &#x200B;](../../assets/content-assets.png)
 
 ### Assets場所
 
@@ -28,9 +28,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content] は、デジタルマ�
 
 右側のギャラリーの上にある **[!UICONTROL 場所]** リストを使用すると、接続されたAdobe Experience Manager（AEM）の [!DNL Assets Content Hub] リポジトリから選択できます。 AEM リポジトリを選択すると、そのリポジトリのアセットのインベントリがギャラリーに表示され、承認されたアセットをコンテンツ作成用の入力として活用できます。 フィルターオプションは、[!DNL AEM Assets Content Hub] で設定されたカテゴリを反映して変更されます。
 
-AEM リポジトリーは読み取り専用です。つまり、ドラフト、新しいアセットまたはメタデータをAEM リポジトリーに保存することはできません。 アセット、エクスペリエンスおよびテンプレートのすべてのドラフトと最終更新は、新しい [ システムメタデータ ](asset-details.md#system-metadata) とともに `GenStudio assets` リポジトリに保存されます。
+AEM リポジトリーは読み取り専用です。つまり、ドラフト、新しいアセットまたはメタデータをAEM リポジトリーに保存することはできません。 アセット、エクスペリエンスおよびテンプレートのすべてのドラフトと最終更新は、新しい [&#x200B; システムメタデータ &#x200B;](asset-details.md#system-metadata) とともに `GenStudio assets` リポジトリに保存されます。
 
-[AEM リポジトリをGenStudio for Performance Marketingに追加する方法については、[!DNL AEM Assets Content Hub] リポジトリの接続 ](connect-aem-repo.md) を参照してください。
+[AEM リポジトリをGenStudio for Performance Marketingに追加する方法については、[!DNL AEM Assets Content Hub] リポジトリの接続 &#x200B;](connect-aem-repo.md) を参照してください。
 
 ## Assets管理
 
@@ -40,7 +40,7 @@ AEM リポジトリーは読み取り専用です。つまり、ドラフト、�
 
 アセットを [!DNL Content] に追加すると、デフォルトでは、`GenStudio assets` リポジトリに保存されます。 「_[!UICONTROL アセットを追加]_」ボタンは、「_[!UICONTROL 場所]_ が `GenStudio assets` リポジトリの場合にのみ使用できます。
 
-![Location フィールド ](../../assets/content-location.png){width="350" align="center"}
+![Location フィールド &#x200B;](../../assets/content-location.png){width="350" align="center"}
 
 **1 つ以上のアセットを追加するには**:
 
@@ -56,7 +56,7 @@ AEM リポジトリーは読み取り専用です。つまり、ドラフト、�
 
    追加した詳細は、このアクションで追加されたすべてのアセットに適用されます。
 
-   [ メタデータの詳細 ](/help/user-guide/content/asset-details.md#system-metadata) を参照してください。
+   [&#x200B; メタデータの詳細 &#x200B;](/help/user-guide/content/asset-details.md#system-metadata) を参照してください。
 
 1. **[!UICONTROL アセットを追加]** をクリックします。
 
@@ -72,7 +72,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 このフィルターと検索のインターフェイスは迅速かつレスポンシブで、生産的な検索ファーストのエクスペリエンスを提供します。 各 [!DNL Content] 表示には、理想的なアセット、エクスペリエンスまたはテンプレートを絞り込むためのフィルターオプションが表示されます。 アセットとエクスペリエンスの場合は、キャンペーンと特定のガイドライン（特定の製品に対して作成されたコンテンツなど）を選択できます。
 
-[ キーワード ](asset-details.md#user-defined-metadata) および [ 属性 ](/help/user-guide/insights/attributes.md) に基づいて検索結果を絞り込むフィルターがあります。 例えば、キャンペーンの新しいエクスペリエンスを構築するのに役立つ、特定のファイルタイプや件名のアセットを検索することができます。
+[&#x200B; キーワード &#x200B;](asset-details.md#user-defined-metadata) および [&#x200B; 属性 &#x200B;](/help/user-guide/insights/attributes.md) に基づいて検索結果を絞り込むフィルターがあります。 例えば、キャンペーンの新しいエクスペリエンスを構築するのに役立つ、特定のファイルタイプや件名のアセットを検索することができます。
 
 _エクスペリエンス_ を検索する場合、**[!UICONTROL 作成者]** フィルターを使用して、自分または特定のユーザーが作成したエクスペリエンスのみを表示するようにリストを制限できます。
 
@@ -84,7 +84,7 @@ _エクスペリエンス_ を検索する場合、**[!UICONTROL 作成者]** �
 
    >[!IMPORTANT]
    >
-   >_場所_ リストを使用できるのは [AEM リポジトリに接続 ](connect-aem-repo.md) している場合のみです。
+   >_場所_ リストを使用できるのは [AEM リポジトリに接続 &#x200B;](connect-aem-repo.md) している場合のみです。
 
 1. **[!UICONTROL 検索]** （虫眼鏡）をクリックして、キーワードまたは説明を入力します。
 

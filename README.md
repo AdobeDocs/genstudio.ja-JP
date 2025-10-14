@@ -11,11 +11,11 @@ ht-degree: 39%
 
 ## アドビオープンソース行動規範
 
-このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md) または [.NET Foundation 行動規範](https://dotnetfoundation.org/about/policies/code-of-conduct)を採用しています。[ 投稿 ](contributing.md) の記事を参照してください。
+このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md) または [.NET Foundation 行動規範](https://dotnetfoundation.org/about/policies/code-of-conduct)を採用しています。[&#x200B; 投稿 &#x200B;](contributing.md) の記事を参照してください。
 
 ### 小規模な変更
 
-軽微な更新を行う場合は、記事を開いて **編集** リンクをクリックすると、記事の GitHub ソースが表示されます。 GitHub UI を使用して更新をおこないます。一般的な [Adobeドキュメントのコントリビューターガイド ](https://experienceleague.adobe.com/ja/docs/contributor/contributor-guide/introduction) を参照してください。
+軽微な更新を行う場合は、記事を開いて **編集** リンクをクリックすると、記事の GitHub ソースが表示されます。 GitHub UI を使用して更新をおこないます。一般的な [Adobeドキュメントのコントリビューターガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/contributor/contributor-guide/introduction) を参照してください。
 
 このリポジトリのドキュメントやコード例に対して送信する小規模な修正や説明には、アドビの利用条件が適用されます。
 

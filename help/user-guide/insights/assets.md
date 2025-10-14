@@ -21,7 +21,7 @@ _[!UICONTROL Assets]_ ギャラリーは、アセットプレビューと指標�
 
 _[!UICONTROL Assets]_ テーブルは、[!UICONTROL Asset ID] を使用して整理されます。 テーブルの左側の上にフィルター（ファネル）アイコンをクリックすると、**[!UICONTROL フィルター]** メニューが開き、複数のリストから選択できます。
 
-![Assetsのフィルターとテーブル ](/help/assets/insights-assets-filter.png){zoomable="yes"}
+![Assetsのフィルターとテーブル &#x200B;](/help/assets/insights-assets-filter.png){zoomable="yes"}
 
 表示リスト （テーブル） アイコンとギャラリー表示（グリッド） アイコンを使用して、ビューを切り替えることができます。
 
@@ -31,7 +31,7 @@ _アセット_ とは、マーケティング活動での使用が承認され�
 
 アセットの詳細表示では、選択したアセットを使用しているエクスペリエンスを確認できます。 詳細には、アセットの合計パフォーマンス、ユーザー定義の属性、アセットに関連付けられた AI 検出機能が含まれます。
 
-![ 資産の詳細 ](/help/assets/insights-asset-details.png){zoomable="yes"}
+![&#x200B; 資産の詳細 &#x200B;](/help/assets/insights-asset-details.png){zoomable="yes"}
 
 ## アセット指標
 

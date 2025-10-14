@@ -18,7 +18,7 @@ ht-degree: 0%
 
 このチュートリアルでは、GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) （左側のナビゲーションエリアにある絵筆のアイコン [&#128279;](/help/user-guide/create/meta-experiences.md) を使用して、ブランド化された  メタ広告エクスペリエンス）を生成する方法を説明します。
 
-Meta 広告エクスペリエンスの作成を開始する前に、GenStudio for Performance Marketingで [ ガイドラインを組み込む ](/help/user-guide/guidelines/add-guidelines.md) ことが重要です。また、[ プロンプトの作成 ](/help/user-guide/effective-prompts.md) の基本を理解しておく必要があります。
+Meta 広告エクスペリエンスの作成を開始する前に、GenStudio for Performance Marketingで [&#x200B; ガイドラインを組み込む &#x200B;](/help/user-guide/guidelines/add-guidelines.md) ことが重要です。また、[&#x200B; プロンプトの作成 &#x200B;](/help/user-guide/effective-prompts.md) の基本を理解しておく必要があります。
 
 ## テンプレートを選択
 
@@ -34,14 +34,14 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 ## パラメーターを追加
 
-[ ガイドライン ](/help/user-guide/guidelines/overview.md) とアセットを _パラメーター_ のプロンプト領域に追加すると、コンテンツ生成プロセスが強化されます。これは、メタ広告を生成するための準備における重要な手順です。
+[&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md) とアセットを _パラメーター_ のプロンプト領域に追加すると、コンテンツ生成プロセスが強化されます。これは、メタ広告を生成するための準備における重要な手順です。
 
 **パラメーターとアセットを追加するには**:
 
 1. _パラメーター_ アイコンをクリックして、プロンプト領域を展開します。
 1. 「_パラメーター_」セクションで、ガイドライン（[!DNL Brands]、[!DNL Personas]、[!DNL Products]）を選択して、コンテンツの作成を通知します。
 
-   これらのメニューから利用できるブランド、ペルソナ、製品がない場合は、[GenStudio for Performance Marketingにガイドラインを追加 ](/help/user-guide/guidelines/add-guidelines.md) します。
+   これらのメニューから利用できるブランド、ペルソナ、製品がない場合は、[GenStudio for Performance Marketingにガイドラインを追加 &#x200B;](/help/user-guide/guidelines/add-guidelines.md) します。
 
 1. 「**[!UICONTROL コンテンツを選択]**」をクリックして、エクスペリエンスで使用するコンテンツを追加 *および* をクリックすると、コンテンツの生成に影響が及びます。
    * [!DNL Content] に公開済みのアセット（画像）を選択するには、**[!UICONTROL コンテンツから選択]** をクリックし、目的の画像をクリックして選択します。 フィルターを使用して、検索結果をさらに絞り込みます。
@@ -58,7 +58,7 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 ガイドラインを選択したら、自然言語を使用してプロンプトを作成し、新しいメタ広告エクスペリエンスのコンテンツの生成を開始します。 詳細なプロンプトは、曖昧なプロンプトや説明のつかないプロンプトよりも高品質の出力を生成します。
 
-プロンプトの書き込みについて詳しくは、[ 効果的なプロンプトの書き込み ](/help/user-guide/effective-prompts.md) を参照してください。
+プロンプトの書き込みについて詳しくは、[&#x200B; 効果的なプロンプトの書き込み &#x200B;](/help/user-guide/effective-prompts.md) を参照してください。
 
 **プロンプトを入力するには**:
 
@@ -67,7 +67,7 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 デフォルトでは、4 つのバリエーション（追加したプロンプト、ガイドラインおよびコンテンツによってすべて強化される）が生成され、キャンバスに表示されます。
 
-生成されたコンテンツは徐々に読み込まれます。メタエクスペリエンスの各セクションが生成されると、キャンバスに表示されます。 これらの変更がキャンバスにどのように読み込まれるかを学ぶには、[ メタエクスペリエンス ](/help/user-guide/create/meta-experiences.md#progressive-loading) を参照してください。
+生成されたコンテンツは徐々に読み込まれます。メタエクスペリエンスの各セクションが生成されると、キャンバスに表示されます。 これらの変更がキャンバスにどのように読み込まれるかを学ぶには、[&#x200B; メタエクスペリエンス &#x200B;](/help/user-guide/create/meta-experiences.md#progressive-loading) を参照してください。
 
 ## メタ広告チャネルを選択
 
@@ -75,7 +75,7 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 右側のメニューバー（FacebookとInstagramのアイコン **で「** Facebook」と「**Instagram**」の間のメタ広告チャネルオプションを切り替えて、各チャネルのバリアントを表示および管理します。
 
-[ メタ広告の変更 ](#revise-generated-meta-ads) を行う場合、Facebook広告とInstagram広告の縦横比を変更できます。
+[&#x200B; メタ広告の変更 &#x200B;](#revise-generated-meta-ads) を行う場合、Facebook広告とInstagram広告の縦横比を変更できます。
 
 ## 生成されたメタ広告を変更
 
@@ -83,21 +83,21 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 **生成されたバリアントを修正するには**:
 
-* **メタ広告のドラフト名を [ 編集](/help/user-guide/create/manage-variants.md#change-draft-name)** するには、キャンバスの上部にある _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
-* **メタ広告を [ 手動で編集](/help/user-guide/create/manage-variants.md#manually-edit-text)** するには、任意の広告セクション（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
+* **メタ広告のドラフト名を [&#x200B; 編集](/help/user-guide/create/manage-variants.md#change-draft-name)** するには、キャンバスの上部にある _名称未設定のドラフト_ タイトルをクリックし、新しいタイトルを入力します。
+* **メタ広告を [&#x200B; 手動で編集](/help/user-guide/create/manage-variants.md#manually-edit-text)** するには、任意の広告セクション（件名行、ヘッダー、本文コピーなど）をダブルクリックし、必要に応じて編集します。
 * **コールトゥアクションを変更または選択するには**、コールトゥアクションボタンをクリックし、使用可能なボタンテキストオプションから選択します。 _[!UICONTROL リンク]_ に、コールトゥアクションテキストの URL を入力します。
-* **広告のサイズと縦横比を [ 変更](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** するには、_[!UICONTROL サイズ変更]_ ボタン（キャンバスの左側にボタンアイコンが表示されたボックス）をクリックし、すべてのバリアントに適用する新しいサイズと縦横比を選択します。 バリアントが複製され、サイズが変更されます。
+* **広告のサイズと縦横比を [&#x200B; 変更](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** するには、_[!UICONTROL サイズ変更]_ ボタン（キャンバスの左側にボタンアイコンが表示されたボックス）をクリックし、すべてのバリアントに適用する新しいサイズと縦横比を選択します。 バリアントが複製され、サイズが変更されます。
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **画像を [ 切り抜きまたは再配置](/help/user-guide/create/manage-variants.md#crop-assets)** するには、画像の上にマウスポインターを置き、表示される切り抜きアイコンをクリックし、画像のサイズと配置を調整します。
-* **メタ広告を [ 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、広告タイトル（「Meta 4」など）をクリックし、**[!UICONTROL バリアントを削除]** をクリックします。
+* **画像を [&#x200B; 切り抜きまたは再配置](/help/user-guide/create/manage-variants.md#crop-assets)** するには、画像の上にマウスポインターを置き、表示される切り抜きアイコンをクリックし、画像のサイズと配置を調整します。
+* **メタ広告を [&#x200B; 削除](/help/user-guide/create/manage-variants.md#delete-variant)** するには、広告タイトル（「Meta 4」など）をクリックし、**[!UICONTROL バリアントを削除]** をクリックします。
 
 ## 生成フィードバックを送信
 
-生成出力の品質に関する [ フィードバックを送信 ](/help/user-guide/create/manage-variants.md#generation-feedback) するには、オプションアイコン（3 つのドット）をクリックし、**[!UICONTROL 良好な出力]** または **[!UICONTROL 不良な出力]** を選択します。
+生成出力の品質に関する [&#x200B; フィードバックを送信 &#x200B;](/help/user-guide/create/manage-variants.md#generation-feedback) するには、オプションアイコン（3 つのドット）をクリックし、**[!UICONTROL 良好な出力]** または **[!UICONTROL 不良な出力]** を選択します。
 
 ## ブランドの整合性の確認
 
-生成される広告を最適化し、ブランドアイデンティティに厳密に準拠するには、[_ブランドガイドラインチェック_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) の機能を活用して、バリアントのブランド調整の概要を提供します。また、[_ブランド検証_ パネル ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を使用して、包括的なブランド検証の詳細を表示し、改善点を明確にします。
+生成される広告を最適化し、ブランドアイデンティティに厳密に準拠するには、[_ブランドガイドラインチェック_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) の機能を活用して、バリアントのブランド調整の概要を提供します。また、[_ブランド検証_ パネル &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を使用して、包括的なブランド検証の詳細を表示し、改善点を明確にします。
 
 **ブランドの整合性を検証するには**:
 
@@ -105,9 +105,9 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 1. 改善が必要なセクションとガイドラインの詳細を取得するには、**[!UICONTROL 確認]**&#x200B;_をクリックするか_ 上部のメニューバーにあるブランド検証アイコンをクリックして [_ブランド検証パネル_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) を開きます。
 
 1. 各広告を切り替えて、生成されたコンテンツを改善してブランドに合わせる方法を確認します。
-1. [ 手動で広告を改訂 ](#revise-generated-meta-ads) して、広告がブランドと密接に連携していることを確認します。
+1. [&#x200B; 手動で広告を改訂 &#x200B;](#revise-generated-meta-ads) して、広告がブランドと密接に連携していることを確認します。
 
-[ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md) を参照してください。
+[&#x200B; ブランド検証 &#x200B;](/help/user-guide/guidelines/brand-validation.md) を参照してください。
 
 ## レビューと承認の取得
 
@@ -115,12 +115,12 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 **レビューと承認を取得するには**:
 
-1. [ ドラフトのメタ広告エクスペリエンスの承認 ](/help/user-guide/approvals/request-review.md) を依頼する [ 承認リクエストの開始 ](/help/user-guide/approvals/approve-content.md)。
-1. レビュープロセス中に [ レビュー担当者を削除または追加 ](/help/user-guide/approvals/review-and-edit.md#manage-approvals) できます。
-1. [ レビュー用にコンテンツにアクセス ](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) し、修正要求を表示します。
-1. レビューのコメントごとにドラフトを編集し [ メタ広告エクスペリエンスを公開 ](#publish-and-export-experience) します。
+1. [&#x200B; ドラフトのメタ広告エクスペリエンスの承認 &#x200B;](/help/user-guide/approvals/request-review.md) を依頼する [&#x200B; 承認リクエストの開始 &#x200B;](/help/user-guide/approvals/approve-content.md)。
+1. レビュープロセス中に [&#x200B; レビュー担当者を削除または追加 &#x200B;](/help/user-guide/approvals/review-and-edit.md#manage-approvals) できます。
+1. [&#x200B; レビュー用にコンテンツにアクセス &#x200B;](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) し、修正要求を表示します。
+1. レビューのコメントごとにドラフトを編集し [&#x200B; メタ広告エクスペリエンスを公開 &#x200B;](#publish-and-export-experience) します。
 
-詳しくは、[ レビューと承認 ](/help/user-guide/approvals/overview.md) を参照してください。
+詳しくは、[&#x200B; レビューと承認 &#x200B;](/help/user-guide/approvals/overview.md) を参照してください。
 
 ## Publishと書き出しの経験
 
@@ -134,6 +134,6 @@ Meta 広告エクスペリエンスの作成を開始する前に、GenStudio fo
 
 ## メタを接続
 
-GenStudio for Performance Marketingを Meta に接続して、コンテンツのパフォーマンスに関する高度な分析と [ インサイト ](/help/user-guide/insights/overview.md) を受け取ることができます。
+GenStudio for Performance Marketingを Meta に接続して、コンテンツのパフォーマンスに関する高度な分析と [&#x200B; インサイト &#x200B;](/help/user-guide/insights/overview.md) を受け取ることができます。
 
-詳しくは、[ チャネルアカウントの接続 ](/help/user-guide/insights/connect-channel.md) を参照してください。
+詳しくは、[&#x200B; チャネルアカウントの接続 &#x200B;](/help/user-guide/insights/connect-channel.md) を参照してください。

@@ -17,7 +17,7 @@ ht-degree: 40%
 
 ## 寄稿者ガイドドキュメント
 
-詳しくは、[Adobeドキュメントのコントリビューターガイド ](https://experienceleague.adobe.com/ja/docs/contributor/contributor-guide/introduction) を参照してください。
+詳しくは、[Adobeドキュメントのコントリビューターガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/contributor/contributor-guide/introduction) を参照してください。
 
 ## ご質問がある場合は、
 
@@ -27,13 +27,13 @@ ht-degree: 40%
 
 このプロジェクトへのサードパーティ投稿者はすべて、投稿者に署名する必要があります
 Adobeにコントリビューションの再配布を許可する使用許諾契約（CLA）
-プロジェクトの一環として。 [AdobeCLA に署名 ](https://opensource.adobe.com/cla.html)。 Adobe CLA は 1 回だけ送信すればよいので、過去に Adobe CLA を送信した方は、先へ進めることができます。
+プロジェクトの一環として。 [AdobeCLA に署名 &#x200B;](https://opensource.adobe.com/cla.html)。 Adobe CLA は 1 回だけ送信すればよいので、過去に Adobe CLA を送信した方は、先へ進めることができます。
 
 ## コードレビュー
 
-提案はすべてプルリクエストとして送信する必要があります。 PR 担当者は、プロジェクトメンテナーとのピアレビュープロセスに参加する必要があります。 _GitHub ドキュメント_ の [ プルリクエストについて ](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) を参照してください。
+提案はすべてプルリクエストとして送信する必要があります。 PR 担当者は、プロジェクトメンテナーとのピアレビュープロセスに参加する必要があります。 _GitHub ドキュメント_ の [&#x200B; プルリクエストについて &#x200B;](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) を参照してください。
 
-最後に、次の場合は [ プルリクエストテンプレート ](PULL_REQUEST_TEMPLATE.md) に従ってください
+最後に、次の場合は [&#x200B; プルリクエストテンプレート &#x200B;](PULL_REQUEST_TEMPLATE.md) に従ってください
 プルリクエストを送信しています！
 
 ## コントリビューターからメンテナーへ
@@ -42,4 +42,4 @@ Adobeにコントリビューションの再配布を許可する使用許諾契
 
 ## セキュリティに関する問題
 
-セキュリティ上の問題は、このイシュートラッカーでは報告しないでください。 代わりに、[Adobeセキュリティの専門家に問題を提起してください ](https://helpx.adobe.com/jp/security/alertus.html)。
+セキュリティ上の問題は、このイシュートラッカーでは報告しないでください。 代わりに、[Adobeセキュリティの専門家に問題を提起してください &#x200B;](https://helpx.adobe.com/jp/security/alertus.html)。

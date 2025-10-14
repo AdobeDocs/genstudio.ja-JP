@@ -16,15 +16,15 @@ ht-degree: 0%
 
 GenStudio for Performance Marketingは、ガイドライン（[[!DNL Brands]、 [!DNL Products]、および  [!DNL Personas]](overview.md)）とAdobeのジェネレーティブ AI テクノロジーの力を活用して、ターゲット顧客に合わせてパーソナライズされたマーケティングコンテンツをキュレーション&#x200B;ます。
 
-GenStudio for Performance Marketingの ![[!DNL Personas] ガイドライン ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+GenStudio for Performance Marketingの ![[!DNL Personas] ガイドライン &#x200B;](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **ペルソナの表示または変更**:
 
 1. 左側のナビゲーション領域で、「**[!UICONTROL ペルソナ]**」をクリックします。
-1. [ 個々の詳細の表示またはペルソナの変更 ](add-guidelines.md#manage-personas) を行うには、_[!DNL Personas]_&#x200B;のアクションメニューをクリックして&#x200B;**開く**&#x200B;を選択します。
+1. [&#x200B; 個々の詳細の表示またはペルソナの変更 &#x200B;](add-guidelines.md#manage-personas) を行うには、_[!DNL Personas]_&#x200B;のアクションメニューをクリックして&#x200B;**開く**&#x200B;を選択します。
 1. ガイドラインカテゴリのテキストフィールドをクリックして、ペルソナのガイドラインを修正します。
 
-GenStudio for Performance Marketingでペルソナを追加または変更する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+GenStudio for Performance Marketingでペルソナを追加または変更する方法については、[&#x200B; ガイドラインの追加 &#x200B;](add-guidelines.md) を参照してください。
 
 ## [!DNL Personas] ガイドライン
 

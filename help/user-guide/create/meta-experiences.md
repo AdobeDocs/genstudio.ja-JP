@@ -14,9 +14,9 @@ ht-degree: 0%
 
 # メタエクスペリエンス
 
-Adobe GenStudio for Performance Marketingでは、ジェネレーティブ AI を使用して [ 効果的なメタエクスペリエンスの作成 ](/help/tutorials/create-meta-ad.md) を効率化できます。
+Adobe GenStudio for Performance Marketingでは、ジェネレーティブ AI を使用して [&#x200B; 効果的なメタエクスペリエンスの作成 &#x200B;](/help/tutorials/create-meta-ad.md) を効率化できます。
 
-[!DNL Create] を使用すると、コンテンツ作成者は [ ガイドライン ](/help/user-guide/guidelines/overview.md)、画像アセット、[ 適切に作成されたプロンプト ](/help/user-guide/effective-prompts.md) を使用して、メタ広告エクスペリエンスをすばやく [ 作成 ](/help/tutorials/create-meta-ad.md) できます。
+[!DNL Create] を使用すると、コンテンツ作成者は [&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md)、画像アセット、[&#x200B; 適切に作成されたプロンプト &#x200B;](/help/user-guide/effective-prompts.md) を使用して、メタ広告エクスペリエンスをすばやく [&#x200B; 作成 &#x200B;](/help/tutorials/create-meta-ad.md) できます。
 
 メールエクスペリエンスの編集可能なセクションには、次のものが含まれます。
 
@@ -27,7 +27,7 @@ Adobe GenStudio for Performance Marketingでは、ジェネレーティブ AI �
 * 画像
 * ブランドロゴ
 
-[ テンプレート要素 ](/help/user-guide/content/use-templates.md#template-elements) を参照してください。
+[&#x200B; テンプレート要素 &#x200B;](/help/user-guide/content/use-templates.md#template-elements) を参照してください。
 
 <!-- ## Meta ad capabilities
 
@@ -37,7 +37,7 @@ Content creators and marketers can produce brand-consistent Meta ad experiences 
 
 メタ広告エクスペリエンスを作成する場合は、FacebookとInstagramの両方のチャネルのバリアントを生成できます。 facebook広告とInstagram広告を切り替えて、各チャネルのバリアントをプレビューします。
 
-[ メタ広告チャネルの選択 ](/help/tutorials/create-meta-ad.md#choose-meta-ads-channel) を参照してください。
+[&#x200B; メタ広告チャネルの選択 &#x200B;](/help/tutorials/create-meta-ad.md#choose-meta-ads-channel) を参照してください。
 
 ## プログレッシブロード
 

@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketingで効果的に作業するには、生
 
 GenStudio for Performance Marketingでは、アセットを変更する機会があるたびに生成 AI プロンプトが表示されます。 効果的なプロンプトのコンポーネントには、説明的な言語、例、設定済みのガイドラインでは提供されない情報を含める必要があります。
 
-ベストプラクティスとしては、[ ガイドライン ](/help/user-guide/guidelines/overview.md) を使用してGenStudio for Performance Marketingにブランド情報を提供すると、生成 AI を最大限に活用して、ブランドに合わせたコンテンツエクスペリエンスを作成できます。
+ベストプラクティスとしては、[&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md) を使用してGenStudio for Performance Marketingにブランド情報を提供すると、生成 AI を最大限に活用して、ブランドに合わせたコンテンツエクスペリエンスを作成できます。
 
 ## 記述言語
 
@@ -33,7 +33,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 +++サンプル結果を参照
 
-![ 生成された 3 通のメール ](/help/assets/sample-email.png)
+![&#x200B; 生成された 3 通のメール &#x200B;](/help/assets/sample-email.png)
 
 +++
 
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) では、プロンプト領域で **[!UICONTROL プロンプト条件]** （[_パラメーター_](/help/user-guide/create/overview.md#parameters) とプロンプト）を使用して、AI の解釈を改善するために選択を通じて詳細を追加できます。
 
-[ メール ](/help/user-guide/create/email-experiences.md) の場合、プロンプト条件には [ パラメーター ](/help/user-guide/guidelines/overview.md) に _ガイドライン_ を追加すること、メールのバリエーションで使用するアセットをアップロードすること、説明プロンプトを含めることができます。 [ メタ広告 ](/help/tutorials/create-meta-ad.md) の場合、プロンプト条件には、_パラメーター_ でのブランドガイドライン、既存アセットの選択またはアップロード、画像またはアセットに関連する設定（縦横比など）、プロンプトなどが含まれます。 真のパワーは、[ ガイドラインの設定 ](/help/user-guide/guidelines/add-guidelines.md) から始まります。
+[&#x200B; メール &#x200B;](/help/user-guide/create/email-experiences.md) の場合、プロンプト条件には [&#x200B; パラメーター &#x200B;](/help/user-guide/guidelines/overview.md) に _ガイドライン_ を追加すること、メールのバリエーションで使用するアセットをアップロードすること、説明プロンプトを含めることができます。 [&#x200B; メタ広告 &#x200B;](/help/tutorials/create-meta-ad.md) の場合、プロンプト条件には、_パラメーター_ でのブランドガイドライン、既存アセットの選択またはアップロード、画像またはアセットに関連する設定（縦横比など）、プロンプトなどが含まれます。 真のパワーは、[&#x200B; ガイドラインの設定 &#x200B;](/help/user-guide/guidelines/add-guidelines.md) から始まります。
 
 >[!NOTE]
 >
@@ -53,11 +53,11 @@ GenStudio for Performance Marketingのガイドラインは、生成 AI がア�
 
 >[!TIP]
 >
->GenStudio for Performance Marketingで [!DNL Brand] ガイドラインを使用する方法とタイミングを制御します。 ブランドガイドラインの設定および管理方法については、[ ガイドライン ](/help/user-guide/guidelines/overview.md) を参照してください。
+>GenStudio for Performance Marketingで [!DNL Brand] ガイドラインを使用する方法とタイミングを制御します。 ブランドガイドラインの設定および管理方法については、[&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md) を参照してください。
 
 ### 構造化されたプロンプト
 
-複数セクションのメールの場合、[ メール ](/help/user-guide/create/email-experiences.md) 内のセクションごとに異なるコンテンツを生成するためのセクション固有の手順を提供するように促す構造を作成できます。 構造化プロンプトは、生成されたコンテンツを対応するコンテンツプレースホルダーに挿入できるように [&#128279;](/help/user-guide/content/email-template.md#multi-section-emails) メールテンプレート内のセクション名  を直接参照する必要があります。
+複数セクションのメールの場合、[&#x200B; メール &#x200B;](/help/user-guide/create/email-experiences.md) 内のセクションごとに異なるコンテンツを生成するためのセクション固有の手順を提供するように促す構造を作成できます。 構造化プロンプトは、生成されたコンテンツを対応するコンテンツプレースホルダーに挿入できるように [&#128279;](/help/user-guide/content/email-template.md#multi-section-emails) メールテンプレート内のセクション名  を直接参照する必要があります。
 
 例えば、メールの 1 番目のセクションで新製品を宣伝するコンテンツを作成し、2 番目のセクションで製品のコスト削減メリットの詳細を説明するコンテンツを作成するようにGenStudio for Performance Marketingに指示できます。
 
@@ -72,7 +72,7 @@ GenStudio for Performance Marketingのガイドラインは、生成 AI がア�
   例えば、テンプレートでセクション名として `moduleA` または `Group-3` を使用している場合、プロンプトでこれらのセクション名を参照できます。
 
 - 推奨されるルール/構造に従います。 プロンプト構造が指定された形式に準拠していない場合、プロンプトは *すべて* のメールセクションに適用され、引き続きコンテンツの生成を容易にします。
-- [ メールテンプレートで定義した ](/help/user-guide/content/email-template.md#code-an-email-template) セクション名を使用します。 プロンプト参照は、メールテンプレートにコーディングされたセクション名と一致する必要があります。
+- [&#x200B; メールテンプレートで定義した &#x200B;](/help/user-guide/content/email-template.md#code-an-email-template) セクション名を使用します。 プロンプト参照は、メールテンプレートにコーディングされたセクション名と一致する必要があります。
 - 大文字と小文字を区別しない。 例えば、メールテンプレートと構造化プロンプトで `Pod` または `pod` を使用できます。
 - 最初に汎用のユーザープロンプトを参照し、次にセクション固有のディレクティブを参照します。
 - セクション名の参照とディレクティブの間の区切りとして、コロン、ハイフン、コンマ、その他の区切り文字（`,:;#$!~|@=-%&*^_`）を使用します。 例えば、次をセクション固有のプロンプトディレクティブとして使用できます。`Pod1; Describe how to easily edit text and swap images.`
@@ -91,7 +91,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-[ メールテンプレートの準備 ](/help/user-guide/content/email-template.md#code-an-email-template) を参照してください。
+[&#x200B; メールテンプレートの準備 &#x200B;](/help/user-guide/content/email-template.md#code-an-email-template) を参照してください。
 
 ## 再試行
 

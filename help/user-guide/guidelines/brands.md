@@ -22,7 +22,7 @@ GenStudio for Performance Marketingは、ブランドから得た豊富なブラ
 1. ブランドの概要情報を確認するには、定義済みのブランドをクリックして開きます。
 1. 個々の詳細を表示したり、ブランドを変更したりするには、上部の [**[!UICONTROL &#x200B; ブランドの音声ガイドライン &#x200B;]**](#brand-voice-guidelines)、[**[!UICONTROL &#x200B; チャネルガイドライン &#x200B;]**](#channel-guidelines)、**[!UICONTROL 画像ガイドライン]**、または **[!UICONTROL ロゴ]** をクリックします。
 
-ブランドガイドラインドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudio for Performance Marketingにアップロードして、ブランドを自動的に作成できます。 GenStudio for Performance Marketingにブランドを追加、変更、公開する方法については、[ ガイドラインの追加 ](add-guidelines.md) を参照してください。
+ブランドガイドラインドキュメント（最大 3 つのPDFまたは DOC ファイル）をGenStudio for Performance Marketingにアップロードして、ブランドを自動的に作成できます。 GenStudio for Performance Marketingにブランドを追加、変更、公開する方法については、[&#x200B; ガイドラインの追加 &#x200B;](add-guidelines.md) を参照してください。
 
 ## [!DNL Brands] ガイドライン
 
@@ -84,4 +84,4 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 GenStudio for Performance Marketingでは、ブランドの検証は、[!DNL Brands]、[!DNL Products]、[!DNL Personas] の生成 AI 機能と組み合わせて重要な役割を果たします。 これにより、すべてのコンテンツとブランドアイデンティティの一貫性を維持できます。
 
-[ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md) を参照してください。
+[&#x200B; ブランド検証 &#x200B;](/help/user-guide/guidelines/brand-validation.md) を参照してください。

@@ -27,7 +27,7 @@ GenStudio for Performance Marketingは、生成 AI の力を活用して、コ�
 
 強力なブランドガイドライン機能を使用して、組織のブランディング、お客様のペルソナ、製品の説明に関するGenStudio for Performance Marketingのトレーニングを効果的に行うことから始めます。
 
-これらのガイドラインの準備とアップロード方法については、[ ガイドラインの概要 ](../user-guide/guidelines/overview.md) を参照してください。
+これらのガイドラインの準備とアップロード方法については、[&#x200B; ガイドラインの概要 &#x200B;](../user-guide/guidelines/overview.md) を参照してください。
 
 ## コンテンツのライフサイクル
 

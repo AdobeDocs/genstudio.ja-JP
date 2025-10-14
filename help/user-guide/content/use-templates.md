@@ -71,25 +71,25 @@ GenStudio for Performance Marketingを使用すると、コンテンツ作成者
 
 >[!TIP]
 >
->各チャネルタイプのテンプレートに対してGenStudio for Performance Marketingがサポートする [ 認識されたフィールド名 ](customize-template.md#recognized-field-names) を参照してください。
+>各チャネルタイプのテンプレートに対してGenStudio for Performance Marketingがサポートする [&#x200B; 認識されたフィールド名 &#x200B;](customize-template.md#recognized-field-names) を参照してください。
 
 ## チャネルガイドラインの設定
 
-GenStudio for Performance Marketingでテンプレートを使用する前に、ブランドごとに [ チャネルガイドライン ](../guidelines/brands.md#channel-guidelines) を設定することをお勧めします。 チャネルガイドラインは、テンプレートの使用時に生成されるコンテンツのタイプに直接影響します。 例えば、メールの本文に文字制限を設定できます。
+GenStudio for Performance Marketingでテンプレートを使用する前に、ブランドごとに [&#x200B; チャネルガイドライン &#x200B;](../guidelines/brands.md#channel-guidelines) を設定することをお勧めします。 チャネルガイドラインは、テンプレートの使用時に生成されるコンテンツのタイプに直接影響します。 例えば、メールの本文に文字制限を設定できます。
 
-![ ボディ仕様 ](/help/assets/channel-email-body.png)
+![&#x200B; ボディ仕様 &#x200B;](/help/assets/channel-email-body.png)
 
 ## テンプレートをカスタマイズ
 
-GenStudio for Performance Marketingで使用できるように [ テンプレートをカスタマイズ ](customize-template.md) するには、生成 AI がコンテンツの挿入に使用するコンテンツプレースホルダー（フィールド）を挿入します。 GenStudio for Performance Marketingは、「`body`」フィールドなどの特定のフィールドを認識し、選択したブランド用に設定されたチャネルガイドラインに従います。
+GenStudio for Performance Marketingで使用できるように [&#x200B; テンプレートをカスタマイズ &#x200B;](customize-template.md) するには、生成 AI がコンテンツの挿入に使用するコンテンツプレースホルダー（フィールド）を挿入します。 GenStudio for Performance Marketingは、「`body`」フィールドなどの特定のフィールドを認識し、選択したブランド用に設定されたチャネルガイドラインに従います。
 
 >[!TIP]
 >
->より多くのオーディエンスにリーチして最適なエクスペリエンスを提供できるように、[ テンプレートを作成するためのアクセシビリティガイドライン ](accessibility-for-templates.md) に従います。
+>より多くのオーディエンスにリーチして最適なエクスペリエンスを提供できるように、[&#x200B; テンプレートを作成するためのアクセシビリティガイドライン &#x200B;](accessibility-for-templates.md) に従います。
 
 ## テンプレートのアップロード
 
-GenStudio for Performance Marketing用のテンプレートを準備する際のガイドとして、[ テンプレートのカスタマイズ ](customize-template.md) を使用します。 すべてのオーディエンスによりよいエクスペリエンスを提供する方法については、[ テンプレートのアクセシビリティガイドライン ](accessibility-for-templates.md) を参照してください。
+GenStudio for Performance Marketing用のテンプレートを準備する際のガイドとして、[&#x200B; テンプレートのカスタマイズ &#x200B;](customize-template.md) を使用します。 すべてのオーディエンスによりよいエクスペリエンスを提供する方法については、[&#x200B; テンプレートのアクセシビリティガイドライン &#x200B;](accessibility-for-templates.md) を参照してください。
 
 **テンプレートを追加するには**:
 
@@ -103,7 +103,7 @@ GenStudio for Performance Marketing用のテンプレートを準備する際の
 
    メールテンプレートのプレビューの例：
 
-   ![ プレビューフィールドが検出されました ](../../assets/template-detected-fields.png){width="650"}
+   ![&#x200B; プレビューフィールドが検出されました &#x200B;](../../assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
@@ -128,10 +128,10 @@ GenStudio for Performance Marketingで既存のテンプレートを検索およ
 
 1. _[!DNL Content]_&#x200B;で、「**[!UICONTROL テンプレート]**」セクションを選択します。
 
-   ![ コンテンツテンプレートリスト ](../../assets/content-templates.png){width="650" zoomable="yes"}
+   ![&#x200B; コンテンツテンプレートリスト &#x200B;](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. 全体表示および詳細リストのテンプレートを選択します。
 
 1. 右上隅にある **[!UICONTROL エクスペリエンスを作成]** （絵筆）をクリックして、テンプレートを使用します。
 
-1. [ チュートリアル ](/help/tutorials/tutorials.md) を続けて、エクスペリエンスを作成します。
+1. [&#x200B; チュートリアル &#x200B;](/help/tutorials/tutorials.md) を続けて、エクスペリエンスを作成します。

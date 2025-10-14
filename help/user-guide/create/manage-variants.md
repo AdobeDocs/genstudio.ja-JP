@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # バリアントの管理
 
-Adobe GenStudio for Performance Marketing [!DNL Create] を使用すると、生成されるバリアント [ メール ](/help/user-guide/create/email-experiences.md)、[ メタ広告 ](/help/user-guide/create/meta-experiences.md) などをカスタマイズして強化し、デジタルマーケティング戦略で使用できます。
+Adobe GenStudio for Performance Marketing [!DNL Create] を使用すると、生成されるバリアント [&#x200B; メール &#x200B;](/help/user-guide/create/email-experiences.md)、[&#x200B; メタ広告 &#x200B;](/help/user-guide/create/meta-experiences.md) などをカスタマイズして強化し、デジタルマーケティング戦略で使用できます。
 
-[ エクスペリエンスの作成 ](/help/tutorials/tutorials.md) 時に、生成されたバリアントのコンテンツとアセットを個別にまたはバッチで変更できます。 個々のマイクロレベルでバリアントを管理する機能により、生成されたコンテンツの各部分を明示的に管理できます。
+[&#x200B; エクスペリエンスの作成 &#x200B;](/help/tutorials/tutorials.md) 時に、生成されたバリアントのコンテンツとアセットを個別にまたはバッチで変更できます。 個々のマイクロレベルでバリアントを管理する機能により、生成されたコンテンツの各部分を明示的に管理できます。
 
 ## ドラフト名を変更
 
@@ -146,7 +146,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 _[!UICONTROL ブランドガイドラインのチェック]_ および _[!UICONTROL ブランド検証パネル]_ を使用して、一貫性のあるブランドアイデンティティとバリアントの整合性を維持します。
 
-[ ブランド検証 ](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment) を参照してください。
+[&#x200B; ブランド検証 &#x200B;](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment) を参照してください。
 
 ## 生成のフィードバック
 

@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # バリアントを生成
 
-バリアントを生成する際は、新しい [ ガイドライン ](/help/user-guide/guidelines/overview.md)、画像、[ プロンプト ](/help/user-guide/effective-prompts.md) を追加するオプションがあります。 これらの手順はオプションですが、変更することを選択すると、再生成された結果に影響を与えます。
+バリアントを生成する際は、新しい [&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md)、画像、[&#x200B; プロンプト &#x200B;](/help/user-guide/effective-prompts.md) を追加するオプションがあります。 これらの手順はオプションですが、変更することを選択すると、再生成された結果に影響を与えます。
 
 ## メール
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 1. 生成されたメールのバリエーションが表示された状態で、画面の下部付近の **[!UICONTROL 開いてプロンプトを表示]** をクリックして、プロンプトバーを展開します。
 1. 変更 _パラメーター_:
-   1. **[!UICONTROL ブランド]**、**[!UICONTROL ペルソナ]** または **[!UICONTROL 製品]** [ ガイドライン ](/help/user-guide/guidelines/overview.md) を選択します。
+   1. **[!UICONTROL ブランド]**、**[!UICONTROL ペルソナ]** または **[!UICONTROL 製品]** [&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md) を選択します。
    1. 「_[!UICONTROL コンテンツ]_」セクションで画像を追加または削除します。
    1. 「生成するエクスペリエンスを説明 _プロンプトボックスに新しいプロンプトを入力し_ す。
 1. 「**[!UICONTROL 生成]**」をクリックします。

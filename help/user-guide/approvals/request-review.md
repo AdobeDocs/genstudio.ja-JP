@@ -33,4 +33,4 @@ ht-degree: 0%
 
 コンテンツ作成者の場合、ドラフトキャンバスには「**[!UICONTROL 承認を管理]** ボタンが表示されます。 このボタンを使用すると、レビューおよび承認プロセス全体を通して承認者を削除または追加できるポップアップを開くことができます。
 
-承認者名は、承認リクエストが開始された後、[!DNL Notified] のステータスでこのビューに表示されます。 GenStudio for Performance Marketingの承認タスクの概要については、[ コンテンツの承認 ](./approve-content.md) を参照してください。
+承認者名は、承認リクエストが開始された後、[!DNL Notified] のステータスでこのビューに表示されます。 GenStudio for Performance Marketingの承認タスクの概要については、[&#x200B; コンテンツの承認 &#x200B;](./approve-content.md) を参照してください。

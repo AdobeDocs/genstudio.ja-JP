@@ -17,7 +17,7 @@ _[!UICONTROL Attributes]_ テーブルは、[!UICONTROL Attribute] という名�
 
 テーブルの左側の上にあるフィルター（ファネル）アイコンをクリックすると、**[!UICONTROL フィルター]** メニューが開き、[!UICONTROL &#x200B; アカウント &#x200B;] および [!UICONTROL &#x200B; 属性カテゴリ &#x200B;] から選択して、テーブルの属性をフィルタリングできます。 次の例は、`Lighting Condition` カテゴリの属性のリストを示しています。
 
-![ 属性フィルターとテーブル ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
+![&#x200B; 属性フィルターとテーブル &#x200B;](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
 ## 属性の詳細
 
@@ -25,9 +25,9 @@ _[!UICONTROL Attributes]_ テーブルは、[!UICONTROL Attribute] という名�
 
 属性の詳細表示では、選択した属性を使用しているエクスペリエンスを確認できます。 詳細には、属性パフォーマンスの合計と、各エクスペリエンスに関連するパフォーマンス指標の分類が含まれます。
 
-![ 属性パフォーマンス指標 ](/help/assets/insights-attribute-details.png){zoomable="yes"}
+![&#x200B; 属性パフォーマンス指標 &#x200B;](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketingは、特定の機能を検出し、適切な属性をアセットまたはエクスペリエンスにタグとして適用します。 これらのタグの例については、[ カテゴリ ](#categories) を参照してください。 エクスペリエンスに関連付けられているすべての属性を表示するには、テーブルの右側の上にある設定（歯車）アイコンをクリックして **[!UICONTROL 属性]** 列を選択します。
+GenStudio for Performance Marketingは、特定の機能を検出し、適切な属性をアセットまたはエクスペリエンスにタグとして適用します。 これらのタグの例については、[&#x200B; カテゴリ &#x200B;](#categories) を参照してください。 エクスペリエンスに関連付けられているすべての属性を表示するには、テーブルの右側の上にある設定（歯車）アイコンをクリックして **[!UICONTROL 属性]** 列を選択します。
 
 ## カテゴリ
 
@@ -113,7 +113,7 @@ Select any of the following to open a detailed list of feature categories:
 | 指標 | 定義 | インサイト |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL 属性]** | 属性名。 | 任意の主要指標の列見出しをクリックして、テーブルを並べ替えます。 |
-| **[!UICONTROL カテゴリ]** | 属性の固有の品質を表す [ カテゴリ ](#categories)。 |  |
+| **[!UICONTROL カテゴリ]** | 属性の固有の品質を表す [&#x200B; カテゴリ &#x200B;](#categories)。 |  |
 | 画像の **[!UICONTROL 数]** | この属性を持つ画像の数。 |  |
 | ビデオの **[!UICONTROL 数]** | この属性を持つビデオの数。 |  |
 | **[!UICONTROL インプレッション]** | この属性を持つ画像またはビデオが、インタラクションや表示に関係なく、チャネルに読み込まれるたびに発生する回数。 | インプレッション数が多い場合は、幅広い可視性を示すことがありますが、真のパフォーマンスインサイトを得るには、他のエンゲージメント指標の使用を検討してください。 |

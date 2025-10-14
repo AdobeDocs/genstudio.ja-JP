@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## ガイドラインの追加
 
-メタ広告テンプレートを準備する前に、GenStudio for Performance Marketingに [ ガイドライン ](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [ ブランドガイドライン ](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
+メタ広告テンプレートを準備する前に、GenStudio for Performance Marketingに [&#x200B; ガイドライン &#x200B;](/help/user-guide/guidelines/overview.md) が追加され、関連するブランドの包括的な情報が入力されていることを確認します。 [&#x200B; ブランドガイドライン &#x200B;](/help/user-guide/guidelines/brands.md) は、生成されるコンテンツに直接影響します。
 
-**例**：メタ広告テンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [ チャネルガイドライン ](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
+**例**：メタ広告テンプレートの本文を 500 文字以下にする場合は、「本文」フィールドの [&#x200B; チャネルガイドライン &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines) にその要件を追加します。
 
 ガイドラインがGenStudio for Performance Marketingに追加されていない場合は、デフォルトが使用されます。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 通常、デザイナーは、Adobe XDなどのデザインプログラムでテンプレートのビジュアルデザインを作成します。
 
-[ テンプレート要素 ](use-templates.md#template-elements) および [ テンプレート例 ](/help/user-guide/content/customize-template.md#template-examples) を参照してください。
+[&#x200B; テンプレート要素 &#x200B;](use-templates.md#template-elements) および [&#x200B; テンプレート例 &#x200B;](/help/user-guide/content/customize-template.md#template-examples) を参照してください。
 
 ### 広告仕様
 
@@ -54,16 +54,16 @@ GenStudio for Performance Marketingのコンテンツを動的に入力するメ
 * GenStudio for Performance Marketingで自動生成するテンプレート内のテキスト要素（ヘッドラインやCTAなど）を指定します。
 * Handlebars 構文を使用してプレースホルダーを挿入し、HTMLテンプレートを調整します。
 
-[ コンテンツのプレースホルダー ](/help/user-guide/content/customize-template.md#content-placeholders) を参照してください。
+[&#x200B; コンテンツのプレースホルダー &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) を参照してください。
 
 ## テンプレートのプレビュー
 
 組み込みヘルパーを使用して、特定のコンテンツ領域の表示を制御します。 例えば、クリーンなプレビューリンクを維持しながら、書き出されたテンプレート内のリンクにトラッキングパラメーターを含めます。
 
-[ テンプレートプレビュー ](/help/user-guide/content/customize-template.md#template-preview) を参照してください。
+[&#x200B; テンプレートプレビュー &#x200B;](/help/user-guide/content/customize-template.md#template-preview) を参照してください。
 
 ## テンプレートのアップロードと使用
 
 テンプレートの設計、コーディング、テストおよびプレビューが完了したら、GenStudio for Performance Marketingにアップロードして新しいマーケティングコンテンツの生成に使用できます。
 
-[ テンプレートの操作 ](use-templates.md) を参照してください。
+[&#x200B; テンプレートの操作 &#x200B;](use-templates.md) を参照してください。

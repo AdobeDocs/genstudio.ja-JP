@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->GenStudio for Performance Marketingでデータを受信するには、チャネルアカウントに接続する必要があります。 [ チャネルアカウントの接続 ](connect-channel.md) を参照してください。
+>GenStudio for Performance Marketingでデータを受信するには、チャネルアカウントに接続する必要があります。 [&#x200B; チャネルアカウントの接続 &#x200B;](connect-channel.md) を参照してください。
 
 _[!UICONTROL チャネル]_ テーブルは、チャネルベースの広告キャンペーンを使用して整理されます。 テーブルの右側の上にある設定（歯車）アイコンをクリックして、表示可能列を切り替えます。 テーブルの左側の上にフィルター（ファネル）アイコンをクリックすると、**[!UICONTROL フィルター]** メニューが開き、[!UICONTROL &#x200B; アカウント &#x200B;]、[!UICONTROL &#x200B; ステータス &#x200B;]、[!UICONTROL &#x200B; 目的 &#x200B;] リストから選択して、テーブル内のキャンペーンをフィルタリングできます。
 
-![ チャネルフィルターとテーブル ](/help/assets/insights-channels-filter.png){zoomable="yes"}
+![&#x200B; チャネルフィルターとテーブル &#x200B;](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
-キャンペーンを選択すると、「[[!UICONTROL &#x200B; エクスペリエンス &#x200B;]」タブが開き ](experiences.md) そのキャンペーンに関連付けられた広告名のリストが表示されます。ここから、成功に貢献したエクスペリエンスを特定できます。
+キャンペーンを選択すると、「[[!UICONTROL &#x200B; エクスペリエンス &#x200B;]」タブが開き &#x200B;](experiences.md) そのキャンペーンに関連付けられた広告名のリストが表示されます。ここから、成功に貢献したエクスペリエンスを特定できます。
 
 ## 目的
 

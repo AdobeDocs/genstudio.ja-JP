@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # アクセシブルなテンプレートの作成
 
-Adobeは、すべてのオーディエンスに最適なエクスペリエンスを提供するよう取り組んでいます。 詳しくは、[Adobeでのアクセシビリティイニシアチブ ](https://www.adobe.com/trust/accessibility/initiatives.html) を参照してください。
+Adobeは、すべてのオーディエンスに最適なエクスペリエンスを提供するよう取り組んでいます。 詳しくは、[Adobeでのアクセシビリティイニシアチブ &#x200B;](https://www.adobe.com/trust/accessibility/initiatives.html) を参照してください。
 
 GenStudio for Performance Marketingでは、様々なエクスペリエンスのコンテンツを作成できるアセットとテンプレートをアップロードできます。 アクセシビリティ標準に準拠することで、コンテンツが対象オーディエンスの上限に到達することができます。
 
@@ -26,7 +26,7 @@ GenStudio for Performance Marketingでは、様々なエクスペリエンスの
 <img alt="Collage of ideas, books, man holding giant pencil, computer" src="card-create-assets.png">
 ```
 
-![ アイデア、本、巨大な鉛筆を持つ男、コンピュータのコラージュ ](../../assets/card-create-assets.png){width="400"}
+![&#x200B; アイデア、本、巨大な鉛筆を持つ男、コンピュータのコラージュ &#x200B;](../../assets/card-create-assets.png){width="400"}
 
 ## コントラスト比
 

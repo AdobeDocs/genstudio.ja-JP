@@ -41,7 +41,7 @@ Adobe Experience Manager（AEM）にアセットがある場合は、次の手�
 
 ## 手順 4：アセットの表示の設定
 
-設定オプション _[!DNL AEM Assets Content Hub]_、フィルター、アセットの詳細、検索、ブランディングの設定オプションの各セットを確認します。 [2&rbrace;AEM as a Cloud Service&rbrace; ドキュメントの ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)Content Hub ユーザーインターフェイスの設定_ を参照してください。_
+設定オプション _[!DNL AEM Assets Content Hub]_、フィルター、アセットの詳細、検索、ブランディングの設定オプションの各セットを確認します。 [2&rbrace;AEM as a Cloud Service&rbrace; ドキュメントの &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options)Content Hub ユーザーインターフェイスの設定_ を参照してください。_
 
 ## 手順 5：接続の確認
 

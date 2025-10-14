@@ -15,13 +15,13 @@ ht-degree: 0%
 
 _Handlebars_ テンプレート言語を使用して、Adobe GenStudio for Performance Marketing用のHTMLテンプレートを調整します。 [!DNL Handlebars] の構文では、コンテンツのプレースホルダーとして中括弧を使用した通常のテキストを使用します。 テンプレートの準備方法については、_Handlebars 言語ガイド_ の [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) を参照してください。
 
-次のいくつかの節では、コンテンツプレースホルダーを追加する方法、不要な要素をプレビューから非表示にする方法、静的コンテンツへのリンクを管理する方法について説明します。 テンプレートの準備が整ったら、[GenStudio for Performance Marketingにアップロード ](use-templates.md#upload-a-template)、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
+次のいくつかの節では、コンテンツプレースホルダーを追加する方法、不要な要素をプレビューから非表示にする方法、静的コンテンツへのリンクを管理する方法について説明します。 テンプレートの準備が整ったら、[GenStudio for Performance Marketingにアップロード &#x200B;](use-templates.md#upload-a-template)、カスタムテンプレートに基づいてパーソナライズされたメールの生成を開始できます。
 
 ## コンテンツプレースホルダー
 
-GenStudio for Performance Marketingは、テンプレート内の特定の [ 要素 ](use-templates.md#template-elements) を認識しますが、それは認識されたフィールド名で識別した場合のみです。
+GenStudio for Performance Marketingは、テンプレート内の特定の [&#x200B; 要素 &#x200B;](use-templates.md#template-elements) を認識しますが、それは認識されたフィールド名で識別した場合のみです。
 
-テンプレートの head または body 内では、GenStudio for Performance Marketingに実際のコンテンツをテンプレートに入力させる必要がある場合、[!DNL Handlebars] 構文をコンテンツプレースホルダーとして使用できます。 GenStudio for Performance Marketingは、[ 認識された _field_ name](#recognized-field-names) に基づいてコンテンツプレースホルダーを認識および解釈します。
+テンプレートの head または body 内では、GenStudio for Performance Marketingに実際のコンテンツをテンプレートに入力させる必要がある場合、[!DNL Handlebars] 構文をコンテンツプレースホルダーとして使用できます。 GenStudio for Performance Marketingは、[&#x200B; 認識された _field_ name](#recognized-field-names) に基づいてコンテンツプレースホルダーを認識および解釈します。
 
 例えば、[!DNL Handlebars] の構文で `{{ headline }}` を使用して、メールのヘッドラインを配置する場所を示すことができます。
 
@@ -41,7 +41,7 @@ GenStudio for Performance Marketingは、テンプレート内の特定の [ 要
 | `cta` | コールトゥアクション | メール <br> メタ広告 |
 | `on_image_text` | 画像テキスト上 | メタ広告 |
 | `image` | 画像 | メール <br> メタ広告 |
-| `brand_logo` | 選択したブランドのロゴ <br> 推奨使用については、[ ブランドロゴフィールド名 ](#brand-logo-field-name) を参照してください。 | メールメ <br> タ広告 |
+| `brand_logo` | 選択したブランドのロゴ <br> 推奨使用については、[&#x200B; ブランドロゴフィールド名 &#x200B;](#brand-logo-field-name) を参照してください。 | メールメ <br> タ広告 |
 
 GenStudio for Performance Marketingでは、特定のフィールドに次のテンプレートで自動的に入力されます。
 
@@ -60,7 +60,7 @@ GenStudio for Performance Marketingでは、特定のフィールドに次のテ
 
 >[!TIP]
 >
->GenStudio for Performance Marketingの [ テンプレートプレビュー ](#template-preview) を使用して、テンプレートを検証できます。
+>GenStudio for Performance Marketingの [&#x200B; テンプレートプレビュー &#x200B;](#template-preview) を使用して、テンプレートを検証できます。
 
 #### ブランドロゴフィールド名
 
@@ -116,11 +116,11 @@ GenStudio for Performance Marketingは `pod1_headline` が `pod2_body` よりも
 
 ## テンプレートのプレビュー
 
-[ テンプレートをアップロード ](use-templates.md#upload-a-template) すると、GenStudio for Performance MarketingはHTMLファイルをスキャンして、認識されたフィールドを探します。 プレビューを使用して [ テンプレート要素 ](use-templates.md#template-elements) を確認し、それらが [ 認識されたフィールド名 ](#recognized-field-names) で正しく識別されたことを確認します。
+[&#x200B; テンプレートをアップロード &#x200B;](use-templates.md#upload-a-template) すると、GenStudio for Performance MarketingはHTMLファイルをスキャンして、認識されたフィールドを探します。 プレビューを使用して [&#x200B; テンプレート要素 &#x200B;](use-templates.md#template-elements) を確認し、それらが [&#x200B; 認識されたフィールド名 &#x200B;](#recognized-field-names) で正しく識別されたことを確認します。
 
 メールテンプレートのプレビューの例：
 
-![ プレビューフィールドが検出されました ](../../assets/template-detected-fields.png){width="650"}
+![&#x200B; プレビューフィールドが検出されました &#x200B;](../../assets/template-detected-fields.png){width="650"}
 
 ### プレビューを制御
 
@@ -157,7 +157,7 @@ GenStudio for Performance Marketingは `pod1_headline` が `pod2_body` よりも
 
 +++例：1 つのセクションを持つメールテンプレート
 
-次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [ プレースホルダー ](#content-placeholders) が含まれており、メール生成プロセス中にGenStudio for Performance Marketingでコンテンツを挿入するために使用されます。
+次に、1 つのセクションを含むメールのHTMLテンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のシンプルなインライン CSS が含まれています。 本文には、`pre-header`、`headline`、`image` [&#x200B; プレースホルダー &#x200B;](#content-placeholders) が含まれており、メール生成プロセス中にGenStudio for Performance Marketingでコンテンツを挿入するために使用されます。
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -189,7 +189,7 @@ GenStudio for Performance Marketingは `pod1_headline` が `pod2_body` よりも
 
 +++例：複数のセクションを持つメールテンプレート
 
-以下は、上記の例と同じHTMLテンプレートですが、さらに 2 つのセクションがあります。 ヘッドには、グループのスタイル設定に使用するインライン CSS が含まれています。 本文では、プレフィックスを使用して、[ コンテンツプレースホルダー ](#content-placeholders) を含む 2 つのグループを使用します。
+以下は、上記の例と同じHTMLテンプレートですが、さらに 2 つのセクションがあります。 ヘッドには、グループのスタイル設定に使用するインライン CSS が含まれています。 本文では、プレフィックスを使用して、[&#x200B; コンテンツプレースホルダー &#x200B;](#content-placeholders) を含む 2 つのグループを使用します。
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -245,7 +245,7 @@ GenStudio for Performance Marketingは `pod1_headline` が `pod2_body` よりも
 
 +++例：メタ広告テンプレート
 
-次に、メタ広告テンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のインライン CSS が含まれています。 本文では、プレフィックスを使用して [ コンテンツプレースホルダー ](#content-placeholders) を使用します。
+次に、メタ広告テンプレートの基本的な例を示します。 ヘッドには、スタイル設定用のインライン CSS が含まれています。 本文では、プレフィックスを使用して [&#x200B; コンテンツプレースホルダー &#x200B;](#content-placeholders) を使用します。
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>

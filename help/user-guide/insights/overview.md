@@ -22,13 +22,13 @@ Adobe GenStudio for Performance Marketing [!DNL Insights] は、データに基�
 
 >[!TIP]
 >
->GenStudio for Performance Marketingで現在のマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受信できるようにする手順については、[ チャネルアカウントの接続 ](connect-channel.md) を参照してください。
+>GenStudio for Performance Marketingで現在のマーケティングキャンペーン、アセットおよびエクスペリエンスからデータを受信できるようにする手順については、[&#x200B; チャネルアカウントの接続 &#x200B;](connect-channel.md) を参照してください。
 
 ## ダッシュボード
 
 [!DNL Insights] ダッシュボードには、コンテンツタイプ [!UICONTROL &#x200B; チャネル &#x200B;]、&lbrace; エクスペリエンス 、&lbrace;5[!UICONTROL Assets]、&lbrace; 属性 [!UICONTROL &#x200B; ごとに設定可能なテーブルが &#x200B;] ります。
 
-ダッ ![[!DNL Insights] ボード ](/help/assets/insights-dashboard.png)
+ダッ ![[!DNL Insights] ボード &#x200B;](/help/assets/insights-dashboard.png)
 
 各ビューには、対応するテーブルが表示され、キーワード、フィルタリングおよび日付範囲で検索できます。 テーブルの右側の上にある設定（歯車）アイコンをクリックして、表示可能な列タイプを切り替えることができます。 _[!UICONTROL 概要]_ 行には、列の合計または平均が表示される場合があります。
 
@@ -36,7 +36,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights] は、データに基�
 
 ### チャネル
 
-[!DNL Insights]_[!UICONTROL チャネル]_ ビューはデフォルトのビューで、目標、予算、ローンチ日、アクティビティなど、アクティブなキャンペーンの詳細のリストが表示されます。 [ チャネルの概要 ](channels.md) を参照してください。
+[!DNL Insights]_[!UICONTROL チャネル]_ ビューはデフォルトのビューで、目標、予算、ローンチ日、アクティビティなど、アクティブなキャンペーンの詳細のリストが表示されます。 [&#x200B; チャネルの概要 &#x200B;](channels.md) を参照してください。
 
 ### エクスペリエンス
 
@@ -48,7 +48,7 @@ Adobe GenStudio for Performance Marketing [!DNL Insights] は、データに基�
 
 アセットをクリックすると、様々なエクスペリエンスでのアセットのパフォーマンスに関する詳細なコンテキストが提供されます。
 
-![ 資産の詳細 ](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
+![&#x200B; 資産の詳細 &#x200B;](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 アセットビューの左側には、アセットのサムネールと属性のリストが表示されます。 ハイライト表示された指標は、`Click-through rate`、`Cost per click`、`Spend` の 3 つです。 パフォーマンスハイライトは、選択した期間の実際の値（実線）と平均値（点線）の比較を示します（デフォルトは `Last 30 days`）。
 

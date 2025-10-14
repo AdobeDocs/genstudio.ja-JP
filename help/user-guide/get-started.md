@@ -17,7 +17,7 @@ Adobe GenStudio for Performance Marketingは、ブランドアイデンティテ
 
 関係者のその多くの機能へのアクセスは、割り当てられた _ユーザーの役割_ によって制御されます。 割り当てられたユーザーの役割によって、GenStudio for Performance Marketing内で実行できるタスクが決まります。 Adobeシステム管理者は、Adobe Admin ConsoleのGenStudio for Performance Marketing製品プロファイルで権限を割り当てます。 お知らせメールは、割り当てられた役割を識別します。
 
-ジェネレーティブ AI ベースのツールを初めて使用する場合、またはGenStudio for Performance Marketingの基本原則に興味がある場合は、[ 概念 ](concepts.md) および [ 効果的なプロンプトの記述 ](effective-prompts.md) を参照してください。
+ジェネレーティブ AI ベースのツールを初めて使用する場合、またはGenStudio for Performance Marketingの基本原則に興味がある場合は、[&#x200B; 概念 &#x200B;](concepts.md) および [&#x200B; 効果的なプロンプトの記述 &#x200B;](effective-prompts.md) を参照してください。
 
 ## ユーザーの役割
 
@@ -31,7 +31,7 @@ Adobe GenStudio for Performance Marketingは、ブランドアイデンティテ
 
 * **共同作業者** は、GenStudio for Performance Marketingのユーザーの中で最も幅広い範囲です。 共同作業者は、コンテンツを表示および承認できます。共同作業者は、生成するコンテンツが組織のニーズと標準に一致することを確認するワークフローの重要な役割を果たします。
 
-* **システムマネージャー** は、GenStudio for Performance Marketing内で最も広範な権限を持っています。 システムマネージャーは、キャンペーンアセットの作成とデプロイメントのための基本的なガードレールの確立という、基本的なオンボーディングタスクを実行します。 システムマネージャーは、ブランドや組織固有の情報（[ ブランドガイドライン ](/help/user-guide/guidelines/overview.md) などをアップロードして、これらのガードレールを実装します。 GenStudio for Performance Marketing システムマネージャーは、ブランドを作成して公開する権限を持っていますが、ユーザー管理者権限はありません。
+* **システムマネージャー** は、GenStudio for Performance Marketing内で最も広範な権限を持っています。 システムマネージャーは、キャンペーンアセットの作成とデプロイメントのための基本的なガードレールの確立という、基本的なオンボーディングタスクを実行します。 システムマネージャーは、ブランドや組織固有の情報（[&#x200B; ブランドガイドライン &#x200B;](/help/user-guide/guidelines/overview.md) などをアップロードして、これらのガードレールを実装します。 GenStudio for Performance Marketing システムマネージャーは、ブランドを作成して公開する権限を持っていますが、ユーザー管理者権限はありません。
 
 >[!NOTE]
 >これらのロールにユーザーをプロビジョニングする前に、Adobe Admin ConsoleでAdobeシステム管理者を指定して、1 回限りの設定タスクを実行する必要があります。 このAdobe管理者ロールは、Adobe Admin Consoleのコンテキストでのみ機能します。 GenStudio for Performance Marketingのプラットフォームインターフェイスでは機能しません。
@@ -42,7 +42,7 @@ Adobe GenStudio for Performance Marketingは、ブランドアイデンティテ
 
 編集者は、_プロンプト_ を通じてGenStudio for Performance Marketingの生成 AI テクノロジーとやり取りします。 キャンバスのプロンプト領域には、特定のキャンペーンのガイドラインのコンテキストでプロンプトを配置するツールが用意されています。 その結果、生成されるコンテンツの品質と成功は、組織がアップロードしたブランドガイドラインの品質と、プロンプトの特異性に部分的に依存します。
 
-[ 有効なプロンプトの記述 ](effective-prompts.md) を参照してください。
+[&#x200B; 有効なプロンプトの記述 &#x200B;](effective-prompts.md) を参照してください。
 
 エディターのデフォルトの権限を次の表に示します。
 
@@ -93,7 +93,7 @@ Adobe GenStudio for Performance Marketingは、ブランドアイデンティテ
 
 GenStudio for Performance Marketing システムマネージャーは、編集者と共同作業者がキャンペーンアセットを作成できるように、組織のGenStudio for Performance Marketing環境を準備します。 これらの準備的なセットアップ作業には、次のものが含まれます。
 
-1. [!DNL Brands]、[!DNL Products] および [!DNL Personas] に関する [ ガイドラインを追加 ](./guidelines/overview.md) します。 組織のブランドアイデンティティの主要な構成要素を設定することは、クリエイターや共同作業者の作業に不可欠な前提条件です。 ブランドガイドラインドキュメントをアップロードするか、ブランド情報を手動で入力できます。
+1. [!DNL Brands]、[!DNL Products] および [!DNL Personas] に関する [&#x200B; ガイドラインを追加 &#x200B;](./guidelines/overview.md) します。 組織のブランドアイデンティティの主要な構成要素を設定することは、クリエイターや共同作業者の作業に不可欠な前提条件です。 ブランドガイドラインドキュメントをアップロードするか、ブランド情報を手動で入力できます。
    * **ガイドラインのドキュメントを準備します**。 ブランドガイドラインが説明的で包括的であればあるほど、出力は良くなります。 ブランドに不可欠と考えられる機能の簡単な例を含め、コンテンツの作成から除外する行動の説明を追加します。 GenStudio for Performance Marketingは、アップロードされたこれらのドキュメントから情報を抽出し、ブランドの構築を開始します。 GenStudio for Performance Marketingがアップロードされたドキュメントから各ガイドラインを組み立てると、ブランドボイス、チャネル、画像ガイドラインなどの情報が入力されます。
    * **必要に応じて、ブランドガイドラインフィールドを編集または入力** します。 包括的なブランドガイドラインは、組織のブランドをGenStudio for Performance Marketingで理解するための基礎となります。 GenStudio for Performance Marketingがブランドガイドラインドキュメントから必要な情報を抽出したら、抽出した情報のフィールドを手動で編集または入力するよう求められます。 コンテン [!DNL Product] を追加して、コンテンツ作成の個々の製品フォーカス領域を指定します。 [!DNL Personas] のガイドラインは、定義された顧客セグメント向けにコンテンツを作成する際の調整に役立ちます。
 
